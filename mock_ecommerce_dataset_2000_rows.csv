@@ -1,0 +1,2001 @@
+order_id,customer_id,product_name,category,quantity,unit_price,order_date,payment_method,country
+1,C164,Yoga Mat,Sports,1,33.12,2025-03-26,Debit Card,Germany
+2,C190,Laptop Sleeve,Electronics,1,27.23,2025-06-15,Bank Transfer,Greece
+3,C130,Protein Powder,Sports,1,37.19,2025-06-07,Debit Card,Netherlands
+4,C057,Fitness Tracker,Electronics,5,82.49,2025-03-27,Credit Card,Germany
+5,C040,Bluetooth Speaker,Electronics,3,57.76,2025-02-10,Credit Card,Spain
+6,C155,Phone Case,Electronics,1,17.62,2025-05-12,Credit Card,Spain
+7,C161,Protein Powder,Sports,3,32.55,2025-06-11,Debit Card,Netherlands
+8,C198,Resistance Bands,Sports,1,21.22,2025-03-15,Credit Card,Spain
+9,C094,Water Bottle,Sports,3,14.14,2025-04-15,Debit Card,Netherlands
+10,C166,USB-C Cable,Electronics,5,15.33,2025-06-26,Debit Card,Italy
+11,C098,Phone Case,Electronics,,18.82,2025-03-12,PayPal,Greece
+12,C081,Coffee Mug,Home,3,14.0,2025-01-31,Debit Card,Italy
+13,C168,Tennis Racket,Sports,4,64.12,2025-06-28,Bank Transfer,Germany
+14,C144,Laptop Sleeve,Electronics,3,30.19,2025-06-13,Bank Transfer,Italy
+15,C036,Scented Candle,Home,4,10.22,2025-02-07,Credit Card,Greece
+16,C175,HDMI Cable,Electronics,5,16.76,2025-01-31,Bank Transfer,Spain
+17,C065,Laptop Sleeve,Electronics,1,34.07,2025-07-08,Credit Card,Netherlands
+18,C197,Mechanical Keyboard,Electronics,1,120.63,2025-03-31,Bank Transfer,Germany
+19,C225,Phone Case,Electronics,5,19.38,2025-03-01,Credit Card,Netherlands
+20,C156,Bluetooth Speaker,Electronics,2,64.62,2025-04-20,Debit Card,Italy
+21,C236,Wireless Mouse,Electronics,5,23.88,2025-04-07,Bank Transfer,Greece
+22,C213,Resistance Bands,Sports,2,26.58,2025-01-29,Debit Card,Italy
+23,C125,USB-C Cable,Electronics,5,13.3,2025-02-16,Debit Card,Netherlands
+24,C068,Scented Candle,Home,5,15.04,2025-05-03,Debit Card,Italy
+25,C183,Resistance Bands,Sports,4,26.2,2025-07-05,PayPal,Spain
+26,C064,Notebook Set,Office,1,9.93,2025-04-11,Credit Card,Italy
+27,C002,USB-C Cable,Electronics,1,16.38,2025-03-14,Credit Card,Greece
+28,C061,Phone Case,Electronics,4,24.47,2025-03-10,Debit Card,Netherlands
+29,C122,Notebook Set,Office,4,6.28,2025-04-29,Debit Card,Greece
+30,C109,HDMI Cable,Electronics,4,15.21,2025-01-28,Credit Card,Greece
+31,C221,Yoga Mat,Sports,2,35.59,2025-03-05,Debit Card,Italy
+32,C072,Fitness Tracker,Electronics,2,77.68,2025-02-03,Bank Transfer,Italy
+33,C139,Wireless Mouse,Electronics,1,26.88,2025-03-16,Debit Card,Spain
+34,C103,Running Shoes,Sports,2,89.02,2025-04-22,Credit Card,Spain
+35,C117,Resistance Bands,Sports,4,20.52,2025-07-12,Bank Transfer,Germany
+36,C015,Desk Organizer,Office,5,15.9,2025-01-30,PayPal,Greece
+37,C236,Scented Candle,Home,2,9.55,2025-01-29,Credit Card,Germany
+38,C221,Notebook Set,Office,4,10.26,2025-02-14,Debit Card,Italy
+39,C108,Desk Organizer,Office,5,17.13,2025-05-28,PayPal,France
+40,C062,Phone Case,Electronics,4,19.52,2025-02-17,PayPal,Spain
+41,C019,Wireless Mouse,Electronics,4,27.29,2025-06-23,Credit Card,Greece
+42,C034,Monitor Stand,Office,1,53.26,2025-03-18,PayPal,France
+43,C181,Resistance Bands,Sports,5,25.54,2025-07-01,Credit Card,Netherlands
+44,C170,Yoga Mat,Sports,2,37.94,2025-03-23,Credit Card,Greece
+45,C073,Protein Powder,Sports,2,37.06,2025-04-12,Debit Card,Netherlands
+46,C126,Phone Case,Electronics,1,17.34,2025-02-07,Bank Transfer,France
+47,C034,Phone Case,Electronics,2,17.07,2025-05-08,Bank Transfer,Italy
+48,C227,Desk Lamp,Home,5,46.42,2025-01-24,PayPal,Italy
+49,C011,Resistance Bands,Sports,3,24.46,2025-01-25,PayPal,Germany
+50,C091,Laptop Sleeve,Electronics,4,33.91,2025-06-22,Debit Card,Germany
+51,C208,Water Bottle,Sports,4,19.4,2025-01-21,Debit Card,Netherlands
+52,C106,Notebook Set,Office,3,12.48,2025-02-24,Credit Card,Spain
+53,C057,Bluetooth Speaker,Electronics,4,58.77,2025-04-14,PayPal,Germany
+54,C103,Mechanical Keyboard,Electronics,3,122.13,2025-02-01,PayPal,France
+55,C216,Laptop Sleeve,Electronics,3,28.42,2025-01-22,Credit Card,France
+56,C068,Running Shoes,Sports,1,92.73,2025-06-16,Bank Transfer,France
+57,C156,Scented Candle,Home,1,9.36,2025-04-23,Debit Card,France
+58,C134,Laptop Sleeve,Electronics,2,34.58,2025-04-18,Bank Transfer,Greece
+59,C160,Mechanical Keyboard,Electronics,1,120.27,2025-04-01,PayPal,Netherlands
+60,C076,Laptop Sleeve,Electronics,2,34.51,2025-03-05,Bank Transfer,Netherlands
+61,C232,Water Bottle,Sports,5,,2025-06-09,PayPal,Spain
+62,C074,Bluetooth Speaker,Electronics,4,60.52,2025-06-12,PayPal,Spain
+63,C131,Tennis Racket,Sports,2,66.12,2025-07-02,Credit Card,France
+64,C086,USB-C Cable,Electronics,2,15.95,2025-07-06,PayPal,Germany
+65,C012,Notebook Set,Office,4,8.82,2025-06-20,Credit Card,Spain
+66,C050,Coffee Mug,Home,4,,2025-04-27,Debit Card,Germany
+67,C193,Yoga Mat,Sports,4,36.14,2025-03-12,Debit Card,Netherlands
+68,C064,Yoga Mat,Sports,4,36.25,2025-02-18,Bank Transfer,Netherlands
+69,C082,Fitness Tracker,Electronics,5,80.47,2025-05-24,Bank Transfer,Italy
+70,C221,Tennis Racket,Sports,4,64.22,2025-03-22,Debit Card,Netherlands
+71,C125,Notebook Set,Office,3,7.79,2025-05-07,Credit Card,Netherlands
+72,C082,Laptop Sleeve,Electronics,1,30.05,2025-02-19,Debit Card,Germany
+73,C055,USB-C Cable,Electronics,4,13.23,2025-04-29,PayPal,Italy
+74,C214,HDMI Cable,Electronics,4,,2025-06-13,Credit Card,Italy
+75,C091,Resistance Bands,Sports,4,20.76,2025-05-02,Debit Card,Spain
+76,C008,Coffee Mug,Home,3,8.31,2025-07-05,Bank Transfer,Netherlands
+77,C033,Protein Powder,Sports,5,36.51,2025-01-21,Bank Transfer,IT
+78,C165,HDMI Cable,Electronics,2,14.07,2025-05-13,Debit Card,Greece
+79,C117,Mechanical Keyboard,Electronics,3,119.02,2025-04-22,PayPal,Spain
+80,C005,Laptop Sleeve,Electronics,1,27.54,2025-04-14,Debit Card,Netherlands
+81,C011,Wireless Mouse,Electronics,2,24.21,2025-03-07,Credit Card,Italy
+82,C172,Yoga Mat,Sports,5,34.05,2025-03-11,Bank Transfer,Netherlands
+83,C156,Protein Powder,Sports,1,36.62,2025-02-25,PayPal,Greece
+84,C148,Coffee Mug,Home,4,12.51,2025-03-06,Credit Card,Italy
+85,C027,Resistance Bands,Sports,5,23.26,2025-02-14,Credit Card,France
+86,C018,Scented Candle,Home,3,9.84,2025-01-18,Bank Transfer,Spain
+87,C163,Fitness Tracker,Electronics,2,81.07,2025-05-06,Debit Card,Netherlands
+88,C158,Laptop Sleeve,Electronics,4,31.73,2025-05-14,Bank Transfer,Netherlands
+89,C063,USB-C Cable,Electronics,3,14.06,2025-05-10,Debit Card,Spain
+90,C087,Wireless Mouse,Electronics,4,24.69,2025-04-08,Debit Card,Spain
+91,C088,Phone Case,Electronics,5,17.07,2025-07-13,PayPal,Italy
+92,C022,Notebook Set,Office,4,9.31,2025-05-20,Debit Card,Netherlands
+93,C115,Wireless Mouse,Electronics,1,28.52,2025-03-31,Debit Card,Spain
+94,C149,Monitor Stand,Office,4,59.97,2025-06-05,PayPal,Spain
+95,C091,Fitness Tracker,Electronics,3,77.87,2025-04-03,PayPal,Germany
+96,C031,Laptop Sleeve,Electronics,2,30.86,2025-03-05,Debit Card,Netherlands
+97,C195,Scented Candle,Home,5,11.37,2025-03-28,Credit Card,Germany
+98,C078,Wireless Mouse,Electronics,5,30.78,2025-02-16,PayPal,Greece
+99,C179,Desk Lamp,Home,4,44.27,2025-02-10,Credit Card,Italy
+100,C088,Water Bottle,Sports,1,18.58,2025-03-20,Bank Transfer,Greece
+101,C019,Desk Organizer,Office,1,23.09,2025-02-22,Debit Card,Italy
+102,C064,Yoga Mat,Sports,5,35.04,2025-05-01,Debit Card,Italy
+103,C077,Desk Organizer,Office,4,23.18,2025-04-03,Credit Card,Italy
+104,C196,Bluetooth Speaker,Electronics,2,58.91,2025-03-23,Credit Card,Germany
+105,C041,Wireless Mouse,Electronics,4,23.25,2025-05-10,Bank Transfer,France
+106,C073,Fitness Tracker,Electronics,1,83.2,2025-07-09,Debit Card,France
+107,C170,Bluetooth Speaker,Electronics,4,58.18,2025-02-13,Debit Card,Netherlands
+108,C037,USB-C Cable,Electronics,1,15.49,2025-02-26,PayPal,Italy
+109,C074,Fitness Tracker,Electronics,1,80.12,2025-05-14,PayPal,Netherlands
+110,C139,Tennis Racket,Sports,4,67.88,2025-02-04,Credit Card,Spain
+111,C007,USB-C Cable,Electronics,2,16.07,2025-07-06,Credit Card,Netherlands
+112,C196,Water Bottle,Sports,4,13.45,2025-05-27,Bank Transfer,France
+113,C163,Tennis Racket,Sports,1,64.67,2025-05-15,PayPal,Spain
+114,C220,Water Bottle,Sports,3,17.3,2025-04-30,Bank Transfer,France
+115,C195,Laptop Sleeve,Electronics,1,29.01,2025-05-11,Credit Card,France
+116,C198,Coffee Mug,Home,5,7.42,2025-01-15,Bank Transfer,Spain
+117,C160,Tennis Racket,Sports,4,66.39,2025-01-28,Debit Card,France
+118,C113,Tennis Racket,Sports,1,63.27,2025-01-22,Debit Card,Netherlands
+119,C142,HDMI Cable,Electronics,1,19.57,2025-03-13,Credit Card,Spain
+120,C040,Tennis Racket,Sports,3,68.68,2025-05-25,PayPal,Spain
+121,C063,Fitness Tracker,Electronics,5,84.27,2025-02-21,Bank Transfer,Germany
+122,C226,Desk Lamp,Home,1,49.47,2025-03-26,Bank Transfer,France
+123,C211,Wireless Mouse,Electronics,3,26.56,2025-04-01,Bank Transfer,Germany
+124,C086,Laptop Sleeve,Electronics,5,33.95,2025-04-21,Bank Transfer,France
+125,C062,Desk Organizer,Office,4,18.05,2025-03-15,Bank Transfer,Greece
+126,C234,Coffee Mug,Home,4,14.71,2025-07-03,Debit Card,Spain
+127,C248,Desk Organizer,Office,3,19.71,2025-02-09,Bank Transfer,Greece
+128,C185,Desk Lamp,Home,4,45.76,2025-07-01,Debit Card,Greece
+129,C087,Protein Powder,Sports,4,38.81,2025-06-30,Credit Card,France
+130,C098,Mechanical Keyboard,Electronics,4,117.55,2025-06-02,Credit Card,Italy
+131,C236,Resistance Bands,Sports,2,25.08,2025-02-07,Bank Transfer,Greece
+132,C026,Fitness Tracker,Electronics,2,77.27,2025-07-11,PayPal,Greece
+133,C076,Monitor Stand,Office,3,56.25,2025-05-05,Debit Card,Germany
+134,C203,Water Bottle,Sports,2,18.97,2025-02-28,Credit Card,Italy
+135,C062,Tennis Racket,Sports,5,67.1,2025-02-20,Debit Card,Spain
+136,C171,Wireless Mouse,Electronics,4,26.52,2025-03-29,Debit Card,Greece
+137,C151,Resistance Bands,Sports,4,25.76,2025-07-10,PayPal,Spain
+138,C099,Tennis Racket,Sports,1,64.87,2025-03-16,Bank Transfer,Italy
+139,C180,Resistance Bands,Sports,1,19.06,2025-07-02,Bank Transfer,France
+140,C200,Running Shoes,Sports,5,91.76,2025-05-22,PayPal,Germany
+141,C163,Bluetooth Speaker,Electronics,5,57.77,2025-03-20,Debit Card,Netherlands
+142,C011,Resistance Bands,Sports,4,20.05,2025-01-23,PayPal,Netherlands
+143,C084,HDMI Cable,Electronics,2,19.0,2025-03-07,Debit Card,Italy
+144,C129,Phone Case,Electronics,2,22.96,2025-03-21,Bank Transfer,France
+145,C030,Fitness Tracker,Electronics,1,82.69,2025-02-20,Debit Card,Netherlands
+146,C248,Laptop Sleeve,Electronics,3,29.11,2025-02-07,Bank Transfer,Greece
+147,C095,Phone Case,Electronics,5,22.39,2025-04-22,PayPal,Greece
+148,C159,Laptop Sleeve,Electronics,3,27.5,2025-06-20,Debit Card,Netherlands
+149,C233,Resistance Bands,Sports,4,26.57,2025-02-13,Debit Card,Greece
+150,C127,Yoga Mat,Sports,1,35.63,2025-03-16,Debit Card,Spain
+151,C191,Laptop Sleeve,Electronics,4,32.23,2025-06-14,Debit Card,Spain
+152,C158,HDMI Cable,Electronics,3,15.54,2025-01-23,PayPal,Germany
+153,C219,Monitor Stand,Office,1,59.21,2025-07-09,PayPal,Italy
+154,C016,Coffee Mug,Home,3,7.72,2025-03-04,Credit Card,Spain
+155,C164,Protein Powder,Sports,1,39.9,2025-01-27,PayPal,Germany
+156,C053,USB-C Cable,Electronics,5,12.13,2025-03-09,Debit Card,Germany
+157,C231,Protein Powder,Sports,1,36.31,2025-03-26,Debit Card,Germany
+158,C029,Wireless Mouse,Electronics,2,27.7,2025-01-18,,Germany
+159,C068,Running Shoes,Sports,2,87.41,2025-05-02,Credit Card,Netherlands
+160,C093,Scented Candle,Home,5,10.77,2025-02-11,Bank Transfer,Italy
+161,C187,Scented Candle,Home,3,16.99,2025-05-12,Credit Card,Greece
+162,C110,Yoga Mat,Sports,4,34.58,2025-05-08,Credit Card,Greece
+163,C033,Phone Case,Electronics,5,24.95,2025-06-26,PayPal,Spain
+164,C117,Scented Candle,Home,5,9.92,2025-05-05,Credit Card,Netherlands
+165,C225,Laptop Sleeve,Electronics,2,30.3,2025-05-05,Bank Transfer,Germany
+166,C103,HDMI Cable,Electronics,1,17.31,2025-04-05,Bank Transfer,France
+167,C040,Tennis Racket,Sports,1,65.46,2025-02-07,Credit Card,Greece
+168,C096,Desk Lamp,Home,5,42.98,2025-01-30,PayPal,Netherlands
+169,C171,HDMI Cable,Electronics,1,12.82,2025-03-29,PayPal,France
+170,C040,Tennis Racket,Sports,2,64.94,2025-02-11,PayPal,Italy
+171,C147,Notebook Set,Office,4,12.93,2025-06-07,Credit Card,Italy
+172,C069,Wireless Mouse,Electronics,2,25.8,2025-03-25,PayPal,France
+173,C037,Desk Organizer,Office,,20.57,2025-02-01,Debit Card,Netherlands
+174,C192,Scented Candle,Home,2,11.73,2025-04-21,Bank Transfer,Spain
+175,C185,Mechanical Keyboard,Electronics,5,118.24,2025-06-16,Credit Card,Greece
+176,C013,USB-C Cable,Electronics,3,14.36,2025-05-08,Bank Transfer,Spain
+177,C056,Scented Candle,Home,1,11.27,2025-04-13,Bank Transfer,Greece
+178,C125,Scented Candle,Home,3,16.88,2025-01-26,Debit Card,Spain
+179,C053,Resistance Bands,Sports,2,,2025-02-19,PayPal,France
+180,C192,HDMI Cable,Electronics,2,17.62,2025-02-17,Bank Transfer,Italy
+181,C214,Monitor Stand,Office,1,52.15,2025-04-26,Credit Card,Spain
+182,C221,Mechanical Keyboard,Electronics,5,122.12,2025-05-04,Bank Transfer,Netherlands
+183,C104,Wireless Mouse,Electronics,3,30.35,2025-02-27,Bank Transfer,Netherlands
+184,C217,Yoga Mat,Sports,2,32.63,2025-05-06,Bank Transfer,Italy
+185,C191,Mechanical Keyboard,Electronics,2,121.08,2025-04-10,Debit Card,Greece
+186,C131,Bluetooth Speaker,Electronics,3,57.81,2025-04-14,Debit Card,Germany
+187,C045,Protein Powder,Sports,2,39.6,2025-07-01,Credit Card,Germany
+188,C119,Desk Organizer,Office,5,18.03,2025-05-09,PayPal,Netherlands
+189,C121,Fitness Tracker,Electronics,3,80.96,2025-03-26,Credit Card,France
+190,C116,Running Shoes,Sports,1,92.06,2025-04-19,PayPal,Greece
+191,C024,Protein Powder,Sports,5,36.63,2025-05-24,Bank Transfer,Spain
+192,C190,Running Shoes,Sports,4,91.74,2025-06-10,Debit Card,France
+193,C246,Running Shoes,Sports,4,87.57,2025-02-10,PayPal,Netherlands
+194,C011,Notebook Set,Office,4,8.48,2025-05-07,Debit Card,France
+195,C105,Mechanical Keyboard,Electronics,5,119.64,2025-01-28,PayPal,Greece
+196,C099,Resistance Bands,Sports,3,19.65,2025-07-02,Debit Card,France
+197,C235,Monitor Stand,Office,3,56.76,2025-07-01,Bank Transfer,Germany
+198,C080,Laptop Sleeve,Electronics,4,32.35,2025-06-28,PayPal,Germany
+199,C190,Scented Candle,Home,1,11.89,2025-06-29,Bank Transfer,Italy
+200,C047,Bluetooth Speaker,Electronics,3,64.99,2025-05-19,Debit Card,Germany
+201,C076,Yoga Mat,Sports,5,34.69,2025-06-02,Credit Card,Netherlands
+202,C034,Protein Powder,Sports,4,38.64,2025-02-23,Debit Card,Germany
+203,C208,Water Bottle,Sports,4,17.41,2025-01-26,Bank Transfer,France
+204,C114,Protein Powder,Sports,3,33.9,2025-05-09,Debit Card,Italy
+205,C201,Tennis Racket,Sports,2,68.16,2025-04-19,Bank Transfer,Spain
+206,C129,Scented Candle,Home,4,10.11,2025-02-25,Debit Card,Italy
+207,C165,Tennis Racket,Sports,3,68.77,2025-06-05,Credit Card,Netherlands
+208,C073,USB-C Cable,Electronics,2,10.68,2025-03-25,Bank Transfer,Italy
+209,C243,Notebook Set,Office,4,5.93,2025-04-14,Credit Card,Spain
+210,C061,Coffee Mug,Home,1,9.54,2025-04-20,Debit Card,Greece
+211,C183,Mechanical Keyboard,Electronics,2,124.34,2025-02-19,Credit Card,France
+212,C213,Desk Lamp,Home,4,42.15,2025-05-09,Credit Card,Greece
+213,C039,Laptop Sleeve,Electronics,5,33.2,2025-05-30,Bank Transfer,Greece
+214,C032,Running Shoes,Sports,2,87.79,2025-05-02,Bank Transfer,Greece
+215,C153,Laptop Sleeve,Electronics,1,28.14,2025-06-25,Debit Card,Netherlands
+216,C158,Monitor Stand,Office,2,57.31,2025-06-10,Bank Transfer,Germany
+217,c250,Monitor Stand,Office,1,58.99,2025-05-29,Credit Card,Spain
+218,C100,Monitor Stand,Office,3,54.76,2025-01-19,PayPal,Greece
+219,C161,Yoga Mat,Sports,5,34.82,2025-04-10,Debit Card,Greece
+220,C165,Water Bottle,Sports,4,13.46,2025-07-12,Bank Transfer,Netherlands
+221,C184,Fitness Tracker,Electronics,1,83.23,2025-03-31,Debit Card,Greece
+222,C081,Resistance Bands,Sports,5,19.29,2025-04-26,Bank Transfer,France
+223,C074,Monitor Stand,Office,1,53.0,2025-07-01,PayPal,France
+224,C228,Coffee Mug,Home,4,10.96,2025-04-23,PayPal,Germany
+225,C237,Scented Candle,Home,3,12.44,2025-02-05,Bank Transfer,Greece
+226,C047,Laptop Sleeve,Electronics,3,29.61,2025-04-07,Credit Card,Greece
+227,C115,Protein Powder,Sports,4,35.57,2025-02-26,Bank Transfer,France
+228,C234,Monitor Stand,Office,5,59.84,2025-05-06,PayPal,Netherlands
+229,C020,Coffee Mug,Home,3,8.13,2025-05-26,Debit Card,Greece
+230,C201,Fitness Tracker,Electronics,1,83.13,2025-02-16,Credit Card,Germany
+231,C099,Desk Organizer,Office,1,19.1,2025-06-18,Debit Card,Netherlands
+232,C114,USB-C Cable,Electronics,5,12.02,2025-02-19,PayPal,Spain
+233,C246,Yoga Mat,Sports,1,35.1,2025-03-03,Bank Transfer,Italy
+234,C068,Phone Case,Electronics,4,24.32,2025-03-10,PayPal,Netherlands
+235,C032,Desk Lamp,Home,1,45.56,2025-05-10,Debit Card,Netherlands
+236,C175,Mechanical Keyboard,Electronics,3,123.81,2025-01-31,PayPal,France
+237,C238,Water Bottle,Sports,3,19.88,2025-05-25,Debit Card,Greece
+238,C061,Tennis Racket,Sports,1,68.43,2025-04-17,PayPal,Spain
+239,C157,USB-C Cable,Electronics,1,15.25,2025-04-04,Bank Transfer,Netherlands
+240,C197,HDMI Cable,Electronics,5,17.13,2025-02-02,Debit Card,France
+241,C175,Scented Candle,Home,3,12.46,2025-02-16,Debit Card,Germany
+242,C015,Yoga Mat,Sports,5,33.3,2025-02-23,PayPal,Germany
+243,C058,Monitor Stand,Office,5,53.57,2025-03-28,Credit Card,France
+244,C071,Desk Lamp,Home,3,47.13,2025-06-21,Credit Card,Italy
+245,C149,Desk Lamp,Home,2,42.33,2025-07-02,PayPal,Italy
+246,C021,Running Shoes,Sports,5,90.23,2025-03-23,Debit Card,Italy
+247,C128,Laptop Sleeve,Electronics,3,28.95,2025-06-28,PayPal,Spain
+248,C104,Resistance Bands,Sports,4,22.52,2025-02-02,Credit Card,Germany
+249,C053,Mechanical Keyboard,Electronics,5,119.55,2025-02-20,PayPal,Netherlands
+250,C089,Coffee Mug,Home,2,8.92,2025-04-19,Credit Card,France
+251,C116,Notebook Set,Office,2,13.06,2025-02-08,Credit Card,France
+252,C108,Notebook Set,Office,2,11.6,2025-04-08,PayPal,Germany
+253,C132,Fitness Tracker,Electronics,4,77.62,2025-04-03,Bank Transfer,Greece
+254,C118,Notebook Set,Office,2,5.9,2025-06-13,PayPal,Greece
+255,C226,Tennis Racket,Sports,3,65.45,2025-06-01,Credit Card,Greece
+256,C187,Monitor Stand,Office,4,52.41,2025-04-18,Credit Card,Spain
+257,C093,Laptop Sleeve,Electronics,3,30.59,2025-02-02,Bank Transfer,Italy
+258,C212,Protein Powder,Sports,5,35.14,2025-02-14,Debit Card,Greece
+259,C087,Laptop Sleeve,Electronics,3,31.06,2025-02-20,Debit Card,Italy
+260,C012,Running Shoes,Sports,2,90.56,2025-04-10,Bank Transfer,Italy
+261,C132,Desk Lamp,Home,3,45.14,2025-06-20,PayPal,Germany
+262,C216,Resistance Bands,Sports,5,23.5,2025-04-11,Bank Transfer,Netherlands
+263,C005,Monitor Stand,Office,3,56.67,2025-07-06,Credit Card,Spain
+264,C186,Wireless Mouse,Electronics,5,29.25,2025-05-16,PayPal,Netherlands
+265,C148,Notebook Set,Office,1,9.69,2025-06-13,Bank Transfer,Germany
+266,C199,Coffee Mug,Home,2,11.57,2025-07-08,Debit Card,Greece
+267,C049,Wireless Mouse,Electronics,4,26.29,2025-04-05,Bank Transfer,Germany
+268,C129,Protein Powder,Sports,4,33.65,2025-01-30,Debit Card,Italy
+269,C170,Tennis Racket,Sports,5,65.68,2025-04-21,PayPal,Germany
+270,C140,Monitor Stand,Office,3,59.66,2025-06-20,Bank Transfer,Germany
+271,C077,Notebook Set,Office,3,11.14,2025-03-29,Debit Card,Netherlands
+272,C090,Laptop Sleeve,Electronics,3,32.4,2025-03-29,Credit Card,Italy
+273,C102,Monitor Stand,Office,2,59.64,2025-03-30,Credit Card,France
+274,C237,Fitness Tracker,Electronics,3,83.52,2025-05-17,Debit Card,Germany
+275,C144,Phone Case,Electronics,2,17.4,2025-02-11,Debit Card,Germany
+276,C058,Notebook Set,Office,1,11.24,2025-02-09,Bank Transfer,France
+277,C198,Desk Lamp,Home,1,47.22,2025-06-04,Debit Card,Spain
+278,C122,Tennis Racket,Sports,2,67.17,2025-03-29,PayPal,France
+279,C023,Desk Organizer,Office,2,18.84,2025-05-31,Credit Card,Germany
+280,C240,Running Shoes,Sports,4,94.6,2025-05-21,Debit Card,Netherlands
+281,C225,Running Shoes,Sports,1,89.18,2025-04-01,Credit Card,France
+282,C140,Scented Candle,Home,4,10.54,2025-02-18,Bank Transfer,France
+283,C042,Fitness Tracker,Electronics,3,79.6,2025-03-03,Credit Card,Netherlands
+284,C173,Bluetooth Speaker,Electronics,2,61.11,2025-06-20,Bank Transfer,Spain
+285,C172,Yoga Mat,Sports,2,,2025-02-19,Bank Transfer,France
+286,C099,Notebook Set,Office,4,10.16,2025-03-24,PayPal,France
+287,C067,Monitor Stand,Office,2,54.45,2025-01-30,Credit Card,Spain
+288,C129,Resistance Bands,Sports,1,23.92,2025-06-27,PayPal,France
+289,C035,Tennis Racket,Sports,2,67.62,2025-05-11,PayPal,Spain
+290,C194,Laptop Sleeve,Electronics,2,30.56,2025-03-19,Credit Card,Italy
+291,C020,Desk Organizer,Office,1,19.79,2025-01-30,Debit Card,Italy
+292,C219,Scented Candle,Home,4,13.67,2025-02-13,Debit Card,Netherlands
+293,C131,Fitness Tracker,Electronics,1,80.22,2025-05-11,Debit Card,Italy
+294,C144,Fitness Tracker,Electronics,3,83.43,2025-01-20,Bank Transfer,France
+295,C149,USB-C Cable,Electronics,1,10.01,2025-05-03,PayPal,Netherlands
+296,C240,USB-C Cable,Electronics,4,10.94,2025-01-23,PayPal,Spain
+297,C165,HDMI Cable,Electronics,3,15.0,2025-04-22,Bank Transfer,Spain
+298,C170,Laptop Sleeve,Electronics,2,28.42,2025-07-01,PayPal,Greece
+299,C136,Desk Lamp,Home,2,45.7,2025-01-15,Credit Card,France
+300,C109,Laptop Sleeve,Electronics,4,29.76,2025-03-14,Debit Card,Spain
+301,C240,Yoga Mat,Sports,1,38.13,2025-07-03,Bank Transfer,Italy
+302,C005,Notebook Set,Office,2,5.77,2025-02-01,Credit Card,Italy
+303,C181,Running Shoes,Sports,2,88.77,2025-01-26,Bank Transfer,Spain
+304,C222,Running Shoes,Sports,2,93.43,2025-05-23,PayPal,Germany
+305,C082,Desk Organizer,Office,5,17.91,2025-07-06,PayPal,Germany
+306,C170,Scented Candle,Home,2,9.49,2025-04-30,PayPal,France
+307,C226,Water Bottle,Sports,4,19.78,2025-06-06,Bank Transfer,Greece
+308,C172,Coffee Mug,Home,5,8.18,2025-04-06,Bank Transfer,Spain
+309,C194,Laptop Sleeve,Electronics,4,33.85,2025-03-17,Debit Card,France
+310,C119,Running Shoes,Sports,5,91.14,2025-04-30,Bank Transfer,Italy
+311,C066,Bluetooth Speaker,Electronics,3,63.77,2025-06-29,Credit Card,Spain
+312,C186,Bluetooth Speaker,Electronics,,61.83,2025-03-24,Bank Transfer,Netherlands
+313,C019,Bluetooth Speaker,Electronics,5,58.66,2025-07-05,Debit Card,Spain
+314,C078,Wireless Mouse,Electronics,2,30.99,2025-03-04,Credit Card,Netherlands
+315,C063,Protein Powder,Sports,2,34.56,2025-04-26,Debit Card,Italy
+316,C120,Laptop Sleeve,Electronics,3,31.09,2025-04-03,PayPal,France
+317,C026,Tennis Racket,Sports,3,65.31,2025-03-08,PayPal,France
+318,C057,Desk Lamp,Home,1,43.22,2025-03-22,Bank Transfer,France
+319,C098,Desk Organizer,Office,2,21.61,2025-05-22,PayPal,France
+320,C186,Tennis Racket,Sports,4,63.12,2025-02-27,PayPal,Germany
+321,C048,Laptop Sleeve,Electronics,1,34.55,2025-05-29,Credit Card,Greece
+322,C196,Wireless Mouse,Electronics,4,,2025-02-19,Debit Card,Greece
+323,C130,Fitness Tracker,Electronics,3,,2025-01-30,Bank Transfer,Netherlands
+324,C142,HDMI Cable,Electronics,1,19.81,2025-01-19,,Italy
+325,C209,HDMI Cable,Electronics,2,13.18,2025-02-11,Credit Card,Italy
+326,C135,Phone Case,Electronics,3,19.97,2025-03-24,Bank Transfer,Greece
+327,C145,Notebook Set,Office,2,13.43,2025-04-01,Credit Card,Netherlands
+328,C009,USB-C Cable,Electronics,4,13.31,2025-04-22,Bank Transfer,Italy
+329,C180,Water Bottle,Sports,1,18.28,2025-05-22,Bank Transfer,Netherlands
+330,C220,Yoga Mat,Sports,5,39.21,2025-01-25,Debit Card,Germany
+331,C146,Tennis Racket,Sports,3,69.4,2025-01-26,Credit Card,Netherlands
+332,C145,Running Shoes,Sports,2,91.6,2025-04-05,Credit Card,Germany
+333,C183,Coffee Mug,Home,1,8.91,2025-04-01,Debit Card,Italy
+334,C100,Laptop Sleeve,Electronics,3,32.78,2025-04-23,Debit Card,Netherlands
+335,C250,Monitor Stand,Office,1,58.71,2025-02-09,Bank Transfer,Germany
+336,C197,Protein Powder,Sports,5,37.06,2025-04-26,PayPal,Greece
+337,C116,Tennis Racket,Sports,2,63.49,2025-04-16,Bank Transfer,Spain
+338,C098,USB-C Cable,Electronics,5,10.09,2025-03-31,Debit Card,Netherlands
+339,C098,Desk Lamp,Home,4,42.73,2025-04-06,PayPal,Greece
+340,C114,Monitor Stand,Office,3,53.5,2025-02-10,Debit Card,Greece
+341,C143,Scented Candle,Home,4,11.83,2025-02-10,Credit Card,Greece
+342,C154,Mechanical Keyboard,Electronics,4,120.1,2025-01-18,PayPal,Spain
+343,C231,Laptop Sleeve,Electronics,2,30.04,2025-06-10,Debit Card,Netherlands
+344,C078,Phone Case,Electronics,4,20.47,2025-02-21,Credit Card,Germany
+345,C124,USB-C Cable,Electronics,3,14.5,2025-03-20,Debit Card,Netherlands
+346,C051,Fitness Tracker,Electronics,1,84.49,2025-02-18,PayPal,Greece
+347,C159,Coffee Mug,Home,3,13.51,2025-05-07,PayPal,Spain
+348,C250,Protein Powder,Sports,2,39.57,2025-04-01,PayPal,Italy
+349,C081,Water Bottle,Sports,4,17.56,2025-04-06,PayPal,Netherlands
+350,C148,Notebook Set,Office,3,8.42,2025-04-21,PayPal,Spain
+351,C052,Desk Organizer,Office,5,19.19,2025-03-02,Credit Card,Netherlands
+352,C113,Resistance Bands,Sports,1,24.07,2025-04-29,Bank Transfer,Germany
+353,C169,Desk Lamp,Home,4,49.93,2025-04-21,Credit Card,Spain
+354,C103,Laptop Sleeve,Electronics,5,27.28,2025-07-11,Bank Transfer,Italy
+355,C180,Laptop Sleeve,Electronics,5,33.14,2025-06-27,Credit Card,Greece
+356,C091,Water Bottle,Sports,5,19.73,2025-01-26,Bank Transfer,France
+357,C003,Yoga Mat,Sports,3,34.99,2025-03-12,Debit Card,Spain
+358,C174,Desk Organizer,Office,5,19.36,2025-02-22,PayPal,Greece
+359,C236,USB-C Cable,Electronics,1,12.24,2025-02-20,PayPal,France
+360,C134,Tennis Racket,Sports,3,67.78,2025-05-16,Credit Card,Spain
+361,C018,Resistance Bands,Sports,1,24.18,2025-02-13,Credit Card,France
+362,C043,Notebook Set,Office,5,9.98,2025-02-28,Debit Card,France
+363,C060,Coffee Mug,Home,2,7.22,2025-03-03,Bank Transfer,Spain
+364,C051,Fitness Tracker,Electronics,5,82.54,2025-05-04,Bank Transfer,Greece
+365,C193,USB-C Cable,Electronics,5,12.11,2025-02-10,Debit Card,France
+366,C068,Tennis Racket,Sports,5,65.11,2025-06-27,PayPal,Italy
+367,C030,Monitor Stand,Office,3,57.65,2025-05-12,Debit Card,Netherlands
+368,C158,Desk Organizer,Office,1,16.44,2025-07-06,Debit Card,France
+369,C047,Monitor Stand,Office,2,56.77,2025-05-25,Bank Transfer,Spain
+370,C109,Water Bottle,Sports,4,13.33,2025-06-26,Debit Card,Italy
+371,C048,Mechanical Keyboard,Electronics,4,124.61,2025-06-22,Credit Card,France
+372,C050,Coffee Mug,Home,5,12.47,2025-05-24,Bank Transfer,Spain
+373,C216,Fitness Tracker,Electronics,4,77.15,2025-02-26,Credit Card,Italy
+374,C075,Running Shoes,Sports,3,93.15,2025-03-13,PayPal,Germany
+375,C198,Tennis Racket,Sports,5,62.91,2025-05-25,Credit Card,Italy
+376,C211,Monitor Stand,Office,5,53.75,2025-01-25,Bank Transfer,Italy
+377,C189,Notebook Set,Office,3,8.29,2025-01-23,Bank Transfer,France
+378,C113,Yoga Mat,Sports,2,36.88,2025-03-09,PayPal,Netherlands
+379,C158,Desk Lamp,Home,2,44.81,2025-03-08,Credit Card,Italy
+380,C138,Water Bottle,Sports,3,16.58,2025-07-14,PayPal,France
+381,C132,Yoga Mat,Sports,2,38.94,2025-04-30,Credit Card,France
+382,C222,Desk Lamp,Home,2,48.09,2025-02-21,PayPal,Germany
+383,C126,Desk Lamp,Home,5,45.31,2025-06-25,PayPal,Netherlands
+384,C163,USB-C Cable,Electronics,4,16.99,2025-05-26,PayPal,Netherlands
+385,C244,Tennis Racket,Sports,3,62.75,2025-06-12,Credit Card,Netherlands
+386,C163,Monitor Stand,Office,1,59.75,2025-05-31,Bank Transfer,Germany
+387,C127,Phone Case,Electronics,3,21.61,2025-03-28,PayPal,Italy
+388,C125,Mechanical Keyboard,Electronics,1,123.27,2025-01-26,Credit Card,Netherlands
+389,C032,Water Bottle,Sports,4,13.62,2025-05-11,Credit Card,Spain
+390,C034,Resistance Bands,Sports,2,21.88,2025-03-26,Credit Card,Netherlands
+391,C171,Water Bottle,Sports,1,17.6,2025-04-26,PayPal,Netherlands
+392,C168,USB-C Cable,Electronics,1,10.12,2025-01-15,Debit Card,Spain
+393,C133,Fitness Tracker,Electronics,1,84.81,2025-01-17,PayPal,Greece
+394,C034,Tennis Racket,Sports,1,67.85,2025-03-14,Bank Transfer,Greece
+395,C081,Monitor Stand,Office,3,57.13,2025-02-19,Bank Transfer,Germany
+396,C018,Scented Candle,Home,5,11.81,2025-01-17,Debit Card,Spain
+397,C192,Desk Lamp,Home,4,42.69,2025-06-21,Bank Transfer,Germany
+398,C193,Yoga Mat,Sports,5,34.52,2025-04-23,PayPal,Spain
+399,C071,USB-C Cable,Electronics,2,9.71,2025-06-05,PayPal,Netherlands
+400,C225,Resistance Bands,Sports,2,22.13,2025-05-27,Debit Card,Netherlands
+401,C201,Notebook Set,Office,4,9.5,2025-04-23,Credit Card,Germany
+402,C136,Wireless Mouse,Electronics,3,29.88,2025-04-06,Debit Card,Spain
+403,C094,Laptop Sleeve,Electronics,2,31.69,2025-05-15,,Greece
+404,C056,Running Shoes,Sports,1,92.6,2025-04-26,PayPal,Netherlands
+405,C109,Coffee Mug,Home,1,7.66,2025-06-27,Debit Card,France
+406,C236,Bluetooth Speaker,Electronics,2,61.68,2025-06-01,PayPal,Spain
+407,C167,USB-C Cable,Electronics,3,17.13,2025-07-12,Bank Transfer,Netherlands
+408,C063,USB-C Cable,Electronics,4,14.37,2025-02-13,Bank Transfer,Italy
+409,C190,Water Bottle,Sports,1,12.09,2025-01-18,Debit Card,Netherlands
+410,C089,Scented Candle,Home,5,10.02,2025-03-22,Debit Card,France
+411,C069,Yoga Mat,Sports,1,36.19,2025-04-10,Bank Transfer,France
+412,C250,Desk Organizer,Office,1,18.38,2025-05-22,Bank Transfer,Italy
+413,C146,Water Bottle,Sports,3,19.15,2025-02-24,PayPal,Greece
+414,C030,Notebook Set,Office,5,7.46,2025-01-15,Credit Card,Greece
+415,C099,Desk Lamp,Home,2,44.57,2025-01-24,Bank Transfer,Germany
+416,C185,Mechanical Keyboard,Electronics,3,121.02,2025-02-03,PayPal,Greece
+417,C046,Notebook Set,Office,5,12.52,2025-01-26,Bank Transfer,Greece
+418,C199,Resistance Bands,Sports,3,21.95,2025-02-06,Bank Transfer,Greece
+419,C201,Resistance Bands,Sports,5,23.73,2025-03-18,Bank Transfer,France
+420,C198,Bluetooth Speaker,Electronics,5,64.45,2025-03-18,Debit Card,GR
+421,C139,Monitor Stand,Office,1,55.01,2025-04-10,Credit Card,Netherlands
+422,C079,Yoga Mat,Sports,2,35.94,2025-05-30,Debit Card,Spain
+423,C037,Phone Case,Electronics,1,20.29,2025-01-26,Debit Card,Italy
+424,C118,USB-C Cable,Electronics,5,16.06,2025-02-08,Debit Card,Netherlands
+425,C146,Running Shoes,Sports,4,89.23,2025-07-03,Debit Card,Germany
+426,C238,Coffee Mug,Home,3,8.86,2025-04-06,Bank Transfer,France
+427,C035,Desk Organizer,Office,1,19.1,2025-02-23,Credit Card,Germany
+428,C031,Laptop Sleeve,Electronics,3,30.7,2025-03-09,Bank Transfer,France
+429,C024,Water Bottle,Sports,3,18.69,2025-07-14,Credit Card,Germany
+430,C024,Notebook Set,Office,3,7.89,2025-04-26,Credit Card,Netherlands
+431,C045,Wireless Mouse,Electronics,4,26.69,2025-05-10,Debit Card,Greece
+432,C036,Yoga Mat,Sports,1,33.59,2025-01-30,Debit Card,Germany
+433,C176,USB-C Cable,Electronics,5,9.67,2025-06-14,PayPal,Greece
+434,C232,Fitness Tracker,Electronics,2,77.24,2025-02-07,PayPal,Greece
+435,C044,Desk Organizer,Office,4,18.56,2025-04-26,Bank Transfer,Greece
+436,C091,Bluetooth Speaker,Electronics,,64.06,2025-03-26,PayPal,Spain
+437,C159,Protein Powder,Sports,2,35.29,2025-06-29,PayPal,Spain
+438,C016,USB-C Cable,Electronics,3,11.1,2025-04-23,Debit Card,Spain
+439,C135,Notebook Set,Office,5,8.37,2025-01-19,Bank Transfer,Netherlands
+440,C125,Monitor Stand,Office,5,54.16,2025-05-23,PayPal,SP
+441,C153,Notebook Set,Office,1,9.74,2025-03-27,Credit Card,Spain
+442,C060,Water Bottle,Sports,1,16.27,2025-03-19,Debit Card,France
+443,C189,Running Shoes,Sports,2,94.38,2025-06-11,Bank Transfer,France
+444,C045,Water Bottle,Sports,2,17.58,2025-06-15,PayPal,Netherlands
+445,C008,Monitor Stand,Office,5,59.59,2025-06-08,Debit Card,Italy
+446,C208,Tennis Racket,Sports,5,62.3,2025-04-04,Debit Card,Spain
+447,C155,Notebook Set,Office,1,8.15,2025-05-29,Bank Transfer,Greece
+448,C207,Desk Lamp,Home,3,42.18,2025-03-01,PayPal,Greece
+449,C235,Desk Lamp,Home,1,44.99,2025-05-29,PayPal,Greece
+450,C102,Desk Organizer,Office,1,16.59,2025-04-11,PayPal,France
+451,C243,HDMI Cable,Electronics,4,17.65,2025-06-30,PayPal,Germany
+452,C228,Protein Powder,Sports,3,34.44,2025-03-13,Debit Card,Spain
+453,C033,Water Bottle,Sports,1,12.26,2025-07-13,Bank Transfer,Italy
+454,C236,Protein Powder,Sports,2,33.12,2025-06-27,Credit Card,Spain
+455,C061,Monitor Stand,Office,3,57.36,2025-02-26,Credit Card,Netherlands
+456,C086,Fitness Tracker,Electronics,1,82.45,2025-03-23,Debit Card,Germany
+457,C202,Yoga Mat,Sports,1,37.86,2025-01-27,Bank Transfer,Spain
+458,C227,HDMI Cable,Electronics,4,14.99,2025-04-21,PayPal,Italy
+459,C202,Desk Organizer,Office,,21.89,2025-02-25,Bank Transfer,Greece
+460,C006,Mechanical Keyboard,Electronics,3,118.36,2025-02-10,Credit Card,France
+461,C188,USB-C Cable,Electronics,5,17.38,2025-02-07,PayPal,Italy
+462,C181,Wireless Mouse,Electronics,4,30.11,2025-07-01,Debit Card,Italy
+463,C026,Mechanical Keyboard,Electronics,2,121.43,2025-03-04,Bank Transfer,Netherlands
+464,C139,Phone Case,Electronics,3,17.39,2025-04-01,Debit Card,Greece
+465,C216,Tennis Racket,Sports,2,65.42,2025-01-28,PayPal,Greece
+466,C170,Protein Powder,Sports,4,33.65,2025-03-07,Credit Card,Greece
+467,C021,Tennis Racket,Sports,1,65.91,2025-04-03,Bank Transfer,Spain
+468,C024,Laptop Sleeve,Electronics,4,29.95,2025-03-03,PayPal,Spain
+469,C068,Fitness Tracker,Electronics,4,81.41,2025-03-23,Debit Card,France
+470,C179,Yoga Mat,Sports,1,35.31,2025-07-05,PayPal,Italy
+471,C059,Laptop Sleeve,Electronics,1,32.49,2025-04-24,Bank Transfer,Italy
+472,C147,Notebook Set,Office,4,12.72,2025-04-01,Credit Card,Spain
+473,C129,Desk Organizer,Office,5,23.09,2025-06-10,Debit Card,Greece
+474,C243,Water Bottle,Sports,2,15.39,2025-03-05,Debit Card,Greece
+475,C112,Bluetooth Speaker,Electronics,2,64.28,2025-06-16,PayPal,France
+476,C018,USB-C Cable,Electronics,4,12.11,2025-06-06,Bank Transfer,Italy
+477,C118,Wireless Mouse,Electronics,5,26.31,2025-06-14,Bank Transfer,Greece
+478,C151,Desk Organizer,Office,1,22.44,2025-02-11,Credit Card,France
+479,C225,HDMI Cable,Electronics,,16.86,2025-04-23,Bank Transfer,Italy
+480,C071,Coffee Mug,Home,2,10.16,2025-06-22,Bank Transfer,Greece
+481,C177,Notebook Set,Office,1,5.66,2025-05-16,PayPal,France
+482,C078,Resistance Bands,Sports,3,20.08,2025-05-20,Credit Card,Germany
+483,C114,Mechanical Keyboard,Electronics,3,120.53,2025-05-01,Credit Card,Germany
+484,C105,Tennis Racket,Sports,5,68.33,2025-04-20,Credit Card,Italy
+485,C182,Scented Candle,Home,4,10.54,2025-02-18,Credit Card,Germany
+486,C215,Running Shoes,Sports,2,94.24,2025-01-23,Bank Transfer,Greece
+487,C071,Monitor Stand,Office,4,59.38,2025-05-24,Bank Transfer,Netherlands
+488,C062,Monitor Stand,Office,4,59.68,2025-06-16,Bank Transfer,Germany
+489,C142,Monitor Stand,Office,3,58.65,2025-02-25,PayPal,Netherlands
+490,C008,Coffee Mug,Home,1,12.17,2025-02-25,Debit Card,Germany
+491,C069,HDMI Cable,Electronics,5,19.28,2025-01-20,Credit Card,Spain
+492,C154,Wireless Mouse,Electronics,2,30.73,2025-03-20,PayPal,Netherlands
+493,C109,Coffee Mug,Home,3,10.72,2025-05-12,PayPal,Germany
+494,C212,Protein Powder,Sports,4,36.08,2025-06-13,Credit Card,Greece
+495,C216,Monitor Stand,Office,5,57.48,2025-06-29,PayPal,France
+496,C087,Phone Case,Electronics,3,22.68,2025-03-26,PayPal,Netherlands
+497,C077,Bluetooth Speaker,Electronics,2,63.43,2025-05-27,Debit Card,Greece
+498,C154,Coffee Mug,Home,3,7.19,2025-07-08,Debit Card,Netherlands
+499,C076,Phone Case,Electronics,4,17.27,2025-04-28,Bank Transfer,Netherlands
+500,C147,Bluetooth Speaker,Electronics,3,59.86,2025-03-12,Bank Transfer,Netherlands
+501,C044,Laptop Sleeve,Electronics,2,28.01,2025-03-31,Credit Card,Spain
+502,C207,Laptop Sleeve,Electronics,2,27.7,2025-07-08,PayPal,Netherlands
+503,C191,Resistance Bands,Sports,4,23.68,2025-04-09,PayPal,France
+504,C031,Tennis Racket,Sports,1,69.12,2025-06-26,Credit Card,Spain
+505,C223,Coffee Mug,Home,5,13.96,2025-04-01,Bank Transfer,Greece
+506,C052,Mechanical Keyboard,Electronics,4,119.53,2025-06-09,Bank Transfer,Germany
+507,C200,USB-C Cable,Electronics,4,,2025-04-10,Debit Card,France
+508,C071,Bluetooth Speaker,Electronics,2,63.27,2025-06-11,Debit Card,Spain
+509,C034,Protein Powder,Sports,4,35.42,2025-06-26,Bank Transfer,Spain
+510,C002,Running Shoes,Sports,5,94.04,2025-03-07,PayPal,Greece
+511,C136,Bluetooth Speaker,Electronics,1,62.86,2025-07-07,Credit Card,Netherlands
+512,C225,Monitor Stand,Office,3,56.03,2025-02-17,Credit Card,Spain
+513,C017,Running Shoes,Sports,3,91.06,2025-03-30,Bank Transfer,Netherlands
+514,C112,Desk Lamp,Home,3,43.32,2025-05-20,PayPal,Germany
+515,C208,Coffee Mug,Home,1,14.87,2025-03-14,Debit Card,Netherlands
+516,C006,Desk Organizer,Office,5,21.19,2025-02-27,Credit Card,France
+517,C097,Phone Case,Electronics,5,24.95,2025-06-23,Credit Card,Italy
+518,C168,Wireless Mouse,Electronics,1,26.54,2025-07-10,Credit Card,Spain
+519,C065,Tennis Racket,Sports,2,65.37,2025-03-08,Credit Card,France
+520,C134,Phone Case,Electronics,5,23.64,2025-06-19,Debit Card,Spain
+521,C185,Protein Powder,Sports,1,35.97,2025-03-28,Credit Card,Greece
+522,C200,Phone Case,Electronics,5,20.27,2025-03-07,PayPal,Netherlands
+523,C141,Tennis Racket,Sports,2,63.88,2025-07-10,,France
+524,C023,Yoga Mat,Sports,5,39.6,2025-07-05,Bank Transfer,Germany
+525,C020,Yoga Mat,Sports,3,39.91,2025-06-28,Debit Card,Spain
+526,C119,Running Shoes,Sports,1,89.78,2025-02-28,Credit Card,France
+527,C110,Yoga Mat,Sports,1,37.31,2025-01-26,Credit Card,Germany
+528,C092,Fitness Tracker,Electronics,5,83.42,2025-03-24,Credit Card,France
+529,C103,Coffee Mug,Home,4,13.8,2025-03-25,Bank Transfer,Netherlands
+530,C167,Water Bottle,Sports,1,12.83,2025-02-17,Credit Card,Germany
+531,C124,Desk Organizer,Office,4,20.39,2025-03-02,Bank Transfer,France
+532,C226,Desk Lamp,Home,4,45.53,2025-05-19,Credit Card,Spain
+533,C168,Mechanical Keyboard,Electronics,1,123.99,2025-07-14,Debit Card,Netherlands
+534,C177,Protein Powder,Sports,1,34.76,2025-05-05,Debit Card,Spain
+535,C099,Desk Lamp,Home,5,47.15,2025-06-20,Credit Card,Greece
+536,C218,Tennis Racket,Sports,4,64.57,2025-02-26,Credit Card,Spain
+537,C072,Running Shoes,Sports,5,93.44,2025-03-13,Bank Transfer,Spain
+538,C114,Desk Organizer,Office,4,18.03,2025-02-06,Bank Transfer,Spain
+539,C191,Wireless Mouse,Electronics,1,,2025-04-28,Bank Transfer,Greece
+540,C024,Protein Powder,Sports,5,36.49,2025-06-27,PayPal,Italy
+541,C117,Mechanical Keyboard,Electronics,3,119.66,2025-01-28,Debit Card,Spain
+542,C154,Tennis Racket,Sports,3,68.07,2025-05-10,Credit Card,Greece
+543,C088,Monitor Stand,Office,3,52.85,2025-06-04,PayPal,Netherlands
+544,C127,Desk Lamp,Home,4,43.57,2025-02-11,PayPal,Italy
+545,C219,Coffee Mug,Home,2,9.69,2025-05-12,Debit Card,Netherlands
+546,C012,Desk Organizer,Office,1,20.21,2025-05-10,Bank Transfer,Netherlands
+547,C247,Tennis Racket,Sports,1,69.48,2025-05-30,Credit Card,Italy
+548,C124,Scented Candle,Home,2,15.52,2025-07-11,Debit Card,Netherlands
+549,C169,Protein Powder,Sports,5,39.83,2025-04-07,Bank Transfer,Spain
+550,C196,Notebook Set,Office,3,9.12,2025-04-26,PayPal,France
+551,C106,Protein Powder,Sports,5,37.88,2025-04-01,PayPal,Netherlands
+552,C056,Bluetooth Speaker,Electronics,2,59.75,2025-06-23,PayPal,Netherlands
+553,C182,Water Bottle,Sports,5,12.92,2025-06-02,PayPal,Netherlands
+554,C123,Desk Organizer,Office,5,21.48,2025-07-04,Bank Transfer,Netherlands
+555,C074,HDMI Cable,Electronics,1,15.04,2025-05-28,Credit Card,Greece
+556,C015,Bluetooth Speaker,Electronics,3,58.99,2025-02-25,PayPal,Netherlands
+557,C177,Resistance Bands,Sports,2,25.51,2025-06-02,Credit Card,France
+558,C223,Laptop Sleeve,Electronics,2,31.08,2025-06-29,Bank Transfer,Germany
+559,C179,Resistance Bands,Sports,1,26.65,2025-04-22,Bank Transfer,Spain
+560,C081,Laptop Sleeve,Electronics,1,31.95,2025-01-18,PayPal,Germany
+561,C223,Fitness Tracker,Electronics,2,81.27,2025-06-26,PayPal,Italy
+562,C199,Bluetooth Speaker,Electronics,3,57.59,2025-05-09,Debit Card,Netherlands
+563,C189,Scented Candle,Home,1,11.23,2025-04-21,Credit Card,Spain
+564,C042,Desk Organizer,Office,3,21.18,2025-01-16,PayPal,Spain
+565,C040,Mechanical Keyboard,Electronics,5,123.32,2025-01-28,PayPal,Spain
+566,C019,Mechanical Keyboard,Electronics,5,117.55,2025-03-12,Debit Card,Italy
+567,C107,Laptop Sleeve,Electronics,5,28.76,2025-04-28,Credit Card,France
+568,C085,Mechanical Keyboard,Electronics,3,121.24,2025-03-31,Debit Card,Italy
+569,C211,Wireless Mouse,Electronics,1,24.91,2025-07-05,PayPal,Spain
+570,C236,Protein Powder,Sports,2,39.32,2025-01-25,PayPal,Spain
+571,C099,Phone Case,Electronics,5,23.57,2025-03-28,Credit Card,Italy
+572,C206,Scented Candle,Home,4,16.19,2025-05-19,Credit Card,France
+573,C132,USB-C Cable,Electronics,1,10.02,2025-02-26,Credit Card,Netherlands
+574,C199,Bluetooth Speaker,Electronics,4,63.62,2025-02-10,Debit Card,Italy
+575,C190,HDMI Cable,Electronics,1,15.66,2025-07-09,Debit Card,Greece
+576,C023,USB-C Cable,Electronics,1,10.06,2025-03-01,PayPal,Italy
+577,C234,Phone Case,Electronics,4,20.23,2025-04-24,Bank Transfer,Netherlands
+578,C100,Yoga Mat,Sports,5,36.68,2025-01-16,Credit Card,Netherlands
+579,C019,Monitor Stand,Office,5,54.41,2025-02-11,PayPal,Netherlands
+580,C196,Fitness Tracker,Electronics,4,78.15,2025-04-26,Credit Card,Spain
+581,C192,Coffee Mug,Home,5,12.41,2025-03-31,Debit Card,France
+582,C204,Monitor Stand,Office,1,52.33,2025-06-05,Debit Card,Greece
+583,C101,Laptop Sleeve,Electronics,5,32.98,2025-02-05,PayPal,Germany
+584,C089,Bluetooth Speaker,Electronics,4,58.46,2025-06-29,Debit Card,Germany
+585,C065,Bluetooth Speaker,Electronics,1,60.68,2025-03-02,Credit Card,Italy
+586,C075,USB-C Cable,Electronics,3,14.14,2025-02-09,Debit Card,Netherlands
+587,C092,Desk Lamp,Home,2,42.56,2025-02-09,PayPal,Italy
+588,C125,Fitness Tracker,Electronics,3,81.57,2025-06-21,PayPal,Netherlands
+589,C094,Mechanical Keyboard,Electronics,4,118.97,2025-02-27,Credit Card,France
+590,C190,HDMI Cable,Electronics,3,17.85,2025-04-17,Debit Card,Netherlands
+591,C119,Fitness Tracker,Electronics,3,77.77,2025-04-03,Bank Transfer,Italy
+592,C021,Phone Case,Electronics,2,22.86,2025-06-01,Debit Card,France
+593,C187,USB-C Cable,Electronics,1,14.13,2025-05-24,Credit Card,Italy
+594,C055,Running Shoes,Sports,5,93.1,2025-03-22,Bank Transfer,Netherlands
+595,C058,Desk Organizer,Office,3,19.58,2025-02-18,Bank Transfer,Italy
+596,C129,Wireless Mouse,Electronics,2,24.11,2025-06-21,Debit Card,Italy
+597,C145,Desk Organizer,Office,2,17.25,2025-05-18,PayPal,Greece
+598,C017,Phone Case,Electronics,3,18.64,2025-03-15,Credit Card,Netherlands
+599,C093,Coffee Mug,Home,4,14.83,2025-05-11,Credit Card,Greece
+600,C181,Scented Candle,Home,3,14.23,2025-03-23,Debit Card,Spain
+601,C168,USB-C Cable,Electronics,5,13.63,2025-03-20,Bank Transfer,Germany
+602,C223,Monitor Stand,Office,4,59.06,2025-05-18,Credit Card,Italy
+603,C059,USB-C Cable,Electronics,5,10.7,2025-06-28,PayPal,Germany
+604,C155,Yoga Mat,Sports,2,32.91,2025-05-01,PayPal,Netherlands
+605,C123,Bluetooth Speaker,Electronics,5,58.94,2025-02-25,Bank Transfer,Greece
+606,C152,Water Bottle,Sports,2,13.17,2025-06-25,Credit Card,Italy
+607,C237,Water Bottle,Sports,5,17.82,2025-04-28,Credit Card,Netherlands
+608,C243,USB-C Cable,Electronics,2,10.86,2025-05-09,Bank Transfer,Spain
+609,C154,Desk Lamp,Home,5,47.79,2025-03-02,PayPal,Germany
+610,C117,Protein Powder,Sports,5,35.07,2025-02-01,Debit Card,Spain
+611,C052,Scented Candle,Home,5,13.84,2025-07-09,Bank Transfer,Germany
+612,C231,Protein Powder,Sports,5,35.85,2025-01-24,Credit Card,Greece
+613,C155,Laptop Sleeve,Electronics,1,30.36,2025-07-07,Bank Transfer,Italy
+614,C179,Scented Candle,Home,4,11.8,2025-03-14,Bank Transfer,Spain
+615,C233,Desk Organizer,Office,1,19.32,2025-05-03,Debit Card,France
+616,C220,USB-C Cable,Electronics,3,11.01,2025-06-17,Bank Transfer,France
+617,C203,Wireless Mouse,Electronics,5,23.05,2025-05-28,Credit Card,Italy
+618,C177,Mechanical Keyboard,Electronics,4,120.41,2025-04-17,Credit Card,Germany
+619,C067,Laptop Sleeve,Electronics,4,29.19,2025-06-08,PayPal,Italy
+620,C194,Bluetooth Speaker,Electronics,4,59.95,2025-06-05,Bank Transfer,Germany
+621,C065,Resistance Bands,Sports,5,20.1,2025-04-13,Bank Transfer,Netherlands
+622,C031,Notebook Set,Office,4,7.22,2025-07-13,Debit Card,Greece
+623,C087,Laptop Sleeve,Electronics,5,30.1,2025-07-12,Credit Card,Germany
+624,C206,USB-C Cable,Electronics,2,10.01,2025-05-15,Bank Transfer,Greece
+625,C021,Protein Powder,Sports,1,37.24,2025-04-23,Bank Transfer,Italy
+626,C247,Protein Powder,Sports,1,32.08,2025-02-28,Bank Transfer,Spain
+627,C239,Scented Candle,Home,3,13.08,2025-03-05,Credit Card,Italy
+628,C158,Water Bottle,Sports,1,12.0,2025-04-17,Debit Card,Netherlands
+629,C071,Coffee Mug,Home,3,11.68,2025-07-05,Bank Transfer,Spain
+630,C189,USB-C Cable,Electronics,1,16.14,2025-06-04,PayPal,Netherlands
+631,C090,Monitor Stand,Office,3,59.44,2025-03-13,Debit Card,Spain
+632,C067,Water Bottle,Sports,4,12.58,2025-05-24,Credit Card,Italy
+633,C243,Yoga Mat,Sports,5,35.54,2025-03-21,PayPal,Netherlands
+634,C124,Notebook Set,Office,3,12.4,2025-05-12,Bank Transfer,Italy
+635,C067,USB-C Cable,Electronics,4,15.11,2025-06-26,Debit Card,Netherlands
+636,C106,Monitor Stand,Office,5,58.66,2025-06-01,Credit Card,Netherlands
+637,C024,Coffee Mug,Home,3,9.5,2025-02-03,Debit Card,Spain
+638,C147,Phone Case,Electronics,2,22.89,2025-07-08,Debit Card,Spain
+639,C062,Phone Case,Electronics,2,23.68,2025-03-14,Debit Card,Germany
+640,C200,Yoga Mat,Sports,1,32.05,2025-02-04,Bank Transfer,Italy
+641,C246,Running Shoes,Sports,4,94.08,2025-04-20,PayPal,Spain
+642,C148,Phone Case,Electronics,4,18.77,2025-03-02,PayPal,Spain
+643,C014,Scented Candle,Home,4,11.78,2025-05-17,Credit Card,Italy
+644,C199,Water Bottle,Sports,4,17.51,2025-02-14,,France
+645,C054,Coffee Mug,Home,5,11.89,2025-02-09,PayPal,France
+646,C141,Phone Case,Electronics,2,19.73,2025-03-24,Bank Transfer,Italy
+647,C109,Bluetooth Speaker,Electronics,4,63.82,2025-07-13,PayPal,France
+648,C047,Desk Organizer,Office,2,21.27,2025-06-11,Debit Card,Greece
+649,C143,HDMI Cable,Electronics,4,13.19,2025-03-06,Debit Card,Netherlands
+650,C046,HDMI Cable,Electronics,4,14.39,2025-02-18,PayPal,Spain
+651,C146,Running Shoes,Sports,4,88.62,2025-02-09,Debit Card,Greece
+652,C215,Yoga Mat,Sports,4,34.88,2025-04-10,PayPal,France
+653,C208,Phone Case,Electronics,3,19.8,2025-01-20,Bank Transfer,Greece
+654,C156,Bluetooth Speaker,Electronics,5,59.83,2025-06-11,Debit Card,France
+655,C125,Fitness Tracker,Electronics,1,81.95,2025-04-22,PayPal,Spain
+656,C043,Mechanical Keyboard,Electronics,4,117.63,2025-06-25,Bank Transfer,Greece
+657,C081,Mechanical Keyboard,Electronics,3,124.1,2025-03-24,Bank Transfer,France
+658,C241,Monitor Stand,Office,5,53.34,2025-05-28,Bank Transfer,Spain
+659,C033,Notebook Set,Office,3,6.84,2025-07-13,Credit Card,Germany
+660,C017,Tennis Racket,Sports,5,66.19,2025-01-28,Credit Card,Spain
+661,C027,Phone Case,Electronics,5,24.44,2025-02-23,Credit Card,Netherlands
+662,C059,Notebook Set,Office,3,9.71,2025-05-08,Debit Card,Germany
+663,C009,Monitor Stand,Office,3,59.48,2025-05-16,Bank Transfer,Italy
+664,C035,Laptop Sleeve,Electronics,2,32.98,2025-06-15,Bank Transfer,Netherlands
+665,C112,Scented Candle,Home,5,13.32,2025-04-04,PayPal,Spain
+666,C114,Resistance Bands,Sports,3,,2025-04-30,PayPal,Germany
+667,C209,Desk Lamp,Home,3,42.07,2025-03-29,Bank Transfer,Italy
+668,C243,Tennis Racket,Sports,3,66.78,2025-01-17,Bank Transfer,France
+669,C141,Monitor Stand,Office,2,54.0,2025-04-30,Bank Transfer,Spain
+670,C166,Coffee Mug,Home,4,10.37,2025-03-12,PayPal,Greece
+671,C196,Protein Powder,Sports,3,33.49,2025-03-28,PayPal,Spain
+672,C035,Resistance Bands,Sports,1,22.62,2025-06-27,Bank Transfer,Italy
+673,C126,Bluetooth Speaker,Electronics,3,64.75,2025-01-19,Debit Card,GR
+674,C249,Yoga Mat,Sports,3,,2025-03-24,Debit Card,Netherlands
+675,C024,Desk Lamp,Home,1,45.36,2025-05-21,Debit Card,France
+676,C128,Monitor Stand,Office,4,52.64,2025-07-12,Credit Card,France
+677,C038,Running Shoes,Sports,3,90.66,2025-04-25,Credit Card,Italy
+678,C216,Phone Case,Electronics,4,18.98,2025-01-18,Credit Card,Netherlands
+679,C114,Notebook Set,Office,1,11.67,2025-03-06,Bank Transfer,Netherlands
+680,C054,Tennis Racket,Sports,4,63.27,2025-07-08,PayPal,France
+681,C191,Laptop Sleeve,Electronics,5,32.1,2025-02-15,PayPal,Spain
+682,C228,Running Shoes,Sports,2,90.37,2025-02-12,,Netherlands
+683,c204,Phone Case,Electronics,5,17.06,2025-02-14,Bank Transfer,Germany
+684,C201,Tennis Racket,Sports,5,63.99,2025-02-23,PayPal,Greece
+685,C176,Protein Powder,Sports,3,34.83,2025-06-24,Credit Card,Greece
+686,C138,Yoga Mat,Sports,2,39.85,2025-05-19,Debit Card,France
+687,C194,Monitor Stand,Office,4,55.02,2025-03-05,Credit Card,Netherlands
+688,C065,Running Shoes,Sports,4,89.26,2025-07-14,Bank Transfer,Italy
+689,C049,Desk Organizer,Office,2,21.36,2025-06-03,PayPal,France
+690,C213,Protein Powder,Sports,5,33.23,2025-02-25,Credit Card,Italy
+691,C068,Laptop Sleeve,Electronics,3,31.04,2025-05-11,Credit Card,Netherlands
+692,C227,Wireless Mouse,Electronics,5,28.76,2025-04-18,Debit Card,France
+693,C138,Coffee Mug,Home,2,8.22,2025-05-29,Bank Transfer,Italy
+694,C105,Mechanical Keyboard,Electronics,1,123.68,2025-02-08,Credit Card,Greece
+695,C224,Running Shoes,Sports,2,87.69,2025-02-11,Bank Transfer,Germany
+696,C215,Coffee Mug,Home,4,9.92,2025-05-29,PayPal,Greece
+697,C019,Wireless Mouse,Electronics,2,26.73,2025-07-01,Bank Transfer,Greece
+698,c093,Laptop Sleeve,Electronics,4,29.12,2025-04-19,Credit Card,Italy
+699,C019,Resistance Bands,Sports,1,24.8,2025-03-11,Credit Card,Greece
+700,C049,Bluetooth Speaker,Electronics,5,61.99,2025-07-02,Debit Card,Italy
+701,C192,Laptop Sleeve,Electronics,4,30.66,2025-02-11,PayPal,Netherlands
+702,C227,Yoga Mat,Sports,2,34.7,2025-03-02,Bank Transfer,Italy
+703,C154,Fitness Tracker,Electronics,3,80.2,2025-04-05,PayPal,France
+704,C212,Mechanical Keyboard,Electronics,5,123.13,2025-03-17,Debit Card,Spain
+705,C066,Monitor Stand,Office,4,57.81,2025-05-09,Bank Transfer,Greece
+706,C153,Wireless Mouse,Electronics,5,25.39,2025-02-18,PayPal,Greece
+707,C220,Mechanical Keyboard,Electronics,1,121.09,2025-07-10,PayPal,Italy
+708,C147,Desk Lamp,Home,1,43.25,2025-01-24,Bank Transfer,France
+709,C228,Desk Organizer,Office,2,16.24,2025-03-15,PayPal,France
+710,C235,Bluetooth Speaker,Electronics,1,60.9,2025-04-08,Bank Transfer,Germany
+711,C180,Desk Organizer,Office,1,21.35,2025-06-16,PayPal,Greece
+712,C021,Running Shoes,Sports,3,94.34,2025-04-14,Bank Transfer,Spain
+713,c198,Notebook Set,Office,5,7.94,2025-01-17,Bank Transfer,Greece
+714,C139,Desk Organizer,Office,2,15.9,2025-04-08,Debit Card,Germany
+715,C101,Fitness Tracker,Electronics,5,80.36,2025-06-11,Credit Card,Germany
+716,C038,Desk Lamp,Home,3,47.96,2025-02-05,Bank Transfer,Italy
+717,C068,USB-C Cable,Electronics,4,10.54,2025-05-23,Bank Transfer,Netherlands
+718,C144,Bluetooth Speaker,Electronics,4,61.92,2025-04-26,Debit Card,Italy
+719,C064,Notebook Set,Office,1,10.98,2025-03-24,Bank Transfer,France
+720,C029,HDMI Cable,Electronics,4,14.56,2025-04-18,PayPal,Germany
+721,c007,Resistance Bands,Sports,2,20.17,2025-04-14,Bank Transfer,Italy
+722,C210,Notebook Set,Office,2,11.56,2025-07-09,PayPal,Germany
+723,C029,Running Shoes,Sports,2,87.01,2025-06-22,Debit Card,France
+724,C029,Resistance Bands,Sports,4,20.67,2025-05-15,Credit Card,France
+725,C053,Laptop Sleeve,Electronics,5,32.83,2025-03-22,Bank Transfer,Italy
+726,C179,Wireless Mouse,Electronics,4,24.35,2025-06-13,Credit Card,France
+727,C203,Protein Powder,Sports,3,39.55,2025-01-28,Bank Transfer,Netherlands
+728,C170,Phone Case,Electronics,3,23.93,2025-02-11,Credit Card,France
+729,C060,Coffee Mug,Home,5,13.92,2025-02-09,PayPal,Spain
+730,C048,Bluetooth Speaker,Electronics,5,58.97,2025-05-12,Credit Card,Greece
+731,C086,Tennis Racket,Sports,4,67.47,2025-02-24,Credit Card,France
+732,C078,Notebook Set,Office,5,7.56,2025-03-26,Credit Card,Netherlands
+733,C209,Wireless Mouse,Electronics,5,25.72,2025-03-27,Debit Card,Germany
+734,C036,USB-C Cable,Electronics,4,11.42,2025-05-28,Debit Card,Spain
+735,C249,Resistance Bands,Sports,5,20.05,2025-04-09,Bank Transfer,Italy
+736,C149,Laptop Sleeve,Electronics,2,32.63,2025-02-19,PayPal,Netherlands
+737,C035,HDMI Cable,Electronics,2,12.53,2025-07-01,Debit Card,France
+738,C185,Yoga Mat,Sports,2,32.24,2025-04-06,Debit Card,Netherlands
+739,C250,HDMI Cable,Electronics,4,19.46,2025-04-02,Bank Transfer,Netherlands
+740,C239,Phone Case,Electronics,2,18.47,2025-03-04,Credit Card,Germany
+741,C157,Protein Powder,Sports,3,33.85,2025-06-19,Debit Card,Italy
+742,C092,USB-C Cable,Electronics,4,14.7,2025-02-18,Bank Transfer,Netherlands
+743,C100,Tennis Racket,Sports,4,63.81,2025-02-19,Debit Card,Germany
+744,C249,Wireless Mouse,Electronics,3,28.36,2025-04-30,Debit Card,Netherlands
+745,C053,USB-C Cable,Electronics,2,12.1,2025-05-07,Bank Transfer,Netherlands
+746,C064,HDMI Cable,Electronics,4,14.49,2025-01-25,Bank Transfer,Netherlands
+747,C191,Desk Organizer,Office,5,16.37,2025-06-01,Credit Card,Italy
+748,C225,Running Shoes,Sports,2,87.21,2025-05-27,Bank Transfer,Netherlands
+749,C196,Running Shoes,Sports,2,93.98,2025-03-30,Bank Transfer,Spain
+750,C074,Fitness Tracker,Electronics,2,84.25,2025-05-03,PayPal,Italy
+751,C232,Desk Lamp,Home,4,47.78,2025-06-29,Bank Transfer,Greece
+752,C200,Desk Organizer,Office,5,18.09,2025-02-18,Bank Transfer,SP
+753,C117,Desk Organizer,Office,2,18.09,2025-05-11,Credit Card,France
+754,C183,Water Bottle,Sports,1,15.6,2025-02-07,Credit Card,Netherlands
+755,c135,Coffee Mug,Home,5,11.39,2025-06-20,Debit Card,Spain
+756,C044,Mechanical Keyboard,Electronics,5,123.95,2025-07-02,Debit Card,Germany
+757,C183,Running Shoes,Sports,4,93.05,2025-04-03,PayPal,Netherlands
+758,C161,Water Bottle,Sports,1,16.98,2025-02-17,Debit Card,Greece
+759,C118,Tennis Racket,Sports,4,69.06,2025-06-03,Credit Card,Italy
+760,C151,Tennis Racket,Sports,4,,2025-04-29,Bank Transfer,Greece
+761,C226,Laptop Sleeve,Electronics,3,28.47,2025-06-22,Debit Card,Greece
+762,c090,Running Shoes,Sports,2,94.26,2025-01-23,PayPal,France
+763,C107,Water Bottle,Sports,2,17.29,2025-07-06,PayPal,Italy
+764,C147,Laptop Sleeve,Electronics,2,27.74,2025-05-11,PayPal,Greece
+765,C095,Coffee Mug,Home,1,10.76,2025-05-04,Credit Card,France
+766,C221,Phone Case,Electronics,3,18.67,2025-05-29,Bank Transfer,Italy
+767,C015,Yoga Mat,Sports,5,37.79,2025-06-25,Credit Card,Spain
+768,C202,Resistance Bands,Sports,4,23.2,2025-06-19,PayPal,France
+769,C091,Desk Lamp,Home,5,47.83,2025-06-08,Bank Transfer,Italy
+770,C207,Water Bottle,Sports,5,12.01,2025-03-15,PayPal,GE
+771,C161,Yoga Mat,Sports,2,32.36,2025-06-21,Bank Transfer,Spain
+772,C207,Bluetooth Speaker,Electronics,1,59.24,2025-06-27,Debit Card,Netherlands
+773,C079,Resistance Bands,Sports,5,19.91,2025-06-04,PayPal,Greece
+774,C102,Desk Organizer,Office,5,18.14,2025-01-22,Debit Card,Germany
+775,C173,Tennis Racket,Sports,4,63.24,2025-01-24,Debit Card,Spain
+776,C222,Laptop Sleeve,Electronics,3,27.44,2025-05-13,Bank Transfer,Netherlands
+777,C145,Mechanical Keyboard,Electronics,5,121.62,2025-06-01,Credit Card,Germany
+778,C235,Monitor Stand,Office,1,54.71,2025-02-22,PayPal,Greece
+779,C137,Water Bottle,Sports,5,16.76,2025-06-19,Bank Transfer,Germany
+780,C193,Resistance Bands,Sports,3,19.69,2025-01-23,PayPal,Spain
+781,C096,Fitness Tracker,Electronics,3,77.8,2025-03-11,PayPal,Germany
+782,C200,Bluetooth Speaker,Electronics,1,64.23,2025-05-08,Credit Card,Spain
+783,C088,Tennis Racket,Sports,5,68.16,2025-04-04,PayPal,Germany
+784,C241,Scented Candle,Home,2,12.1,2025-03-08,Credit Card,Spain
+785,c030,Wireless Mouse,Electronics,3,26.73,2025-01-26,Credit Card,France
+786,C134,Resistance Bands,Sports,1,26.14,2025-06-11,PayPal,Netherlands
+787,C050,Resistance Bands,Sports,3,24.37,2025-05-31,PayPal,Spain
+788,C041,Phone Case,Electronics,1,21.33,2025-01-18,Credit Card,Germany
+789,C070,Desk Lamp,Home,3,42.57,2025-06-10,Debit Card,Germany
+790,C087,Laptop Sleeve,Electronics,4,30.76,2025-01-27,Debit Card,Greece
+791,C028,Coffee Mug,Home,1,8.42,2025-02-06,Bank Transfer,Spain
+792,C152,Fitness Tracker,Electronics,5,83.44,2025-04-16,PayPal,France
+793,C172,Laptop Sleeve,Electronics,1,33.49,2025-05-14,Debit Card,Greece
+794,C120,Yoga Mat,Sports,4,33.85,2025-04-04,Bank Transfer,Spain
+795,C221,Protein Powder,Sports,3,37.59,2025-04-18,Bank Transfer,Germany
+796,C202,Mechanical Keyboard,Electronics,4,120.8,2025-05-19,Credit Card,Greece
+797,C119,Water Bottle,Sports,3,12.82,2025-04-14,Debit Card,Italy
+798,C204,Yoga Mat,Sports,3,36.26,2025-06-06,Credit Card,France
+799,C106,Notebook Set,Office,5,8.57,2025-03-18,Debit Card,Spain
+800,C209,Desk Organizer,Office,4,21.05,2025-05-06,PayPal,Italy
+801,C172,USB-C Cable,Electronics,5,14.27,2025-05-19,Credit Card,Italy
+802,C025,Fitness Tracker,Electronics,2,81.69,2025-04-03,Bank Transfer,Greece
+803,C153,Coffee Mug,Home,3,8.73,2025-05-21,Credit Card,Greece
+804,C149,Wireless Mouse,Electronics,2,27.24,2025-07-03,Debit Card,Spain
+805,C148,Fitness Tracker,Electronics,2,81.46,2025-03-08,PayPal,France
+806,C078,HDMI Cable,Electronics,3,19.88,2025-02-06,Credit Card,Italy
+807,C033,Resistance Bands,Sports,1,24.63,2025-04-19,Credit Card,Greece
+808,C092,Yoga Mat,Sports,3,37.62,2025-01-22,Debit Card,Spain
+809,C082,Coffee Mug,Home,4,8.68,2025-04-22,Bank Transfer,Italy
+810,C036,Bluetooth Speaker,Electronics,5,58.22,2025-04-23,PayPal,Spain
+811,C172,Desk Lamp,Home,2,42.13,2025-01-17,Credit Card,Netherlands
+812,C125,HDMI Cable,Electronics,2,18.44,2025-02-05,Debit Card,Netherlands
+813,C229,Protein Powder,Sports,4,36.07,2025-06-23,Debit Card,Spain
+814,C116,Coffee Mug,Home,3,11.83,2025-03-13,Debit Card,Spain
+815,C217,Notebook Set,Office,,10.11,2025-03-24,Bank Transfer,Italy
+816,C010,Desk Organizer,Office,4,20.14,2025-07-14,PayPal,Greece
+817,C021,Desk Lamp,Home,5,42.63,2025-03-27,Bank Transfer,Italy
+818,C023,Notebook Set,Office,4,10.57,2025-06-25,Credit Card,Netherlands
+819,C080,Protein Powder,Sports,1,35.62,2025-04-12,Credit Card,Spain
+820,C147,Mechanical Keyboard,Electronics,4,118.34,2025-04-15,PayPal,France
+821,C153,Resistance Bands,Sports,5,22.79,2025-03-22,Credit Card,Netherlands
+822,C014,Resistance Bands,Sports,5,19.66,2025-01-21,PayPal,Spain
+823,C218,Phone Case,Electronics,3,23.85,2025-02-17,,France
+824,C029,Protein Powder,Sports,2,35.56,2025-06-15,Debit Card,Netherlands
+825,C067,Notebook Set,Office,4,13.37,2025-03-02,Credit Card,France
+826,C153,Desk Lamp,Home,4,47.29,2025-04-30,Bank Transfer,Germany
+827,C043,Bluetooth Speaker,Electronics,5,59.11,2025-04-13,Credit Card,Netherlands
+828,C014,Water Bottle,Sports,4,15.81,2025-04-27,Bank Transfer,France
+829,C237,Laptop Sleeve,Electronics,2,29.09,2025-04-22,Bank Transfer,Spain
+830,C112,Wireless Mouse,Electronics,3,25.52,2025-05-09,Bank Transfer,Netherlands
+831,C245,Running Shoes,Sports,1,91.78,2025-05-31,PayPal,Spain
+832,C070,Mechanical Keyboard,Electronics,3,122.23,2025-03-24,Credit Card,France
+833,C198,Notebook Set,Office,5,11.02,2025-03-05,PayPal,Netherlands
+834,C141,Wireless Mouse,Electronics,1,23.77,2025-02-01,Credit Card,Spain
+835,C115,Monitor Stand,Office,2,52.27,2025-03-28,PayPal,Germany
+836,C015,Protein Powder,Sports,2,39.65,2025-06-17,Credit Card,Netherlands
+837,C155,Desk Lamp,Home,4,47.57,2025-07-02,Debit Card,Greece
+838,C120,USB-C Cable,Electronics,4,16.73,2025-03-26,Bank Transfer,Netherlands
+839,C083,Phone Case,Electronics,2,20.05,2025-02-02,PayPal,Greece
+840,C016,Phone Case,Electronics,3,20.92,2025-03-01,Bank Transfer,Greece
+841,C157,Coffee Mug,Home,2,8.14,2025-06-29,Bank Transfer,Greece
+842,C056,Protein Powder,Sports,1,32.27,2025-05-08,PayPal,Greece
+843,C187,Phone Case,Electronics,4,,2025-01-19,Bank Transfer,Germany
+844,C010,Coffee Mug,Home,3,11.59,2025-02-22,PayPal,Spain
+845,C241,Tennis Racket,Sports,4,68.25,2025-05-06,Bank Transfer,Netherlands
+846,C139,Notebook Set,Office,1,10.04,2025-04-23,Bank Transfer,Greece
+847,C092,Mechanical Keyboard,Electronics,3,124.98,2025-04-27,Credit Card,Netherlands
+848,C094,Laptop Sleeve,Electronics,3,32.17,2025-02-04,Bank Transfer,France
+849,C011,Coffee Mug,Home,2,12.03,2025-04-01,Bank Transfer,Greece
+850,C022,Fitness Tracker,Electronics,2,77.1,2025-02-19,Credit Card,Germany
+851,C062,Tennis Racket,Sports,4,66.27,2025-01-31,PayPal,Spain
+852,c116,Wireless Mouse,Electronics,1,29.29,2025-04-11,Credit Card,France
+853,C031,Bluetooth Speaker,Electronics,5,61.62,2025-05-12,Debit Card,Netherlands
+854,C010,Desk Lamp,Home,4,49.26,2025-07-01,Credit Card,Spain
+855,C063,Desk Lamp,Home,1,48.57,2025-02-28,Credit Card,France
+856,C157,Water Bottle,Sports,5,15.98,2025-01-31,Credit Card,Greece
+857,C057,USB-C Cable,Electronics,2,14.93,2025-05-04,PayPal,Netherlands
+858,C250,Desk Organizer,Office,5,21.61,2025-02-19,PayPal,Germany
+859,C086,USB-C Cable,Electronics,1,10.84,2025-03-26,Debit Card,Spain
+860,C043,Fitness Tracker,Electronics,2,77.7,2025-06-12,Credit Card,Germany
+861,C157,Coffee Mug,Home,2,7.04,2025-01-19,Bank Transfer,Greece
+862,C023,Desk Organizer,Office,3,16.52,2025-05-01,Bank Transfer,Netherlands
+863,C070,Scented Candle,Home,,13.88,2025-04-30,Debit Card,Germany
+864,C047,Tennis Racket,Sports,5,65.35,2025-02-06,PayPal,France
+865,C050,Yoga Mat,Sports,5,36.06,2025-02-08,PayPal,Italy
+866,C161,Bluetooth Speaker,Electronics,3,63.36,2025-01-28,Debit Card,Greece
+867,C248,Tennis Racket,Sports,4,69.38,2025-03-01,Debit Card,Netherlands
+868,C094,Resistance Bands,Sports,2,23.93,2025-05-06,PayPal,France
+869,C117,Running Shoes,Sports,1,93.18,2025-01-28,Debit Card,Germany
+870,C030,USB-C Cable,Electronics,2,11.09,2025-05-08,PayPal,Spain
+871,C084,Notebook Set,Office,1,7.4,2025-04-08,Debit Card,Greece
+872,C052,Coffee Mug,Home,2,10.87,2025-02-02,Bank Transfer,Italy
+873,C038,Bluetooth Speaker,Electronics,5,59.98,2025-05-11,Debit Card,Spain
+874,C050,Monitor Stand,Office,3,52.26,2025-03-07,PayPal,Germany
+875,C072,Desk Lamp,Home,1,43.37,2025-05-14,Bank Transfer,Spain
+876,C227,Resistance Bands,Sports,5,26.76,2025-02-24,Debit Card,Italy
+877,C023,HDMI Cable,Electronics,5,15.78,2025-05-20,Debit Card,Italy
+878,C004,HDMI Cable,Electronics,2,16.63,2025-03-19,PayPal,Spain
+879,C152,Desk Lamp,Home,5,42.32,2025-01-16,Bank Transfer,Greece
+880,C197,Scented Candle,Home,1,15.48,2025-05-03,Bank Transfer,Spain
+881,C026,Fitness Tracker,Electronics,4,82.92,2025-03-17,Credit Card,Italy
+882,C105,Bluetooth Speaker,Electronics,2,62.17,2025-04-16,PayPal,Germany
+883,C123,Resistance Bands,Sports,2,24.98,2025-07-14,Bank Transfer,IT
+884,C117,Fitness Tracker,Electronics,2,83.22,2025-07-14,Bank Transfer,Germany
+885,C119,Wireless Mouse,Electronics,1,23.25,2025-04-23,PayPal,Italy
+886,C070,Protein Powder,Sports,5,32.64,2025-06-11,Debit Card,Netherlands
+887,C189,Running Shoes,Sports,5,87.79,2025-07-06,PayPal,Greece
+888,C159,Running Shoes,Sports,3,91.37,2025-04-18,Debit Card,Netherlands
+889,C182,Bluetooth Speaker,Electronics,2,57.9,2025-04-10,Debit Card,Italy
+890,C241,Desk Organizer,Office,2,22.68,2025-03-13,PayPal,France
+891,C109,Phone Case,Electronics,1,20.61,2025-01-31,PayPal,France
+892,C213,Yoga Mat,Sports,4,36.97,2025-05-31,PayPal,Spain
+893,C243,USB-C Cable,Electronics,2,12.63,2025-05-12,Credit Card,Greece
+894,C246,USB-C Cable,Electronics,1,15.08,2025-02-26,PayPal,Greece
+895,C224,Bluetooth Speaker,Electronics,5,60.32,2025-06-24,Credit Card,France
+896,C239,Desk Lamp,Home,4,47.9,2025-04-13,Bank Transfer,SP
+897,C049,USB-C Cable,Electronics,1,14.13,2025-03-15,PayPal,Spain
+898,C202,Mechanical Keyboard,Electronics,4,119.43,2025-06-15,Bank Transfer,Spain
+899,C203,Resistance Bands,Sports,2,21.98,2025-03-22,Debit Card,Spain
+900,C217,Running Shoes,Sports,2,94.55,2025-04-15,PayPal,Spain
+901,C042,Laptop Sleeve,Electronics,3,32.53,2025-03-02,Debit Card,Netherlands
+902,C040,Water Bottle,Sports,2,16.6,2025-02-13,Credit Card,France
+903,C095,Water Bottle,Sports,2,14.54,2025-06-07,Credit Card,Netherlands
+904,C096,Fitness Tracker,Electronics,5,84.26,2025-02-25,PayPal,Greece
+905,C128,Desk Lamp,Home,4,49.76,2025-04-06,Debit Card,Greece
+906,C130,Mechanical Keyboard,Electronics,3,122.34,2025-05-16,PayPal,Italy
+907,c187,Fitness Tracker,Electronics,3,80.73,2025-07-10,Credit Card,Netherlands
+908,C174,Laptop Sleeve,Electronics,1,31.93,2025-04-03,Credit Card,Spain
+909,C092,USB-C Cable,Electronics,3,13.71,2025-01-29,Debit Card,Italy
+910,C197,Phone Case,Electronics,2,23.79,2025-01-20,Credit Card,Italy
+911,C246,USB-C Cable,Electronics,5,12.04,2025-04-25,Debit Card,Spain
+912,C242,Running Shoes,Sports,3,93.73,2025-04-26,Debit Card,Netherlands
+913,C096,Wireless Mouse,Electronics,3,30.81,2025-04-13,PayPal,France
+914,C023,Bluetooth Speaker,Electronics,4,58.3,2025-05-01,Bank Transfer,France
+915,C230,HDMI Cable,Electronics,4,13.65,2025-02-19,Credit Card,Germany
+916,C223,Scented Candle,Home,3,9.05,2025-01-31,Bank Transfer,Greece
+917,C070,HDMI Cable,Electronics,2,16.53,2025-06-06,Bank Transfer,Netherlands
+918,C052,Water Bottle,Sports,4,18.58,2025-03-30,Bank Transfer,Greece
+919,C150,Resistance Bands,Sports,4,,2025-06-07,Bank Transfer,Germany
+920,C068,Resistance Bands,Sports,4,20.43,2025-02-15,PayPal,Spain
+921,C166,Notebook Set,Office,1,13.45,2025-02-14,PayPal,Spain
+922,C191,Monitor Stand,Office,5,57.02,2025-05-18,Bank Transfer,France
+923,C178,Yoga Mat,Sports,3,33.3,2025-05-26,Credit Card,France
+924,C082,Fitness Tracker,Electronics,2,79.08,2025-04-16,Debit Card,Greece
+925,C234,Monitor Stand,Office,1,57.11,2025-03-30,PayPal,Italy
+926,C050,Water Bottle,Sports,1,14.58,2025-06-17,Debit Card,Italy
+927,C217,Resistance Bands,Sports,3,23.28,2025-07-09,PayPal,Greece
+928,C037,Wireless Mouse,Electronics,2,29.22,2025-05-27,PayPal,France
+929,C236,Water Bottle,Sports,1,13.77,2025-03-11,Debit Card,Italy
+930,C230,Laptop Sleeve,Electronics,5,30.67,2025-07-10,Credit Card,Spain
+931,C210,Desk Lamp,Home,1,47.53,2025-05-17,PayPal,France
+932,C114,Protein Powder,Sports,5,34.43,2025-04-12,Debit Card,Netherlands
+933,C031,Notebook Set,Office,2,7.31,2025-07-11,Debit Card,Netherlands
+934,C034,USB-C Cable,Electronics,4,9.65,2025-07-10,Credit Card,Greece
+935,C111,Running Shoes,Sports,2,91.01,2025-02-11,Credit Card,Netherlands
+936,C031,Phone Case,Electronics,1,17.07,2025-01-31,PayPal,Netherlands
+937,C032,Protein Powder,Sports,2,37.35,2025-06-14,Debit Card,GE
+938,C038,Phone Case,Electronics,5,23.83,2025-04-14,PayPal,Germany
+939,C157,Notebook Set,Office,5,12.06,2025-06-09,Credit Card,Greece
+940,C136,Bluetooth Speaker,Electronics,2,57.02,2025-03-28,Debit Card,Italy
+941,C237,Bluetooth Speaker,Electronics,5,61.71,2025-05-16,PayPal,Netherlands
+942,C246,Yoga Mat,Sports,2,33.71,2025-04-15,Bank Transfer,Spain
+943,C029,Mechanical Keyboard,Electronics,1,118.09,2025-05-14,Credit Card,Italy
+944,C181,Resistance Bands,Sports,5,22.95,2025-01-25,Credit Card,France
+945,C117,Protein Powder,Sports,3,36.42,2025-07-09,Bank Transfer,Germany
+946,C219,HDMI Cable,Electronics,2,14.93,2025-02-01,,Netherlands
+947,C173,Tennis Racket,Sports,1,67.27,2025-04-26,Bank Transfer,Italy
+948,C037,Coffee Mug,Home,4,14.39,2025-07-11,Credit Card,Netherlands
+949,C017,Monitor Stand,Office,2,58.75,2025-04-11,Debit Card,Italy
+950,C060,HDMI Cable,Electronics,4,19.54,2025-03-27,PayPal,Netherlands
+951,C171,Protein Powder,Sports,4,38.13,2025-05-19,PayPal,Germany
+952,C065,Tennis Racket,Sports,4,62.8,2025-03-15,Debit Card,Greece
+953,C018,Tennis Racket,Sports,1,67.43,2025-03-01,Bank Transfer,Italy
+954,C160,Protein Powder,Sports,1,33.61,2025-02-03,Bank Transfer,Spain
+955,C126,Scented Candle,Home,3,13.37,2025-06-02,PayPal,Italy
+956,C009,HDMI Cable,Electronics,1,18.81,2025-04-23,Bank Transfer,France
+957,C010,Running Shoes,Sports,2,88.21,2025-06-06,PayPal,Netherlands
+958,C080,Coffee Mug,Home,4,11.42,2025-02-12,Bank Transfer,Netherlands
+959,C121,Tennis Racket,Sports,5,64.11,2025-02-24,Credit Card,Spain
+960,c097,Protein Powder,Sports,3,32.22,2025-03-28,PayPal,Greece
+961,C215,Monitor Stand,Office,3,54.73,2025-06-13,Credit Card,Netherlands
+962,C089,Monitor Stand,Office,4,53.95,2025-04-14,Credit Card,Netherlands
+963,C080,Desk Organizer,Office,1,16.42,2025-07-10,Credit Card,France
+964,C138,Mechanical Keyboard,Electronics,1,121.12,2025-05-12,Bank Transfer,Italy
+965,C006,Tennis Racket,Sports,5,66.56,2025-01-20,PayPal,Spain
+966,C026,Tennis Racket,Sports,1,65.97,2025-07-10,Debit Card,France
+967,C171,Mechanical Keyboard,Electronics,2,124.76,2025-06-21,PayPal,France
+968,C163,USB-C Cable,Electronics,5,9.88,2025-03-10,PayPal,France
+969,C103,Notebook Set,Office,5,8.19,2025-02-07,Credit Card,Italy
+970,C206,Scented Candle,Home,4,15.37,2025-05-04,Debit Card,France
+971,C078,Scented Candle,Home,3,12.31,2025-05-05,PayPal,Germany
+972,C132,Fitness Tracker,Electronics,5,82.53,2025-03-02,Credit Card,Netherlands
+973,C148,Tennis Racket,Sports,2,69.5,2025-07-03,Bank Transfer,France
+974,C158,HDMI Cable,Electronics,5,13.6,2025-06-24,Credit Card,Italy
+975,C062,Desk Lamp,Home,3,48.88,2025-05-06,Bank Transfer,France
+976,C163,Bluetooth Speaker,Electronics,4,58.27,2025-03-24,PayPal,Netherlands
+977,C061,Coffee Mug,Home,2,7.21,2025-02-13,Debit Card,Germany
+978,C080,Fitness Tracker,Electronics,,82.08,2025-06-07,Bank Transfer,Spain
+979,C041,Phone Case,Electronics,2,22.26,2025-01-22,PayPal,France
+980,C219,Running Shoes,Sports,4,89.41,2025-01-20,Credit Card,Greece
+981,C017,HDMI Cable,Electronics,3,19.54,2025-07-05,Credit Card,Spain
+982,C036,Notebook Set,Office,1,10.81,2025-06-10,Credit Card,Italy
+983,C199,Scented Candle,Home,3,13.8,2025-05-22,Credit Card,Germany
+984,C081,Mechanical Keyboard,Electronics,5,118.74,2025-04-24,Debit Card,Spain
+985,C055,Phone Case,Electronics,4,17.44,2025-04-29,PayPal,Italy
+986,C180,Yoga Mat,Sports,3,37.46,2025-06-03,Bank Transfer,Spain
+987,C226,Desk Lamp,Home,3,42.17,2025-05-16,PayPal,France
+988,C156,Running Shoes,Sports,1,91.32,2025-07-10,Debit Card,France
+989,C246,Monitor Stand,Office,1,55.11,2025-05-31,Debit Card,Spain
+990,C101,Phone Case,Electronics,3,18.67,2025-02-07,Debit Card,France
+991,C235,Fitness Tracker,Electronics,3,79.09,2025-06-28,Bank Transfer,Greece
+992,C200,Tennis Racket,Sports,4,65.38,2025-04-30,PayPal,Netherlands
+993,C026,Water Bottle,Sports,3,15.37,2025-05-24,Credit Card,France
+994,C141,Mechanical Keyboard,Electronics,4,122.13,2025-07-11,Credit Card,Greece
+995,C114,Desk Lamp,Home,1,44.44,2025-04-27,Debit Card,Netherlands
+996,C029,Water Bottle,Sports,2,17.49,2025-05-27,Debit Card,Italy
+997,C082,Fitness Tracker,Electronics,4,82.4,2025-02-18,PayPal,Germany
+998,C205,Resistance Bands,Sports,2,20.46,2025-02-05,Bank Transfer,France
+999,C242,Desk Organizer,Office,2,20.68,2025-01-20,Credit Card,Italy
+1000,c233,USB-C Cable,Electronics,4,16.31,2025-03-06,PayPal,Netherlands
+1001,C159,HDMI Cable,Electronics,5,19.65,2025-03-22,Debit Card,Greece
+1002,C146,Yoga Mat,Sports,1,38.62,2025-05-29,Bank Transfer,Spain
+1003,C058,Bluetooth Speaker,Electronics,2,60.94,2025-03-24,PayPal,Netherlands
+1004,C220,Bluetooth Speaker,Electronics,5,62.41,2025-03-11,PayPal,Netherlands
+1005,C105,Desk Lamp,Home,1,46.94,2025-03-30,PayPal,Germany
+1006,C095,Desk Organizer,Office,4,16.57,2025-02-05,Credit Card,Spain
+1007,C178,Coffee Mug,Home,2,11.77,2025-04-23,Bank Transfer,Netherlands
+1008,C143,Running Shoes,Sports,1,94.17,2025-04-10,Debit Card,Spain
+1009,C241,Protein Powder,Sports,1,36.95,2025-01-16,PayPal,Italy
+1010,C102,Monitor Stand,Office,2,53.43,2025-06-07,Credit Card,Italy
+1011,C127,Mechanical Keyboard,Electronics,4,122.68,2025-02-17,Credit Card,France
+1012,C067,Yoga Mat,Sports,3,38.97,2025-01-26,Debit Card,Spain
+1013,C192,Monitor Stand,Office,4,58.64,2025-03-28,PayPal,Italy
+1014,C133,Mechanical Keyboard,Electronics,4,124.96,2025-02-26,PayPal,Netherlands
+1015,C039,Laptop Sleeve,Electronics,4,27.43,2025-01-28,Debit Card,Germany
+1016,C121,Phone Case,Electronics,2,17.92,2025-07-14,Bank Transfer,Spain
+1017,C127,Running Shoes,Sports,4,90.84,2025-04-16,Bank Transfer,Spain
+1018,C222,Desk Lamp,Home,1,48.95,2025-04-14,Credit Card,Germany
+1019,C044,Scented Candle,Home,3,,2025-06-08,Debit Card,Italy
+1020,C197,Desk Organizer,Office,2,21.65,2025-05-01,Credit Card,Germany
+1021,C228,Mechanical Keyboard,Electronics,1,119.99,2025-03-28,Credit Card,Spain
+1022,C028,Mechanical Keyboard,Electronics,2,123.65,2025-01-22,Credit Card,Spain
+1023,C117,Phone Case,Electronics,5,24.75,2025-07-02,Credit Card,France
+1024,C244,Fitness Tracker,Electronics,3,83.81,2025-06-09,Debit Card,Germany
+1025,C073,Mechanical Keyboard,Electronics,1,120.19,2025-02-02,Bank Transfer,Greece
+1026,C248,Coffee Mug,Home,1,10.1,2025-01-20,Debit Card,Germany
+1027,C166,Desk Lamp,Home,1,47.89,2025-04-01,Bank Transfer,Spain
+1028,C232,Protein Powder,Sports,2,36.09,2025-04-16,Credit Card,France
+1029,C227,Coffee Mug,Home,4,13.04,2025-03-24,Bank Transfer,Greece
+1030,C158,Water Bottle,Sports,4,12.32,2025-06-25,Bank Transfer,Greece
+1031,C119,Notebook Set,Office,2,9.25,2025-05-21,Credit Card,France
+1032,C206,Tennis Racket,Sports,3,69.22,2025-02-22,Debit Card,Netherlands
+1033,c134,HDMI Cable,Electronics,3,12.6,2025-06-09,Credit Card,Italy
+1034,C028,Scented Candle,Home,4,14.29,2025-04-30,Credit Card,Spain
+1035,C065,Monitor Stand,Office,3,52.13,2025-06-13,Credit Card,Italy
+1036,C119,Water Bottle,Sports,2,15.33,2025-04-25,Credit Card,Greece
+1037,C081,Desk Organizer,Office,4,21.96,2025-07-05,Bank Transfer,Italy
+1038,C236,Water Bottle,Sports,2,19.86,2025-03-03,Credit Card,Netherlands
+1039,C173,Yoga Mat,Sports,4,35.16,2025-05-31,,Greece
+1040,C168,Tennis Racket,Sports,4,69.73,2025-07-11,Bank Transfer,Netherlands
+1041,C125,Resistance Bands,Sports,5,24.39,2025-06-21,PayPal,Netherlands
+1042,C102,Resistance Bands,Sports,1,20.53,2025-02-16,Debit Card,Greece
+1043,C179,Bluetooth Speaker,Electronics,1,58.15,2025-03-09,Bank Transfer,Netherlands
+1044,C216,Laptop Sleeve,Electronics,2,28.18,2025-02-06,PayPal,Spain
+1045,C030,Water Bottle,Sports,2,15.77,2025-07-13,Bank Transfer,Spain
+1046,C150,Notebook Set,Office,2,8.17,2025-03-31,Bank Transfer,Greece
+1047,C217,HDMI Cable,Electronics,4,15.89,2025-05-21,PayPal,Greece
+1048,C152,Protein Powder,Sports,4,32.14,2025-03-15,Credit Card,Italy
+1049,C142,USB-C Cable,Electronics,3,10.44,2025-06-29,Bank Transfer,Spain
+1050,C166,Monitor Stand,Office,4,53.29,2025-07-12,Bank Transfer,Greece
+1051,C121,Monitor Stand,Office,4,59.27,2025-03-15,Debit Card,Italy
+1052,C155,Fitness Tracker,Electronics,2,83.56,2025-03-31,Bank Transfer,Spain
+1053,C189,Monitor Stand,Office,4,57.53,2025-02-25,Debit Card,France
+1054,C124,Desk Lamp,Home,2,45.94,2025-03-07,Debit Card,Italy
+1055,C242,Tennis Racket,Sports,3,62.38,2025-03-16,,Italy
+1056,C226,Phone Case,Electronics,3,23.61,2025-07-07,Debit Card,Germany
+1057,C009,USB-C Cable,Electronics,3,11.31,2025-05-05,Credit Card,Italy
+1058,C125,Phone Case,Electronics,3,19.13,2025-04-15,Credit Card,Italy
+1059,C177,Scented Candle,Home,5,9.4,2025-07-05,Credit Card,Netherlands
+1060,C205,Fitness Tracker,Electronics,1,77.24,2025-02-11,Credit Card,Italy
+1061,C162,Yoga Mat,Sports,2,34.34,2025-04-17,Debit Card,Netherlands
+1062,C130,Tennis Racket,Sports,1,68.55,2025-02-23,PayPal,France
+1063,C052,Fitness Tracker,Electronics,4,79.63,2025-01-16,Debit Card,Spain
+1064,C022,Phone Case,Electronics,3,22.31,2025-05-01,PayPal,Netherlands
+1065,C193,Scented Candle,Home,4,12.31,2025-03-14,Debit Card,Spain
+1066,C118,Scented Candle,Home,3,15.16,2025-01-22,Bank Transfer,Germany
+1067,C133,USB-C Cable,Electronics,1,17.36,2025-04-11,PayPal,Spain
+1068,C016,Coffee Mug,Home,1,7.45,2025-07-03,Debit Card,Italy
+1069,C183,Scented Candle,Home,3,14.61,2025-05-02,Bank Transfer,Netherlands
+1070,C185,Mechanical Keyboard,Electronics,3,121.88,2025-01-17,PayPal,Italy
+1071,C104,Fitness Tracker,Electronics,2,79.66,2025-06-03,Bank Transfer,Netherlands
+1072,C167,Coffee Mug,Home,2,11.29,2025-04-02,Credit Card,Greece
+1073,C185,Desk Lamp,Home,5,42.74,2025-06-02,PayPal,Germany
+1074,C134,Mechanical Keyboard,Electronics,2,121.74,2025-01-20,Credit Card,Italy
+1075,C199,Resistance Bands,Sports,4,19.48,2025-05-24,Credit Card,Netherlands
+1076,C161,Scented Candle,Home,3,16.53,2025-02-15,Credit Card,Netherlands
+1077,C147,Wireless Mouse,Electronics,4,30.9,2025-04-11,Debit Card,Netherlands
+1078,C229,Laptop Sleeve,Electronics,5,29.27,2025-03-15,PayPal,France
+1079,C184,Desk Organizer,Office,2,18.12,2025-04-21,Debit Card,Greece
+1080,C211,Monitor Stand,Office,4,55.41,2025-02-09,Debit Card,Netherlands
+1081,C024,Running Shoes,Sports,4,90.47,2025-02-17,Bank Transfer,Germany
+1082,C135,Coffee Mug,Home,5,11.66,2025-06-07,Bank Transfer,France
+1083,C113,Tennis Racket,Sports,4,63.02,2025-02-25,Debit Card,Italy
+1084,C034,Scented Candle,Home,5,12.79,2025-02-14,Debit Card,Spain
+1085,C242,Laptop Sleeve,Electronics,3,27.96,2025-02-14,Bank Transfer,Greece
+1086,C011,Scented Candle,Home,2,16.93,2025-02-14,PayPal,France
+1087,C125,Wireless Mouse,Electronics,2,30.48,2025-02-20,Bank Transfer,Greece
+1088,C073,Bluetooth Speaker,Electronics,2,61.37,2025-05-20,Credit Card,Greece
+1089,C012,HDMI Cable,Electronics,4,15.61,2025-06-10,PayPal,Italy
+1090,C097,Tennis Racket,Sports,5,67.09,2025-02-17,Debit Card,Italy
+1091,C171,Fitness Tracker,Electronics,2,82.22,2025-04-08,Credit Card,Italy
+1092,C060,Coffee Mug,Home,3,14.11,2025-06-02,Credit Card,Netherlands
+1093,C166,USB-C Cable,Electronics,2,14.66,2025-01-21,PayPal,Italy
+1094,C022,Bluetooth Speaker,Electronics,5,61.16,2025-06-02,Credit Card,Italy
+1095,C129,Wireless Mouse,Electronics,1,25.19,2025-07-02,Debit Card,Greece
+1096,C213,Desk Organizer,Office,4,20.21,2025-02-05,PayPal,Spain
+1097,C240,Wireless Mouse,Electronics,3,23.18,2025-05-06,Debit Card,Spain
+1098,C098,Phone Case,Electronics,1,18.34,2025-02-13,Credit Card,Italy
+1099,C066,USB-C Cable,Electronics,2,10.85,2025-04-03,Bank Transfer,Netherlands
+1100,C084,Water Bottle,Sports,1,12.79,2025-01-29,PayPal,Spain
+1101,C229,Mechanical Keyboard,Electronics,3,118.62,2025-04-21,Credit Card,Greece
+1102,C151,Notebook Set,Office,4,7.65,2025-05-25,Bank Transfer,Greece
+1103,C142,HDMI Cable,Electronics,1,17.06,2025-05-18,Credit Card,Spain
+1104,C005,Phone Case,Electronics,5,23.09,2025-06-14,Credit Card,Germany
+1105,C033,Resistance Bands,Sports,5,25.77,2025-04-29,Bank Transfer,Greece
+1106,C201,Desk Lamp,Home,3,46.3,2025-06-02,Debit Card,Germany
+1107,C234,Laptop Sleeve,Electronics,4,34.68,2025-01-25,Credit Card,Spain
+1108,C168,Water Bottle,Sports,1,16.78,2025-01-30,Bank Transfer,France
+1109,C098,Monitor Stand,Office,2,53.29,2025-06-13,PayPal,Greece
+1110,C018,Resistance Bands,Sports,1,24.8,2025-04-26,Credit Card,Germany
+1111,C225,HDMI Cable,Electronics,2,19.55,2025-06-20,PayPal,Netherlands
+1112,C193,Fitness Tracker,Electronics,3,78.58,2025-03-18,PayPal,France
+1113,C085,Wireless Mouse,Electronics,2,26.8,2025-06-29,Credit Card,Italy
+1114,C173,Water Bottle,Sports,4,16.31,2025-06-06,Bank Transfer,Spain
+1115,C167,USB-C Cable,Electronics,5,10.49,2025-01-22,Bank Transfer,Netherlands
+1116,C097,Protein Powder,Sports,3,39.86,2025-04-24,Debit Card,Netherlands
+1117,C095,Bluetooth Speaker,Electronics,4,57.15,2025-01-17,Debit Card,Netherlands
+1118,C236,Monitor Stand,Office,2,53.77,2025-02-07,PayPal,Netherlands
+1119,C248,Monitor Stand,Office,1,57.66,2025-03-27,Bank Transfer,Netherlands
+1120,C051,Coffee Mug,Home,1,11.4,2025-03-27,Bank Transfer,Germany
+1121,C145,Protein Powder,Sports,5,33.02,2025-02-28,Credit Card,Italy
+1122,C067,Desk Organizer,Office,2,22.28,2025-05-28,PayPal,GE
+1123,C249,Laptop Sleeve,Electronics,5,34.49,2025-03-20,Bank Transfer,Greece
+1124,C242,Running Shoes,Sports,3,87.87,2025-05-05,Bank Transfer,France
+1125,C127,Monitor Stand,Office,5,54.22,2025-01-26,Debit Card,Greece
+1126,C115,Mechanical Keyboard,Electronics,1,117.65,2025-04-25,Debit Card,France
+1127,C007,Notebook Set,Office,4,6.82,2025-02-03,Debit Card,Germany
+1128,C161,Yoga Mat,Sports,1,36.74,2025-05-17,Bank Transfer,Greece
+1129,C086,Phone Case,Electronics,2,24.66,2025-02-11,Bank Transfer,Germany
+1130,C211,Mechanical Keyboard,Electronics,5,121.96,2025-03-16,Credit Card,Italy
+1131,C161,Fitness Tracker,Electronics,5,84.23,2025-02-15,Credit Card,Greece
+1132,C228,USB-C Cable,Electronics,2,11.91,2025-01-30,Bank Transfer,Greece
+1133,C017,Yoga Mat,Sports,1,38.8,2025-06-07,Credit Card,France
+1134,C159,HDMI Cable,Electronics,2,15.06,2025-06-17,Credit Card,Spain
+1135,C226,Protein Powder,Sports,5,39.49,2025-02-09,PayPal,Netherlands
+1136,C117,Scented Candle,Home,3,9.82,2025-06-14,Debit Card,Greece
+1137,C018,Desk Organizer,Office,2,19.57,2025-06-10,Debit Card,Netherlands
+1138,C124,Protein Powder,Sports,4,38.37,2025-03-03,Debit Card,Germany
+1139,C080,Desk Organizer,Office,4,20.17,2025-05-26,PayPal,France
+1140,C038,Desk Lamp,Home,4,,2025-04-04,PayPal,France
+1141,C151,Desk Lamp,Home,1,44.75,2025-03-16,Credit Card,Spain
+1142,C164,Bluetooth Speaker,Electronics,1,60.8,2025-04-12,Debit Card,Netherlands
+1143,C120,Protein Powder,Sports,3,34.39,2025-06-12,PayPal,Italy
+1144,C027,Fitness Tracker,Electronics,1,82.01,2025-05-21,Debit Card,Greece
+1145,C120,Protein Powder,Sports,2,38.14,2025-03-17,Bank Transfer,Netherlands
+1146,C207,Coffee Mug,Home,2,9.89,2025-04-27,Debit Card,Greece
+1147,C008,Laptop Sleeve,Electronics,1,28.55,2025-02-20,PayPal,Spain
+1148,C196,Monitor Stand,Office,1,54.27,2025-01-22,Debit Card,Germany
+1149,C068,Water Bottle,Sports,3,13.57,2025-06-05,Debit Card,Germany
+1150,C068,Yoga Mat,Sports,1,37.24,2025-07-07,Debit Card,Spain
+1151,C087,Bluetooth Speaker,Electronics,3,63.47,2025-05-11,Debit Card,France
+1152,C241,Scented Candle,Home,5,10.16,2025-05-06,Credit Card,Greece
+1153,C204,Bluetooth Speaker,Electronics,2,59.98,2025-05-31,Bank Transfer,Netherlands
+1154,C163,Notebook Set,Office,1,7.85,2025-06-21,Debit Card,Italy
+1155,C064,Running Shoes,Sports,3,92.72,2025-02-16,Bank Transfer,Germany
+1156,C203,Protein Powder,Sports,1,38.0,2025-02-26,Bank Transfer,Netherlands
+1157,C133,Fitness Tracker,Electronics,2,82.46,2025-04-07,PayPal,Italy
+1158,C127,Tennis Racket,Sports,3,69.37,2025-06-12,Bank Transfer,Netherlands
+1159,C010,Bluetooth Speaker,Electronics,2,60.16,2025-03-07,Bank Transfer,Germany
+1160,C228,Coffee Mug,Home,5,11.39,2025-02-24,PayPal,France
+1161,C022,Resistance Bands,Sports,4,23.67,2025-05-27,PayPal,Germany
+1162,C160,Mechanical Keyboard,Electronics,4,120.27,2025-05-10,Bank Transfer,Spain
+1163,C082,Phone Case,Electronics,4,18.86,2025-01-21,Debit Card,Spain
+1164,C092,USB-C Cable,Electronics,3,16.91,2025-05-23,Credit Card,France
+1165,C019,Monitor Stand,Office,1,53.57,2025-06-03,Debit Card,France
+1166,C078,Phone Case,Electronics,2,22.91,2025-07-14,Debit Card,Netherlands
+1167,C003,Resistance Bands,Sports,3,25.57,2025-04-13,Bank Transfer,Spain
+1168,C004,Tennis Racket,Sports,5,63.82,2025-02-22,Bank Transfer,Germany
+1169,C122,Notebook Set,Office,5,12.02,2025-06-14,Bank Transfer,Netherlands
+1170,C022,Mechanical Keyboard,Electronics,2,120.51,2025-05-04,Bank Transfer,Germany
+1171,C008,Monitor Stand,Office,2,,2025-06-11,Debit Card,France
+1172,C208,Monitor Stand,Office,3,57.49,2025-03-13,Bank Transfer,Spain
+1173,C200,Laptop Sleeve,Electronics,3,33.27,2025-04-08,Credit Card,Italy
+1174,C040,Mechanical Keyboard,Electronics,5,118.63,2025-06-25,Bank Transfer,Spain
+1175,C137,Coffee Mug,Home,2,11.55,2025-05-16,Credit Card,France
+1176,C230,Resistance Bands,Sports,,23.42,2025-02-27,Credit Card,Netherlands
+1177,C177,Protein Powder,Sports,4,32.55,2025-01-21,Debit Card,Germany
+1178,C073,Bluetooth Speaker,Electronics,2,57.45,2025-03-30,Credit Card,Spain
+1179,C044,Mechanical Keyboard,Electronics,4,118.03,2025-04-25,Debit Card,Greece
+1180,C191,USB-C Cable,Electronics,4,11.98,2025-03-08,Debit Card,Germany
+1181,C171,Tennis Racket,Sports,2,63.62,2025-06-18,PayPal,Italy
+1182,C118,Phone Case,Electronics,2,17.5,2025-01-16,Debit Card,Spain
+1183,C207,Notebook Set,Office,,9.2,2025-04-09,Bank Transfer,Spain
+1184,C024,Resistance Bands,Sports,4,23.9,2025-04-13,PayPal,Spain
+1185,C045,HDMI Cable,Electronics,2,15.07,2025-03-01,Bank Transfer,Spain
+1186,C179,Desk Organizer,Office,1,22.58,2025-04-25,Credit Card,Germany
+1187,C226,Laptop Sleeve,Electronics,3,32.8,2025-07-04,Credit Card,Netherlands
+1188,C233,Tennis Racket,Sports,4,62.61,2025-06-05,Credit Card,France
+1189,c197,Mechanical Keyboard,Electronics,4,118.66,2025-05-10,Debit Card,France
+1190,C007,USB-C Cable,Electronics,4,12.69,2025-04-22,PayPal,Netherlands
+1191,C010,Wireless Mouse,Electronics,3,28.35,2025-02-13,Debit Card,France
+1192,C119,USB-C Cable,Electronics,1,17.1,2025-06-04,Debit Card,Netherlands
+1193,C211,Phone Case,Electronics,2,17.79,2025-02-27,Credit Card,Italy
+1194,C137,Coffee Mug,Home,2,9.18,2025-02-03,Credit Card,Netherlands
+1195,C046,Bluetooth Speaker,Electronics,1,62.56,2025-07-06,Debit Card,Spain
+1196,C208,Scented Candle,Home,1,,2025-04-24,PayPal,Spain
+1197,C198,Coffee Mug,Home,2,8.59,2025-03-19,,Germany
+1198,C008,Wireless Mouse,Electronics,3,30.66,2025-03-05,Credit Card,Germany
+1199,C214,Water Bottle,Sports,2,12.86,2025-01-26,Bank Transfer,Italy
+1200,C144,Bluetooth Speaker,Electronics,5,57.96,2025-03-09,Bank Transfer,Spain
+1201,C092,Mechanical Keyboard,Electronics,2,119.53,2025-01-18,Bank Transfer,Netherlands
+1202,c118,Notebook Set,Office,1,10.49,2025-07-02,PayPal,Netherlands
+1203,C227,Bluetooth Speaker,Electronics,4,62.69,2025-04-02,Bank Transfer,Greece
+1204,C237,Desk Organizer,Office,2,18.09,2025-03-20,Credit Card,Italy
+1205,C100,Desk Lamp,Home,3,45.86,2025-02-28,PayPal,Netherlands
+1206,C156,Desk Organizer,Office,4,20.2,2025-04-22,Debit Card,Italy
+1207,C060,Wireless Mouse,Electronics,5,28.89,2025-02-15,PayPal,Germany
+1208,C159,USB-C Cable,Electronics,1,11.87,2025-02-19,PayPal,Spain
+1209,C053,Running Shoes,Sports,2,93.92,2025-06-17,Bank Transfer,Netherlands
+1210,C082,Running Shoes,Sports,5,88.73,2025-05-01,PayPal,Greece
+1211,C088,Notebook Set,Office,2,13.41,2025-06-02,Credit Card,Netherlands
+1212,C179,Notebook Set,Office,5,,2025-04-22,PayPal,Germany
+1213,C223,Tennis Racket,Sports,1,69.94,2025-03-05,Credit Card,Netherlands
+1214,C033,USB-C Cable,Electronics,2,13.56,2025-06-15,Debit Card,Germany
+1215,C120,Resistance Bands,Sports,2,20.41,2025-03-06,Debit Card,Spain
+1216,C074,Desk Organizer,Office,4,22.4,2025-06-26,Debit Card,France
+1217,C244,Monitor Stand,Office,4,55.53,2025-04-21,Debit Card,Spain
+1218,C189,HDMI Cable,Electronics,2,15.41,2025-05-18,Credit Card,Spain
+1219,C233,Resistance Bands,Sports,5,24.81,2025-06-01,Debit Card,Italy
+1220,C119,Resistance Bands,Sports,4,23.85,2025-03-28,Bank Transfer,Italy
+1221,C035,Tennis Racket,Sports,2,62.1,2025-02-23,Debit Card,Greece
+1222,C186,Monitor Stand,Office,4,59.76,2025-04-28,Bank Transfer,Spain
+1223,C126,Resistance Bands,Sports,5,26.94,2025-02-02,Bank Transfer,Greece
+1224,C239,Desk Organizer,Office,2,21.67,2025-03-05,Bank Transfer,France
+1225,C090,Scented Candle,Home,4,9.46,2025-06-26,PayPal,Netherlands
+1226,C109,Notebook Set,Office,2,10.55,2025-05-17,Credit Card,France
+1227,C179,Desk Lamp,Home,3,43.18,2025-06-18,Bank Transfer,Netherlands
+1228,C149,Water Bottle,Sports,1,17.69,2025-02-13,Credit Card,Netherlands
+1229,C181,Desk Organizer,Office,1,16.83,2025-05-27,Debit Card,Spain
+1230,C178,Resistance Bands,Sports,5,21.46,2025-05-31,Bank Transfer,Italy
+1231,C225,USB-C Cable,Electronics,1,11.65,2025-06-26,PayPal,Germany
+1232,C192,Coffee Mug,Home,3,7.0,2025-01-16,Debit Card,Spain
+1233,C179,HDMI Cable,Electronics,5,15.44,2025-05-01,PayPal,Netherlands
+1234,C048,Desk Lamp,Home,2,49.59,2025-05-19,Debit Card,Italy
+1235,C209,Bluetooth Speaker,Electronics,2,58.45,2025-03-07,Credit Card,Netherlands
+1236,C067,HDMI Cable,Electronics,4,13.32,2025-06-24,Credit Card,Netherlands
+1237,C097,Yoga Mat,Sports,3,36.69,2025-01-31,PayPal,Greece
+1238,C173,Yoga Mat,Sports,1,37.32,2025-01-30,PayPal,Greece
+1239,C011,Yoga Mat,Sports,2,36.82,2025-05-28,Credit Card,Spain
+1240,C195,Phone Case,Electronics,4,20.43,2025-05-16,PayPal,Italy
+1241,C228,Mechanical Keyboard,Electronics,3,120.19,2025-03-17,PayPal,Netherlands
+1242,C250,Monitor Stand,Office,3,58.96,2025-02-09,Credit Card,Spain
+1243,C214,Desk Lamp,Home,1,44.24,2025-06-18,Credit Card,Italy
+1244,C209,Notebook Set,Office,3,8.81,2025-05-10,Bank Transfer,Italy
+1245,C164,Mechanical Keyboard,Electronics,1,124.76,2025-06-26,PayPal,Greece
+1246,C174,Fitness Tracker,Electronics,2,82.81,2025-06-19,Bank Transfer,Spain
+1247,C090,HDMI Cable,Electronics,4,15.07,2025-07-02,Credit Card,Netherlands
+1248,C183,Desk Lamp,Home,5,45.98,2025-06-10,Credit Card,Germany
+1249,C214,Laptop Sleeve,Electronics,4,30.85,2025-02-27,Bank Transfer,Greece
+1250,C063,Bluetooth Speaker,Electronics,2,60.47,2025-07-02,Credit Card,Greece
+1251,C042,Mechanical Keyboard,Electronics,4,119.06,2025-03-27,Debit Card,Netherlands
+1252,C230,Yoga Mat,Sports,2,38.36,2025-05-31,Bank Transfer,Greece
+1253,C058,Desk Organizer,Office,5,22.78,2025-01-31,PayPal,Spain
+1254,C186,Coffee Mug,Home,5,9.06,2025-05-06,Debit Card,Germany
+1255,C029,USB-C Cable,Electronics,3,17.04,2025-06-15,Debit Card,Netherlands
+1256,C033,Mechanical Keyboard,Electronics,4,117.5,2025-06-11,Credit Card,France
+1257,C217,Coffee Mug,Home,4,14.46,2025-04-06,PayPal,Netherlands
+1258,C170,Protein Powder,Sports,5,32.06,2025-03-12,Credit Card,Spain
+1259,C081,Desk Lamp,Home,3,45.65,2025-03-12,Bank Transfer,Netherlands
+1260,C038,Running Shoes,Sports,5,94.82,2025-04-06,PayPal,Italy
+1261,C218,Desk Organizer,Office,4,17.83,2025-06-25,Debit Card,Spain
+1262,C016,Mechanical Keyboard,Electronics,2,122.89,2025-03-09,Debit Card,Netherlands
+1263,C199,Water Bottle,Sports,4,19.3,2025-04-25,PayPal,Netherlands
+1264,C006,Laptop Sleeve,Electronics,4,30.78,2025-04-11,Bank Transfer,Netherlands
+1265,C101,Coffee Mug,Home,1,12.56,2025-05-30,PayPal,France
+1266,C220,Laptop Sleeve,Electronics,4,33.01,2025-02-08,Debit Card,France
+1267,C207,Running Shoes,Sports,3,88.0,2025-05-12,Debit Card,Italy
+1268,C075,Desk Lamp,Home,2,47.21,2025-03-11,Debit Card,Netherlands
+1269,C220,Desk Organizer,Office,1,23.1,2025-07-07,Debit Card,Spain
+1270,C216,Water Bottle,Sports,1,13.44,2025-02-08,PayPal,Spain
+1271,C132,Mechanical Keyboard,Electronics,5,122.78,2025-05-06,Debit Card,Netherlands
+1272,C031,Notebook Set,Office,4,10.27,2025-05-20,PayPal,Netherlands
+1273,C191,Coffee Mug,Home,1,12.05,2025-05-13,Bank Transfer,France
+1274,C003,Yoga Mat,Sports,1,37.13,2025-02-05,Credit Card,Spain
+1275,C058,Wireless Mouse,Electronics,5,28.54,2025-06-10,Bank Transfer,France
+1276,C152,Water Bottle,Sports,4,16.57,2025-05-18,Bank Transfer,France
+1277,C017,Laptop Sleeve,Electronics,2,31.44,2025-04-28,Credit Card,Spain
+1278,C208,Scented Candle,Home,4,16.73,2025-01-31,Credit Card,Germany
+1279,C047,Protein Powder,Sports,2,32.97,2025-01-16,Bank Transfer,France
+1280,C053,Water Bottle,Sports,1,12.68,2025-06-07,PayPal,Greece
+1281,C077,Monitor Stand,Office,5,52.0,2025-02-27,Bank Transfer,Netherlands
+1282,C243,Scented Candle,Home,3,13.62,2025-07-02,Bank Transfer,Germany
+1283,C134,Monitor Stand,Office,5,52.79,2025-06-01,Debit Card,Netherlands
+1284,C061,Running Shoes,Sports,2,94.56,2025-02-20,PayPal,Germany
+1285,C056,Desk Organizer,Office,3,20.48,2025-03-27,Debit Card,Netherlands
+1286,C066,Phone Case,Electronics,4,20.64,2025-06-30,Debit Card,Spain
+1287,C174,HDMI Cable,Electronics,2,17.03,2025-06-01,Debit Card,Greece
+1288,C163,Bluetooth Speaker,Electronics,3,63.56,2025-06-08,Debit Card,Spain
+1289,C202,HDMI Cable,Electronics,4,14.15,2025-01-21,Debit Card,Greece
+1290,C176,Laptop Sleeve,Electronics,4,27.7,2025-01-31,PayPal,Netherlands
+1291,C200,Phone Case,Electronics,2,17.77,2025-03-13,PayPal,Greece
+1292,C057,Coffee Mug,Home,1,12.82,2025-02-15,Debit Card,Italy
+1293,C211,Tennis Racket,Sports,1,66.58,2025-05-30,PayPal,Netherlands
+1294,C070,Protein Powder,Sports,1,39.56,2025-01-27,Debit Card,France
+1295,C089,Laptop Sleeve,Electronics,5,31.73,2025-06-16,Bank Transfer,Spain
+1296,C176,Scented Candle,Home,2,12.03,2025-07-02,Debit Card,Germany
+1297,C014,Monitor Stand,Office,2,55.66,2025-07-07,Bank Transfer,Netherlands
+1298,C091,Fitness Tracker,Electronics,5,81.06,2025-03-29,PayPal,Spain
+1299,C237,Notebook Set,Office,3,8.75,2025-06-26,Credit Card,France
+1300,C024,USB-C Cable,Electronics,1,14.1,2025-03-17,Credit Card,Germany
+1301,C074,Laptop Sleeve,Electronics,4,31.06,2025-01-17,Bank Transfer,Netherlands
+1302,C123,Tennis Racket,Sports,5,62.11,2025-07-09,Credit Card,Spain
+1303,C213,Wireless Mouse,Electronics,4,30.94,2025-07-13,PayPal,Germany
+1304,C236,Scented Candle,Home,5,14.4,2025-01-25,Bank Transfer,Germany
+1305,C135,Notebook Set,Office,2,9.61,2025-02-03,PayPal,Germany
+1306,C109,Tennis Racket,Sports,4,64.7,2025-02-27,PayPal,Greece
+1307,C213,Laptop Sleeve,Electronics,1,29.34,2025-03-30,PayPal,Spain
+1308,C189,Desk Organizer,Office,4,19.62,2025-03-11,PayPal,Netherlands
+1309,C240,Fitness Tracker,Electronics,5,76.95,2025-05-19,Credit Card,France
+1310,C077,Monitor Stand,Office,1,53.49,2025-01-16,PayPal,Netherlands
+1311,C026,HDMI Cable,Electronics,4,16.1,2025-03-06,Credit Card,Italy
+1312,C032,Tennis Racket,Sports,1,65.77,2025-02-23,PayPal,Germany
+1313,C094,HDMI Cable,Electronics,2,19.9,2025-06-01,PayPal,Greece
+1314,C113,Water Bottle,Sports,2,14.87,2025-04-15,Bank Transfer,Greece
+1315,C051,Yoga Mat,Sports,2,35.16,2025-03-28,Credit Card,Germany
+1316,C231,Running Shoes,Sports,2,94.58,2025-07-04,Debit Card,Spain
+1317,C031,HDMI Cable,Electronics,4,17.7,2025-06-04,Bank Transfer,Netherlands
+1318,C196,Coffee Mug,Home,5,14.65,2025-04-24,Debit Card,Greece
+1319,C033,Desk Lamp,Home,3,43.89,2025-05-23,Credit Card,Netherlands
+1320,C088,HDMI Cable,Electronics,5,14.31,2025-01-17,Bank Transfer,Spain
+1321,C195,HDMI Cable,Electronics,2,16.08,2025-06-22,Debit Card,Netherlands
+1322,C197,Yoga Mat,Sports,3,38.56,2025-07-13,Debit Card,Netherlands
+1323,C181,Yoga Mat,Sports,5,39.94,2025-06-20,Debit Card,Germany
+1324,C163,Desk Lamp,Home,2,42.31,2025-02-14,Debit Card,Spain
+1325,C238,Desk Lamp,Home,4,48.91,2025-01-19,Debit Card,Greece
+1326,C135,Resistance Bands,Sports,2,22.83,2025-03-12,PayPal,Spain
+1327,C165,Running Shoes,Sports,3,89.14,2025-02-12,PayPal,France
+1328,C108,Notebook Set,Office,3,5.5,2025-01-27,Debit Card,Greece
+1329,C083,Bluetooth Speaker,Electronics,3,57.8,2025-05-15,PayPal,Italy
+1330,C243,Tennis Racket,Sports,3,62.78,2025-04-10,,Greece
+1331,C142,Desk Lamp,Home,3,48.23,2025-04-17,PayPal,Netherlands
+1332,C096,Notebook Set,Office,3,12.6,2025-03-09,Bank Transfer,Greece
+1333,C191,Protein Powder,Sports,1,37.63,2025-01-25,Debit Card,Germany
+1334,C020,Laptop Sleeve,Electronics,5,30.78,2025-04-12,PayPal,Netherlands
+1335,C137,Desk Lamp,Home,1,46.4,2025-02-16,Debit Card,Spain
+1336,C225,Laptop Sleeve,Electronics,3,32.73,2025-04-18,Bank Transfer,Netherlands
+1337,C018,Tennis Racket,Sports,4,66.79,2025-05-29,Credit Card,Germany
+1338,C034,Resistance Bands,Sports,1,20.52,2025-06-08,Credit Card,Netherlands
+1339,C127,Laptop Sleeve,Electronics,5,33.0,2025-02-03,Debit Card,Spain
+1340,C200,Coffee Mug,Home,4,8.46,2025-06-19,PayPal,Germany
+1341,C056,Desk Organizer,Office,1,21.16,2025-05-26,Bank Transfer,Italy
+1342,C078,Notebook Set,Office,3,7.29,2025-03-24,Credit Card,Germany
+1343,C075,Running Shoes,Sports,2,93.89,2025-03-27,Debit Card,France
+1344,C064,Bluetooth Speaker,Electronics,5,59.77,2025-02-13,Credit Card,Netherlands
+1345,C095,Mechanical Keyboard,Electronics,1,118.07,2025-07-14,PayPal,Netherlands
+1346,C076,Mechanical Keyboard,Electronics,1,118.75,2025-06-24,Credit Card,France
+1347,C046,Phone Case,Electronics,1,22.96,2025-06-01,Credit Card,Netherlands
+1348,C168,Phone Case,Electronics,5,18.76,2025-06-05,Debit Card,Spain
+1349,C149,Coffee Mug,Home,2,12.8,2025-05-09,Debit Card,Netherlands
+1350,C231,Tennis Racket,Sports,1,63.48,2025-05-21,Debit Card,Spain
+1351,C049,Desk Organizer,Office,4,17.98,2025-03-02,PayPal,Greece
+1352,C210,Coffee Mug,Home,5,7.57,2025-03-04,Credit Card,Germany
+1353,C233,Coffee Mug,Home,1,12.99,2025-05-29,,Netherlands
+1354,C026,Coffee Mug,Home,4,13.1,2025-01-20,Credit Card,Greece
+1355,C012,Desk Lamp,Home,2,49.51,2025-02-05,PayPal,Germany
+1356,C203,Wireless Mouse,Electronics,1,23.67,2025-06-02,PayPal,Netherlands
+1357,C195,Desk Organizer,Office,4,19.33,2025-02-25,PayPal,France
+1358,C140,Phone Case,Electronics,5,17.81,2025-02-15,Credit Card,Greece
+1359,C131,HDMI Cable,Electronics,2,13.8,2025-01-15,Debit Card,Greece
+1360,C091,Resistance Bands,Sports,2,26.07,2025-07-09,Bank Transfer,Netherlands
+1361,C029,Tennis Racket,Sports,2,69.65,2025-02-12,Debit Card,Greece
+1362,C020,Protein Powder,Sports,3,39.15,2025-02-14,PayPal,Greece
+1363,C046,HDMI Cable,Electronics,5,15.39,2025-04-10,Debit Card,Netherlands
+1364,C176,Resistance Bands,Sports,5,21.17,2025-03-29,PayPal,Greece
+1365,C095,Phone Case,Electronics,1,18.16,2025-01-15,Debit Card,Netherlands
+1366,C115,Tennis Racket,Sports,1,64.23,2025-02-12,Bank Transfer,Netherlands
+1367,C033,Water Bottle,Sports,4,15.39,2025-04-15,PayPal,Spain
+1368,C106,Protein Powder,Sports,3,35.34,2025-02-19,Debit Card,Spain
+1369,C137,Tennis Racket,Sports,5,62.67,2025-06-01,Debit Card,Spain
+1370,C135,Desk Organizer,Office,2,18.39,2025-07-13,Credit Card,Germany
+1371,C218,Wireless Mouse,Electronics,3,30.36,2025-06-06,Bank Transfer,Germany
+1372,C090,Monitor Stand,Office,2,58.68,2025-03-31,Bank Transfer,Germany
+1373,C239,HDMI Cable,Electronics,2,17.97,2025-03-09,Debit Card,Greece
+1374,C179,Desk Lamp,Home,4,42.43,2025-01-21,Bank Transfer,France
+1375,C149,USB-C Cable,Electronics,4,10.68,2025-06-16,Debit Card,Greece
+1376,C063,USB-C Cable,Electronics,1,15.62,2025-06-09,Bank Transfer,Germany
+1377,C036,Scented Candle,Home,3,11.7,2025-05-15,Bank Transfer,Netherlands
+1378,C178,Wireless Mouse,Electronics,,30.04,2025-02-12,Debit Card,Greece
+1379,C193,Water Bottle,Sports,5,18.66,2025-02-25,Credit Card,Spain
+1380,C225,Fitness Tracker,Electronics,5,78.72,2025-03-22,PayPal,Netherlands
+1381,C070,USB-C Cable,Electronics,5,11.19,2025-04-21,Debit Card,Netherlands
+1382,C057,Coffee Mug,Home,2,10.74,2025-06-07,Credit Card,Netherlands
+1383,C165,Coffee Mug,Home,4,12.16,2025-02-26,Credit Card,France
+1384,C028,Yoga Mat,Sports,1,33.92,2025-04-17,PayPal,Greece
+1385,C028,USB-C Cable,Electronics,2,11.0,2025-06-16,Credit Card,France
+1386,C238,Running Shoes,Sports,2,91.42,2025-03-24,Credit Card,Italy
+1387,C203,Tennis Racket,Sports,1,,2025-01-27,PayPal,Greece
+1388,C092,Resistance Bands,Sports,4,25.01,2025-05-23,Debit Card,France
+1389,C250,Desk Lamp,Home,1,46.03,2025-04-09,Bank Transfer,Netherlands
+1390,C199,Desk Lamp,Home,1,46.69,2025-06-14,Bank Transfer,Spain
+1391,C075,Water Bottle,Sports,2,19.08,2025-07-08,Bank Transfer,Greece
+1392,C184,Notebook Set,Office,2,6.79,2025-07-08,Debit Card,Netherlands
+1393,C133,Protein Powder,Sports,5,34.7,2025-04-12,Bank Transfer,Germany
+1394,C220,HDMI Cable,Electronics,1,13.66,2025-07-08,Bank Transfer,Germany
+1395,C020,Desk Lamp,Home,5,48.44,2025-06-24,Bank Transfer,Greece
+1396,C223,Resistance Bands,Sports,5,22.64,2025-02-06,Bank Transfer,Greece
+1397,C076,Water Bottle,Sports,1,12.71,2025-03-27,PayPal,France
+1398,C198,Fitness Tracker,Electronics,3,82.1,2025-05-16,PayPal,Spain
+1399,C032,Desk Organizer,Office,4,18.71,2025-01-25,PayPal,France
+1400,C235,Desk Lamp,Home,4,42.67,2025-04-18,PayPal,France
+1401,C116,Phone Case,Electronics,1,23.31,2025-06-22,Credit Card,Netherlands
+1402,C144,Wireless Mouse,Electronics,2,24.26,2025-02-10,PayPal,Spain
+1403,C019,Notebook Set,Office,4,9.23,2025-05-13,Credit Card,France
+1404,C231,Fitness Tracker,Electronics,1,77.77,2025-02-05,Debit Card,Netherlands
+1405,C102,HDMI Cable,Electronics,2,14.53,2025-04-27,PayPal,Greece
+1406,C125,Bluetooth Speaker,Electronics,4,57.3,2025-02-13,PayPal,Spain
+1407,C121,Desk Lamp,Home,2,48.19,2025-04-06,Credit Card,Italy
+1408,C207,Monitor Stand,Office,4,53.69,2025-05-16,Debit Card,GR
+1409,C195,HDMI Cable,Electronics,3,13.12,2025-03-20,Debit Card,Greece
+1410,C021,Resistance Bands,Sports,4,26.14,2025-05-02,Debit Card,Netherlands
+1411,C014,USB-C Cable,Electronics,4,11.09,2025-04-12,PayPal,Germany
+1412,C124,Tennis Racket,Sports,5,65.49,2025-07-10,Debit Card,Netherlands
+1413,C147,Coffee Mug,Home,1,12.77,2025-06-07,Debit Card,Greece
+1414,C038,Mechanical Keyboard,Electronics,3,124.47,2025-01-18,Debit Card,Spain
+1415,C082,Yoga Mat,Sports,4,39.55,2025-03-23,Credit Card,Spain
+1416,C163,Fitness Tracker,Electronics,5,82.87,2025-02-08,Credit Card,Germany
+1417,C179,Laptop Sleeve,Electronics,2,29.77,2025-06-17,Bank Transfer,Germany
+1418,C249,Desk Organizer,Office,1,17.92,2025-04-19,PayPal,Greece
+1419,C210,Yoga Mat,Sports,4,35.28,2025-06-30,Bank Transfer,Spain
+1420,C139,HDMI Cable,Electronics,5,15.66,2025-04-10,Credit Card,Germany
+1421,C142,Protein Powder,Sports,2,34.27,2025-06-02,Bank Transfer,Spain
+1422,C175,HDMI Cable,Electronics,3,18.44,2025-07-13,Credit Card,Greece
+1423,C167,Wireless Mouse,Electronics,5,28.99,2025-04-30,Credit Card,Spain
+1424,C140,Yoga Mat,Sports,4,34.32,2025-05-23,Credit Card,Netherlands
+1425,C058,Fitness Tracker,Electronics,5,83.75,2025-04-22,Credit Card,Germany
+1426,C090,Fitness Tracker,Electronics,4,84.42,2025-06-29,Bank Transfer,Greece
+1427,C130,Resistance Bands,Sports,3,25.71,2025-07-02,PayPal,France
+1428,C107,Notebook Set,Office,1,5.71,2025-05-01,Credit Card,Greece
+1429,C216,Scented Candle,Home,5,16.67,2025-04-06,PayPal,Germany
+1430,C062,Laptop Sleeve,Electronics,4,33.4,2025-03-05,Bank Transfer,Greece
+1431,C033,Coffee Mug,Home,2,8.26,2025-04-28,PayPal,Italy
+1432,C182,Desk Lamp,Home,5,49.33,2025-02-14,Bank Transfer,Netherlands
+1433,C041,Mechanical Keyboard,Electronics,2,120.5,2025-02-07,Credit Card,Greece
+1434,C152,Desk Lamp,Home,1,45.06,2025-06-22,Credit Card,Italy
+1435,C034,Fitness Tracker,Electronics,3,84.08,2025-03-03,Debit Card,Netherlands
+1436,C138,Notebook Set,Office,4,6.16,2025-03-22,Credit Card,France
+1437,C006,Desk Organizer,Office,1,16.48,2025-02-12,Bank Transfer,Italy
+1438,C068,Water Bottle,Sports,1,19.3,2025-02-03,Bank Transfer,France
+1439,C026,Tennis Racket,Sports,1,69.67,2025-04-30,Credit Card,Spain
+1440,C176,HDMI Cable,Electronics,4,13.43,2025-04-05,,Germany
+1441,C046,Desk Organizer,Office,5,23.45,2025-01-23,Credit Card,France
+1442,C158,Protein Powder,Sports,5,37.92,2025-01-16,Debit Card,Italy
+1443,C050,Protein Powder,Sports,1,36.08,2025-06-01,Credit Card,Italy
+1444,C222,Monitor Stand,Office,1,53.11,2025-03-11,Credit Card,France
+1445,C178,Desk Lamp,Home,3,49.63,2025-03-26,Bank Transfer,Germany
+1446,C142,Resistance Bands,Sports,4,26.57,2025-05-21,Bank Transfer,Italy
+1447,C065,Water Bottle,Sports,2,12.82,2025-07-09,PayPal,Spain
+1448,C151,Resistance Bands,Sports,2,26.06,2025-03-08,Bank Transfer,Spain
+1449,C192,Phone Case,Electronics,3,20.05,2025-06-23,Credit Card,Italy
+1450,C091,Monitor Stand,Office,1,59.66,2025-05-10,Debit Card,Greece
+1451,C105,Resistance Bands,Sports,5,19.24,2025-06-29,PayPal,Spain
+1452,C083,HDMI Cable,Electronics,2,13.71,2025-04-16,Debit Card,Greece
+1453,C038,Mechanical Keyboard,Electronics,1,117.09,2025-01-17,PayPal,Netherlands
+1454,C120,Desk Organizer,Office,3,17.77,2025-03-15,Credit Card,Spain
+1455,C056,Yoga Mat,Sports,5,39.14,2025-03-27,Credit Card,Italy
+1456,C194,HDMI Cable,Electronics,3,12.39,2025-04-06,Debit Card,Germany
+1457,C012,Phone Case,Electronics,4,18.36,2025-02-14,Credit Card,Spain
+1458,C099,Notebook Set,Office,5,10.65,2025-01-20,PayPal,Greece
+1459,C002,Fitness Tracker,Electronics,3,84.07,2025-02-17,Bank Transfer,Greece
+1460,C011,Mechanical Keyboard,Electronics,1,123.64,2025-02-01,Bank Transfer,Greece
+1461,C078,Phone Case,Electronics,3,21.44,2025-04-13,Bank Transfer,Greece
+1462,C157,Running Shoes,Sports,4,93.69,2025-04-01,Bank Transfer,Spain
+1463,C032,Monitor Stand,Office,5,52.38,2025-02-10,,Germany
+1464,C027,Mechanical Keyboard,Electronics,4,118.53,2025-03-13,Debit Card,Greece
+1465,c095,Laptop Sleeve,Electronics,1,34.06,2025-07-10,Credit Card,France
+1466,C013,Resistance Bands,Sports,1,23.9,2025-03-23,PayPal,Netherlands
+1467,C070,Water Bottle,Sports,2,13.01,2025-06-13,Bank Transfer,Greece
+1468,C193,Desk Organizer,Office,4,16.48,2025-06-27,Bank Transfer,Netherlands
+1469,C148,Tennis Racket,Sports,4,65.86,2025-03-27,PayPal,Netherlands
+1470,C197,Resistance Bands,Sports,1,24.18,2025-04-15,Debit Card,Netherlands
+1471,C178,USB-C Cable,Electronics,1,9.61,2025-05-21,Credit Card,Germany
+1472,C210,Coffee Mug,Home,2,8.66,2025-05-19,Credit Card,France
+1473,C136,Scented Candle,Home,3,10.23,2025-04-04,Bank Transfer,Netherlands
+1474,C235,Desk Lamp,Home,2,48.94,2025-04-18,Bank Transfer,Spain
+1475,C200,Coffee Mug,Home,2,8.3,2025-02-01,PayPal,Spain
+1476,C223,Desk Organizer,Office,1,21.46,2025-02-21,Bank Transfer,Greece
+1477,C229,Fitness Tracker,Electronics,2,82.2,2025-03-24,Credit Card,Spain
+1478,C068,Yoga Mat,Sports,5,33.7,2025-02-05,PayPal,Spain
+1479,c111,Scented Candle,Home,3,11.96,2025-01-28,Bank Transfer,France
+1480,C098,HDMI Cable,Electronics,2,13.4,2025-03-31,Debit Card,Spain
+1481,C156,Tennis Racket,Sports,5,62.4,2025-05-05,Credit Card,Netherlands
+1482,C029,Notebook Set,Office,1,7.63,2025-01-28,Credit Card,Italy
+1483,C026,Phone Case,Electronics,2,20.13,2025-06-22,Bank Transfer,Spain
+1484,C211,Phone Case,Electronics,4,19.77,2025-03-08,Debit Card,Germany
+1485,C153,Resistance Bands,Sports,1,26.26,2025-02-08,Debit Card,Italy
+1486,C190,Resistance Bands,Sports,2,19.56,2025-02-27,PayPal,Netherlands
+1487,C231,Fitness Tracker,Electronics,2,79.57,2025-01-18,Bank Transfer,Spain
+1488,C068,USB-C Cable,Electronics,2,12.32,2025-07-07,Credit Card,Italy
+1489,C001,Tennis Racket,Sports,2,68.55,2025-05-15,Credit Card,Greece
+1490,C075,Notebook Set,Office,5,11.7,2025-05-23,Debit Card,Germany
+1491,C206,Mechanical Keyboard,Electronics,4,119.06,2025-05-20,PayPal,Italy
+1492,C094,Fitness Tracker,Electronics,1,79.57,2025-04-15,PayPal,Netherlands
+1493,C170,Protein Powder,Sports,4,36.14,2025-02-12,PayPal,Netherlands
+1494,C038,HDMI Cable,Electronics,2,15.97,2025-07-02,Debit Card,France
+1495,C190,HDMI Cable,Electronics,3,19.36,2025-03-08,Credit Card,Germany
+1496,C028,Phone Case,Electronics,5,24.27,2025-05-10,Debit Card,France
+1497,C085,Coffee Mug,Home,5,8.51,2025-05-01,PayPal,France
+1498,C180,Mechanical Keyboard,Electronics,5,121.53,2025-02-15,Bank Transfer,Spain
+1499,C089,Resistance Bands,Sports,1,20.18,2025-01-17,Bank Transfer,Netherlands
+1500,C134,Resistance Bands,Sports,5,22.89,2025-06-06,Debit Card,France
+1501,C076,Wireless Mouse,Electronics,4,29.59,2025-01-25,Debit Card,France
+1502,c126,Resistance Bands,Sports,1,25.67,2025-05-05,PayPal,Netherlands
+1503,C036,Monitor Stand,Office,3,57.71,2025-05-23,Debit Card,Greece
+1504,C188,Bluetooth Speaker,Electronics,4,58.74,2025-06-13,Credit Card,France
+1505,C091,Notebook Set,Office,4,12.64,2025-05-03,Bank Transfer,Greece
+1506,C153,Resistance Bands,Sports,2,26.01,2025-06-08,Bank Transfer,Netherlands
+1507,C036,Bluetooth Speaker,Electronics,3,58.59,2025-02-18,Bank Transfer,Italy
+1508,C077,Desk Organizer,Office,4,21.76,2025-06-03,Debit Card,Spain
+1509,C025,Desk Lamp,Home,5,49.48,2025-05-08,PayPal,Italy
+1510,C120,Monitor Stand,Office,4,55.69,2025-05-14,Bank Transfer,Spain
+1511,C007,HDMI Cable,Electronics,1,16.63,2025-02-19,PayPal,Germany
+1512,C159,Laptop Sleeve,Electronics,5,28.0,2025-03-31,Credit Card,Spain
+1513,C119,Scented Candle,Home,4,11.16,2025-01-28,Credit Card,Greece
+1514,C028,Mechanical Keyboard,Electronics,5,120.85,2025-02-08,PayPal,Italy
+1515,C016,Yoga Mat,Sports,5,33.64,2025-07-06,Credit Card,Netherlands
+1516,C190,Tennis Racket,Sports,2,67.03,2025-03-13,Debit Card,France
+1517,C240,Wireless Mouse,Electronics,4,23.53,2025-06-23,Debit Card,Greece
+1518,C226,Yoga Mat,Sports,5,32.83,2025-02-08,Debit Card,GE
+1519,C130,Fitness Tracker,Electronics,4,80.14,2025-01-29,Credit Card,France
+1520,C210,Notebook Set,Office,5,10.44,2025-03-22,Bank Transfer,Netherlands
+1521,C163,Wireless Mouse,Electronics,2,27.08,2025-02-20,Debit Card,Germany
+1522,C052,Tennis Racket,Sports,4,62.8,2025-03-30,PayPal,Netherlands
+1523,C095,Phone Case,Electronics,4,20.33,2025-04-23,Credit Card,Spain
+1524,C008,Resistance Bands,Sports,,23.64,2025-02-14,Bank Transfer,Greece
+1525,C167,Protein Powder,Sports,4,35.73,2025-01-25,PayPal,Germany
+1526,C071,Wireless Mouse,Electronics,2,30.21,2025-04-16,Debit Card,France
+1527,C132,USB-C Cable,Electronics,2,14.75,2025-07-01,Debit Card,France
+1528,C118,Desk Lamp,Home,3,42.55,2025-07-02,PayPal,Spain
+1529,C124,Coffee Mug,Home,4,12.66,2025-06-19,Debit Card,Italy
+1530,C169,Scented Candle,Home,3,16.64,2025-02-17,PayPal,Italy
+1531,C159,Coffee Mug,Home,1,8.26,2025-01-26,Credit Card,Netherlands
+1532,C028,Tennis Racket,Sports,4,68.36,2025-04-07,Debit Card,Netherlands
+1533,C226,Water Bottle,Sports,4,16.9,2025-05-02,Credit Card,Greece
+1534,C217,USB-C Cable,Electronics,4,12.07,2025-04-20,Credit Card,Germany
+1535,C097,Desk Lamp,Home,5,44.02,2025-06-06,Debit Card,Germany
+1536,C074,Notebook Set,Office,2,11.97,2025-02-25,Bank Transfer,Italy
+1537,C150,Wireless Mouse,Electronics,1,30.14,2025-03-08,Credit Card,Germany
+1538,C105,Desk Organizer,Office,5,20.96,2025-02-02,PayPal,Germany
+1539,C187,Scented Candle,Home,4,15.62,2025-03-04,Debit Card,Italy
+1540,C092,Protein Powder,Sports,5,35.41,2025-02-19,Credit Card,Spain
+1541,C019,Desk Organizer,Office,1,16.44,2025-02-16,PayPal,Greece
+1542,C154,Laptop Sleeve,Electronics,3,34.37,2025-01-20,Debit Card,France
+1543,C181,Monitor Stand,Office,1,56.28,2025-02-24,PayPal,Greece
+1544,C133,Protein Powder,Sports,5,32.44,2025-04-04,Bank Transfer,Italy
+1545,C029,Desk Organizer,Office,4,18.2,2025-03-23,Credit Card,Greece
+1546,C086,Running Shoes,Sports,2,94.2,2025-03-08,PayPal,Netherlands
+1547,C127,USB-C Cable,Electronics,5,17.35,2025-06-20,Credit Card,France
+1548,c154,Protein Powder,Sports,1,34.15,2025-06-05,Bank Transfer,Germany
+1549,C010,Tennis Racket,Sports,5,65.82,2025-03-13,PayPal,Spain
+1550,C225,Notebook Set,Office,1,9.77,2025-01-29,Credit Card,Germany
+1551,C175,Wireless Mouse,Electronics,5,29.12,2025-05-18,Credit Card,Spain
+1552,C111,HDMI Cable,Electronics,5,12.93,2025-02-19,Credit Card,Spain
+1553,C232,Monitor Stand,Office,3,59.34,2025-03-05,PayPal,Spain
+1554,C024,Desk Organizer,Office,1,21.52,2025-03-14,Bank Transfer,Netherlands
+1555,C138,Desk Organizer,Office,1,16.11,2025-01-18,Debit Card,Greece
+1556,C047,Resistance Bands,Sports,1,24.24,2025-04-05,PayPal,Italy
+1557,C075,Desk Lamp,Home,5,42.98,2025-04-26,Bank Transfer,Netherlands
+1558,C065,Laptop Sleeve,Electronics,2,30.54,2025-05-21,PayPal,Germany
+1559,C094,Laptop Sleeve,Electronics,3,34.13,2025-07-01,Debit Card,Italy
+1560,C139,Scented Candle,Home,1,14.64,2025-01-28,PayPal,Spain
+1561,C072,USB-C Cable,Electronics,2,15.44,2025-02-19,Debit Card,France
+1562,C096,Desk Lamp,Home,1,48.11,2025-03-16,Bank Transfer,Netherlands
+1563,C006,Tennis Racket,Sports,1,65.07,2025-03-25,PayPal,Italy
+1564,C022,Running Shoes,Sports,3,87.05,2025-06-20,Bank Transfer,Spain
+1565,C114,Running Shoes,Sports,2,92.18,2025-03-08,Bank Transfer,Germany
+1566,C170,Resistance Bands,Sports,1,26.28,2025-06-02,PayPal,Greece
+1567,C087,Phone Case,Electronics,5,22.8,2025-03-11,Credit Card,France
+1568,C222,HDMI Cable,Electronics,1,19.45,2025-02-11,Bank Transfer,Netherlands
+1569,C241,Laptop Sleeve,Electronics,4,34.67,2025-05-03,PayPal,Germany
+1570,C237,Notebook Set,Office,2,13.11,2025-01-18,PayPal,Netherlands
+1571,C064,Laptop Sleeve,Electronics,3,31.91,2025-04-11,Bank Transfer,Greece
+1572,C169,Phone Case,Electronics,5,21.54,2025-01-18,Credit Card,France
+1573,C068,Water Bottle,Sports,,12.07,2025-05-13,Credit Card,Spain
+1574,C092,Tennis Racket,Sports,5,66.64,2025-03-11,Bank Transfer,Greece
+1575,C230,Protein Powder,Sports,5,33.43,2025-04-05,Credit Card,Spain
+1576,C071,Phone Case,Electronics,4,18.39,2025-02-16,Debit Card,Netherlands
+1577,C168,Running Shoes,Sports,2,92.38,2025-02-13,Credit Card,Germany
+1578,C149,Mechanical Keyboard,Electronics,1,124.61,2025-06-05,Debit Card,Greece
+1579,C250,Phone Case,Electronics,1,22.74,2025-07-07,PayPal,Italy
+1580,C090,Yoga Mat,Sports,1,36.09,2025-05-24,Bank Transfer,Greece
+1581,C084,Desk Organizer,Office,3,20.64,2025-07-08,Bank Transfer,Greece
+1582,C037,Wireless Mouse,Electronics,3,30.79,2025-06-19,PayPal,France
+1583,C096,Tennis Racket,Sports,3,64.95,2025-06-23,Credit Card,Germany
+1584,C039,Desk Organizer,Office,1,19.59,2025-02-11,Debit Card,France
+1585,C131,Desk Organizer,Office,3,15.76,2025-03-11,Bank Transfer,Italy
+1586,C098,USB-C Cable,Electronics,1,15.36,2025-03-13,Bank Transfer,Italy
+1587,C136,Running Shoes,Sports,5,89.05,2025-05-15,Bank Transfer,France
+1588,C076,Notebook Set,Office,3,9.15,2025-03-18,PayPal,Germany
+1589,C030,Notebook Set,Office,4,8.32,2025-04-29,PayPal,Greece
+1590,C235,Monitor Stand,Office,4,58.29,2025-06-18,Debit Card,Spain
+1591,C212,Desk Lamp,Home,5,46.68,2025-03-18,Bank Transfer,Netherlands
+1592,C067,Resistance Bands,Sports,3,22.27,2025-04-05,Credit Card,Greece
+1593,C038,Desk Organizer,Office,4,22.51,2025-06-25,,Germany
+1594,C031,HDMI Cable,Electronics,3,12.8,2025-06-05,Bank Transfer,Netherlands
+1595,C214,HDMI Cable,Electronics,1,13.05,2025-07-10,Debit Card,Greece
+1596,C236,Coffee Mug,Home,4,12.57,2025-04-15,Debit Card,Spain
+1597,C076,Yoga Mat,Sports,3,32.36,2025-04-11,Credit Card,Netherlands
+1598,C091,Fitness Tracker,Electronics,4,83.58,2025-06-25,Bank Transfer,Netherlands
+1599,C123,Desk Lamp,Home,2,49.16,2025-06-14,Credit Card,Germany
+1600,C095,Fitness Tracker,Electronics,4,80.97,2025-04-07,Bank Transfer,Germany
+1601,C242,Yoga Mat,Sports,2,32.39,2025-04-01,Bank Transfer,France
+1602,C135,Desk Organizer,Office,5,18.57,2025-05-04,PayPal,France
+1603,C245,Desk Lamp,Home,1,44.23,2025-03-09,Bank Transfer,Italy
+1604,C081,Yoga Mat,Sports,3,34.3,2025-03-28,Debit Card,Greece
+1605,C058,Water Bottle,Sports,3,17.33,2025-03-22,Credit Card,Germany
+1606,C053,Laptop Sleeve,Electronics,5,34.21,2025-02-27,Credit Card,Italy
+1607,C139,Laptop Sleeve,Electronics,2,29.95,2025-01-16,Bank Transfer,Greece
+1608,C243,Desk Organizer,Office,4,17.86,2025-05-08,Debit Card,Spain
+1609,C181,Yoga Mat,Sports,4,32.69,2025-05-05,Bank Transfer,France
+1610,C072,Yoga Mat,Sports,3,32.59,2025-02-04,Debit Card,Netherlands
+1611,C086,Phone Case,Electronics,4,22.49,2025-06-25,Credit Card,Netherlands
+1612,C010,HDMI Cable,Electronics,1,18.72,2025-07-14,PayPal,Germany
+1613,C225,Running Shoes,Sports,1,89.91,2025-03-18,Debit Card,Italy
+1614,C173,Bluetooth Speaker,Electronics,3,63.5,2025-05-15,Debit Card,Spain
+1615,C073,Desk Lamp,Home,2,48.86,2025-06-26,Credit Card,Italy
+1616,C001,HDMI Cable,Electronics,1,13.41,2025-05-20,Debit Card,Netherlands
+1617,C068,Protein Powder,Sports,4,34.78,2025-06-25,Debit Card,Netherlands
+1618,C245,Water Bottle,Sports,3,15.88,2025-03-15,PayPal,Netherlands
+1619,C101,Protein Powder,Sports,3,32.76,2025-06-03,Bank Transfer,France
+1620,C226,Resistance Bands,Sports,4,24.3,2025-05-09,PayPal,Germany
+1621,C119,Mechanical Keyboard,Electronics,1,118.02,2025-04-13,Bank Transfer,Netherlands
+1622,C216,Tennis Racket,Sports,5,64.33,2025-04-30,Debit Card,Greece
+1623,C228,HDMI Cable,Electronics,1,17.39,2025-06-07,PayPal,France
+1624,C208,Fitness Tracker,Electronics,4,79.05,2025-04-27,PayPal,Greece
+1625,C087,Running Shoes,Sports,3,91.48,2025-05-09,Bank Transfer,Germany
+1626,C053,Yoga Mat,Sports,5,36.84,2025-06-20,,Germany
+1627,C185,Wireless Mouse,Electronics,4,29.12,2025-02-07,PayPal,France
+1628,C168,Running Shoes,Sports,5,88.49,2025-03-09,PayPal,Italy
+1629,C138,Coffee Mug,Home,2,9.64,2025-03-30,Debit Card,France
+1630,C188,Notebook Set,Office,1,6.32,2025-01-24,Credit Card,Italy
+1631,C125,Running Shoes,Sports,2,88.74,2025-03-28,PayPal,Greece
+1632,C064,Running Shoes,Sports,3,90.11,2025-02-15,Bank Transfer,Netherlands
+1633,C225,Phone Case,Electronics,1,22.77,2025-02-03,Credit Card,Italy
+1634,C107,Wireless Mouse,Electronics,1,28.88,2025-06-02,Debit Card,Greece
+1635,C050,Protein Powder,Sports,3,37.94,2025-04-07,Bank Transfer,Italy
+1636,C118,Bluetooth Speaker,Electronics,1,59.32,2025-03-23,Bank Transfer,Spain
+1637,C248,HDMI Cable,Electronics,5,19.25,2025-03-27,Bank Transfer,France
+1638,C063,Coffee Mug,Home,1,13.09,2025-05-22,Bank Transfer,France
+1639,C116,Notebook Set,Office,5,9.08,2025-01-21,Bank Transfer,Germany
+1640,C028,Resistance Bands,Sports,3,23.49,2025-02-20,Credit Card,Greece
+1641,C242,Tennis Racket,Sports,5,65.23,2025-03-19,Credit Card,Germany
+1642,C134,Desk Organizer,Office,2,18.79,2025-01-30,Bank Transfer,France
+1643,C214,Desk Lamp,Home,1,44.15,2025-04-07,Bank Transfer,Greece
+1644,C144,Tennis Racket,Sports,5,63.89,2025-05-22,PayPal,Netherlands
+1645,C124,Scented Candle,Home,5,14.59,2025-02-04,Credit Card,Spain
+1646,C194,Wireless Mouse,Electronics,2,24.57,2025-05-28,Credit Card,Germany
+1647,C030,Running Shoes,Sports,4,93.33,2025-05-21,Debit Card,Netherlands
+1648,C192,Laptop Sleeve,Electronics,4,27.93,2025-04-27,Credit Card,France
+1649,C185,Phone Case,Electronics,5,22.19,2025-04-07,PayPal,Italy
+1650,C134,Bluetooth Speaker,Electronics,5,60.69,2025-04-20,PayPal,Spain
+1651,C238,Desk Lamp,Home,2,44.54,2025-05-29,Bank Transfer,Greece
+1652,C121,USB-C Cable,Electronics,1,15.05,2025-04-04,Debit Card,Germany
+1653,C085,Yoga Mat,Sports,1,33.25,2025-06-23,Bank Transfer,Italy
+1654,C144,Notebook Set,Office,3,7.7,2025-06-24,Credit Card,Germany
+1655,C223,HDMI Cable,Electronics,5,18.13,2025-04-03,PayPal,Italy
+1656,C144,Laptop Sleeve,Electronics,2,32.84,2025-02-03,Debit Card,Greece
+1657,C068,Desk Organizer,Office,1,20.11,2025-02-16,Bank Transfer,France
+1658,C155,Phone Case,Electronics,5,18.33,2025-07-05,Bank Transfer,Germany
+1659,C056,USB-C Cable,Electronics,5,,2025-02-21,Debit Card,Germany
+1660,C020,Running Shoes,Sports,2,92.22,2025-05-25,Bank Transfer,Spain
+1661,C129,Yoga Mat,Sports,2,38.19,2025-06-07,Bank Transfer,Spain
+1662,C091,Resistance Bands,Sports,5,25.74,2025-04-06,Credit Card,Italy
+1663,C243,Phone Case,Electronics,2,22.55,2025-05-06,Bank Transfer,Spain
+1664,C031,Laptop Sleeve,Electronics,4,27.19,2025-06-30,PayPal,Germany
+1665,C120,Monitor Stand,Office,4,54.99,2025-03-10,Debit Card,Spain
+1666,C003,Bluetooth Speaker,Electronics,4,61.68,2025-04-17,Debit Card,Greece
+1667,C234,Monitor Stand,Office,3,54.18,2025-05-23,Credit Card,Italy
+1668,C165,Tennis Racket,Sports,4,67.0,2025-01-26,PayPal,France
+1669,C211,Wireless Mouse,Electronics,4,24.38,2025-06-19,Bank Transfer,Spain
+1670,C166,Laptop Sleeve,Electronics,1,31.89,2025-01-24,PayPal,Greece
+1671,C181,Water Bottle,Sports,2,12.45,2025-02-05,Bank Transfer,Greece
+1672,C016,Mechanical Keyboard,Electronics,1,122.24,2025-06-03,PayPal,Germany
+1673,C086,Mechanical Keyboard,Electronics,2,117.11,2025-06-14,PayPal,Italy
+1674,C107,Running Shoes,Sports,1,89.03,2025-03-05,Debit Card,Netherlands
+1675,C012,Phone Case,Electronics,5,22.07,2025-03-06,Bank Transfer,Germany
+1676,C241,Wireless Mouse,Electronics,3,25.72,2025-03-26,PayPal,Greece
+1677,C179,USB-C Cable,Electronics,5,16.84,2025-05-13,Credit Card,Greece
+1678,C023,Water Bottle,Sports,3,18.31,2025-06-15,Credit Card,Germany
+1679,C096,Fitness Tracker,Electronics,1,82.04,2025-03-19,PayPal,Netherlands
+1680,C049,Desk Lamp,Home,3,44.3,2025-01-28,Bank Transfer,Netherlands
+1681,C145,Mechanical Keyboard,Electronics,4,124.07,2025-03-13,Debit Card,France
+1682,C076,Phone Case,Electronics,4,19.83,2025-03-23,Credit Card,Spain
+1683,C198,Scented Candle,Home,4,16.6,2025-06-25,Debit Card,Greece
+1684,C040,Laptop Sleeve,Electronics,5,32.16,2025-03-09,Bank Transfer,France
+1685,C074,Bluetooth Speaker,Electronics,3,61.1,2025-07-13,PayPal,Greece
+1686,C056,Fitness Tracker,Electronics,3,82.17,2025-01-23,Credit Card,Italy
+1687,C036,Fitness Tracker,Electronics,5,79.92,2025-04-07,PayPal,Italy
+1688,C009,Mechanical Keyboard,Electronics,1,118.27,2025-06-25,PayPal,Greece
+1689,C087,Yoga Mat,Sports,2,35.73,2025-04-16,PayPal,Germany
+1690,C006,Fitness Tracker,Electronics,5,80.09,2025-05-11,Bank Transfer,Netherlands
+1691,c065,Monitor Stand,Office,5,55.21,2025-04-11,Bank Transfer,Netherlands
+1692,C238,Notebook Set,Office,5,11.69,2025-02-11,Bank Transfer,Spain
+1693,C103,Desk Organizer,Office,1,22.59,2025-02-25,Debit Card,France
+1694,C242,Scented Candle,Home,2,14.31,2025-06-09,Debit Card,Germany
+1695,C014,USB-C Cable,Electronics,3,12.67,2025-02-20,PayPal,Spain
+1696,C169,Desk Lamp,Home,2,42.64,2025-02-28,PayPal,France
+1697,C053,HDMI Cable,Electronics,1,16.43,2025-03-18,Debit Card,Netherlands
+1698,C002,Tennis Racket,Sports,2,66.4,2025-04-13,Credit Card,Spain
+1699,C055,Tennis Racket,Sports,4,65.1,2025-05-13,Debit Card,Greece
+1700,C240,Desk Lamp,Home,4,47.84,2025-04-08,PayPal,Netherlands
+1701,C101,Laptop Sleeve,Electronics,1,32.91,2025-04-13,Bank Transfer,Netherlands
+1702,C057,Protein Powder,Sports,2,34.71,2025-03-16,PayPal,France
+1703,c157,Protein Powder,Sports,4,35.99,2025-02-03,Debit Card,Germany
+1704,C078,HDMI Cable,Electronics,1,13.43,2025-04-11,Bank Transfer,Netherlands
+1705,C080,Coffee Mug,Home,4,8.43,2025-01-23,PayPal,Spain
+1706,C133,Yoga Mat,Sports,4,37.86,2025-02-05,PayPal,Netherlands
+1707,C104,Wireless Mouse,Electronics,2,27.05,2025-04-06,Debit Card,Italy
+1708,C003,Tennis Racket,Sports,4,65.4,2025-05-03,Credit Card,France
+1709,C030,Protein Powder,Sports,4,37.69,2025-05-23,PayPal,Spain
+1710,C249,Monitor Stand,Office,1,58.08,2025-03-01,Bank Transfer,Italy
+1711,C021,Desk Lamp,Home,1,46.12,2025-04-11,PayPal,Germany
+1712,C224,Fitness Tracker,Electronics,4,77.22,2025-01-27,Bank Transfer,France
+1713,C118,Monitor Stand,Office,1,55.41,2025-06-17,PayPal,France
+1714,C197,Wireless Mouse,Electronics,5,25.85,2025-03-24,,France
+1715,C084,Resistance Bands,Sports,1,24.86,2025-06-16,Credit Card,France
+1716,C102,Notebook Set,Office,2,11.31,2025-02-05,Credit Card,Germany
+1717,C111,Phone Case,Electronics,3,23.55,2025-05-12,Debit Card,Netherlands
+1718,C011,USB-C Cable,Electronics,3,14.37,2025-04-20,Credit Card,Germany
+1719,C208,Yoga Mat,Sports,4,39.42,2025-05-26,Credit Card,France
+1720,C109,Coffee Mug,Home,1,12.21,2025-03-03,PayPal,Netherlands
+1721,C215,HDMI Cable,Electronics,1,16.91,2025-03-05,PayPal,France
+1722,C204,Notebook Set,Office,1,11.59,2025-04-20,Bank Transfer,Germany
+1723,C192,Water Bottle,Sports,3,15.19,2025-05-23,Credit Card,Italy
+1724,C073,Phone Case,Electronics,1,23.25,2025-04-29,Debit Card,Greece
+1725,C071,Phone Case,Electronics,4,18.76,2025-06-17,,Greece
+1726,C084,Notebook Set,Office,1,11.2,2025-06-20,PayPal,Netherlands
+1727,C151,HDMI Cable,Electronics,5,19.43,2025-04-09,,Spain
+1728,C088,Mechanical Keyboard,Electronics,3,123.83,2025-05-08,Debit Card,Spain
+1729,C137,Water Bottle,Sports,4,17.29,2025-03-21,Bank Transfer,Greece
+1730,C021,Tennis Racket,Sports,5,67.98,2025-04-13,Credit Card,Germany
+1731,C078,Resistance Bands,Sports,3,20.25,2025-05-10,Bank Transfer,Greece
+1732,C160,Monitor Stand,Office,5,58.01,2025-05-05,Bank Transfer,Greece
+1733,C191,Tennis Racket,Sports,2,66.86,2025-04-21,Debit Card,Spain
+1734,C025,Coffee Mug,Home,2,9.3,2025-03-10,Credit Card,Italy
+1735,C197,Coffee Mug,Home,5,10.34,2025-04-29,PayPal,Germany
+1736,C082,Monitor Stand,Office,1,56.29,2025-07-04,PayPal,Italy
+1737,C220,Coffee Mug,Home,4,8.25,2025-05-13,PayPal,Spain
+1738,C103,Resistance Bands,Sports,1,24.25,2025-05-31,PayPal,Spain
+1739,C026,Coffee Mug,Home,5,10.27,2025-07-01,Bank Transfer,Spain
+1740,C159,Notebook Set,Office,2,10.06,2025-06-20,Credit Card,Italy
+1741,C006,Mechanical Keyboard,Electronics,5,122.0,2025-03-19,Debit Card,Italy
+1742,C244,Monitor Stand,Office,1,56.09,2025-06-17,Bank Transfer,Italy
+1743,C234,Water Bottle,Sports,4,15.78,2025-04-19,Debit Card,Germany
+1744,C052,Mechanical Keyboard,Electronics,2,118.66,2025-03-31,Credit Card,Greece
+1745,C063,Protein Powder,Sports,4,35.99,2025-03-17,Debit Card,Spain
+1746,C155,Mechanical Keyboard,Electronics,2,,2025-03-18,Bank Transfer,Netherlands
+1747,C009,HDMI Cable,Electronics,5,18.25,2025-05-15,Bank Transfer,Greece
+1748,C227,Laptop Sleeve,Electronics,1,30.84,2025-06-19,Credit Card,Spain
+1749,C075,Coffee Mug,Home,1,14.41,2025-04-18,Bank Transfer,Netherlands
+1750,C113,HDMI Cable,Electronics,1,18.05,2025-02-10,Debit Card,France
+1751,C203,Yoga Mat,Sports,2,34.72,2025-04-18,Bank Transfer,Netherlands
+1752,C204,Tennis Racket,Sports,2,67.14,2025-03-23,Credit Card,France
+1753,C231,Tennis Racket,Sports,2,67.51,2025-03-22,PayPal,France
+1754,C116,Phone Case,Electronics,5,18.17,2025-03-26,Credit Card,Germany
+1755,C057,Monitor Stand,Office,5,59.56,2025-04-17,PayPal,France
+1756,C163,Resistance Bands,Sports,4,24.95,2025-05-07,PayPal,Germany
+1757,C038,Protein Powder,Sports,3,33.81,2025-04-23,PayPal,Netherlands
+1758,C150,Resistance Bands,Sports,2,21.91,2025-06-13,Credit Card,France
+1759,C223,Scented Candle,Home,4,14.15,2025-05-17,Debit Card,France
+1760,C129,Mechanical Keyboard,Electronics,5,122.19,2025-04-20,Bank Transfer,Spain
+1761,C124,Water Bottle,Sports,4,19.58,2025-04-22,Credit Card,Netherlands
+1762,C080,Bluetooth Speaker,Electronics,2,63.21,2025-02-22,PayPal,Italy
+1763,C167,Bluetooth Speaker,Electronics,3,64.29,2025-05-22,Bank Transfer,Italy
+1764,C216,Scented Candle,Home,2,9.26,2025-03-07,PayPal,Netherlands
+1765,C244,Mechanical Keyboard,Electronics,5,124.69,2025-02-01,PayPal,Italy
+1766,C138,USB-C Cable,Electronics,1,11.55,2025-05-09,Debit Card,Germany
+1767,C177,Notebook Set,Office,2,5.82,2025-07-10,Bank Transfer,Germany
+1768,C142,Phone Case,Electronics,1,21.17,2025-03-04,Credit Card,Germany
+1769,C059,Notebook Set,Office,5,6.29,2025-06-12,Bank Transfer,Spain
+1770,C014,Mechanical Keyboard,Electronics,1,120.54,2025-03-06,Bank Transfer,Greece
+1771,C026,Laptop Sleeve,Electronics,5,31.54,2025-03-11,Bank Transfer,France
+1772,C221,Yoga Mat,Sports,4,38.45,2025-06-28,Debit Card,Italy
+1773,C117,Wireless Mouse,Electronics,3,28.04,2025-04-29,PayPal,Spain
+1774,C124,Scented Candle,Home,3,15.94,2025-06-29,PayPal,France
+1775,C071,Laptop Sleeve,Electronics,5,34.81,2025-04-04,Bank Transfer,Greece
+1776,C125,Wireless Mouse,Electronics,3,24.3,2025-05-25,Bank Transfer,Spain
+1777,C111,Resistance Bands,Sports,1,24.5,2025-05-08,PayPal,Netherlands
+1778,C050,Yoga Mat,Sports,2,34.44,2025-03-10,PayPal,Italy
+1779,C121,Yoga Mat,Sports,3,37.38,2025-06-20,Debit Card,Italy
+1780,C050,Coffee Mug,Home,2,14.64,2025-02-24,Debit Card,France
+1781,C168,Protein Powder,Sports,4,35.77,2025-03-24,Debit Card,France
+1782,C078,Monitor Stand,Office,2,54.83,2025-04-03,PayPal,Netherlands
+1783,C116,Resistance Bands,Sports,4,19.05,2025-06-08,Bank Transfer,Spain
+1784,C015,HDMI Cable,Electronics,3,18.13,2025-06-29,,Spain
+1785,C181,Bluetooth Speaker,Electronics,2,63.65,2025-07-03,PayPal,FR
+1786,C110,Coffee Mug,Home,3,11.93,2025-06-06,Debit Card,Germany
+1787,C071,Yoga Mat,Sports,1,37.78,2025-03-18,Debit Card,France
+1788,C152,Tennis Racket,Sports,1,69.68,2025-07-02,Bank Transfer,Netherlands
+1789,C064,Phone Case,Electronics,5,17.8,2025-06-14,Bank Transfer,Greece
+1790,C071,Laptop Sleeve,Electronics,3,30.76,2025-05-07,PayPal,Greece
+1791,C019,Mechanical Keyboard,Electronics,4,119.39,2025-02-22,Debit Card,Italy
+1792,C023,Fitness Tracker,Electronics,2,81.15,2025-04-08,PayPal,Italy
+1793,C006,Desk Lamp,Home,1,49.24,2025-07-13,PayPal,France
+1794,C227,Bluetooth Speaker,Electronics,2,60.68,2025-04-07,Bank Transfer,Germany
+1795,C174,Phone Case,Electronics,3,17.94,2025-06-18,Credit Card,Germany
+1796,C102,Tennis Racket,Sports,1,64.99,2025-05-30,Credit Card,Italy
+1797,C009,Scented Candle,Home,3,13.6,2025-06-01,Bank Transfer,France
+1798,C189,USB-C Cable,Electronics,5,10.77,2025-02-07,Credit Card,Italy
+1799,C218,USB-C Cable,Electronics,5,15.64,2025-05-14,Debit Card,Greece
+1800,C071,Fitness Tracker,Electronics,4,78.35,2025-02-22,PayPal,Greece
+1801,C117,Scented Candle,Home,4,11.35,2025-01-20,Bank Transfer,Italy
+1802,C100,Wireless Mouse,Electronics,1,24.19,2025-03-13,PayPal,Spain
+1803,C150,Mechanical Keyboard,Electronics,5,124.4,2025-05-12,Debit Card,Italy
+1804,C184,Desk Organizer,Office,2,17.97,2025-03-04,Debit Card,Germany
+1805,C137,Protein Powder,Sports,1,34.61,2025-02-16,PayPal,Greece
+1806,C059,Bluetooth Speaker,Electronics,2,64.92,2025-04-02,Debit Card,Spain
+1807,C236,Bluetooth Speaker,Electronics,3,57.97,2025-01-21,Debit Card,Spain
+1808,C007,Fitness Tracker,Electronics,2,80.41,2025-04-22,Credit Card,Spain
+1809,C198,Coffee Mug,Home,5,11.04,2025-02-15,Credit Card,Germany
+1810,C133,Yoga Mat,Sports,2,37.93,2025-03-09,Credit Card,Spain
+1811,C082,HDMI Cable,Electronics,2,14.87,2025-03-09,Credit Card,Italy
+1812,C029,Fitness Tracker,Electronics,1,80.1,2025-01-16,Bank Transfer,Spain
+1813,C091,Monitor Stand,Office,3,54.41,2025-01-31,Bank Transfer,Netherlands
+1814,C022,Coffee Mug,Home,4,12.17,2025-01-19,PayPal,Netherlands
+1815,C037,Notebook Set,Office,2,9.65,2025-06-08,Credit Card,Germany
+1816,C121,Running Shoes,Sports,1,92.19,2025-06-16,Debit Card,Netherlands
+1817,C107,Water Bottle,Sports,4,19.72,2025-02-28,Debit Card,Italy
+1818,C208,Water Bottle,Sports,3,15.98,2025-02-12,Debit Card,Greece
+1819,C161,Monitor Stand,Office,3,58.27,2025-06-23,PayPal,Greece
+1820,C228,Tennis Racket,Sports,1,66.32,2025-02-20,Bank Transfer,Greece
+1821,C185,Scented Candle,Home,2,11.79,2025-02-24,Credit Card,Greece
+1822,C108,USB-C Cable,Electronics,1,16.35,2025-05-16,Bank Transfer,Spain
+1823,C035,Protein Powder,Sports,1,39.19,2025-04-04,Bank Transfer,Spain
+1824,C083,Laptop Sleeve,Electronics,3,30.93,2025-06-21,Credit Card,Spain
+1825,C147,Bluetooth Speaker,Electronics,2,58.79,2025-03-12,Debit Card,Germany
+1826,C025,Coffee Mug,Home,3,8.8,2025-06-21,Credit Card,Germany
+1827,C169,Resistance Bands,Sports,3,21.62,2025-05-13,PayPal,Germany
+1828,C038,Desk Organizer,Office,1,23.34,2025-04-23,,Germany
+1829,C163,Running Shoes,Sports,2,86.99,2025-02-25,Bank Transfer,France
+1830,C220,Monitor Stand,Office,2,59.94,2025-06-24,Bank Transfer,Spain
+1831,C068,Laptop Sleeve,Electronics,4,33.14,2025-02-14,PayPal,Netherlands
+1832,C087,Water Bottle,Sports,3,15.65,2025-04-12,Bank Transfer,Italy
+1833,C220,Mechanical Keyboard,Electronics,5,120.41,2025-03-23,Credit Card,FR
+1834,C140,Desk Lamp,Home,1,42.96,2025-03-14,Bank Transfer,Greece
+1835,C033,Monitor Stand,Office,3,59.87,2025-05-10,Bank Transfer,Italy
+1836,C222,Scented Candle,Home,2,15.72,2025-04-26,Debit Card,Germany
+1837,C005,Bluetooth Speaker,Electronics,3,63.87,2025-05-29,Debit Card,Italy
+1838,C205,Laptop Sleeve,Electronics,3,34.57,2025-06-02,Debit Card,Netherlands
+1839,C096,Water Bottle,Sports,1,17.07,2025-07-08,Debit Card,Netherlands
+1840,C216,Desk Lamp,Home,5,44.23,2025-06-20,Bank Transfer,Germany
+1841,C243,Coffee Mug,Home,3,10.73,2025-04-24,Bank Transfer,Spain
+1842,C241,Resistance Bands,Sports,1,23.45,2025-02-03,PayPal,Netherlands
+1843,C237,Protein Powder,Sports,5,33.11,2025-02-01,Credit Card,Spain
+1844,C042,Notebook Set,Office,4,10.23,2025-02-24,Bank Transfer,Spain
+1845,C090,USB-C Cable,Electronics,2,10.49,2025-03-26,Debit Card,Spain
+1846,C242,Desk Lamp,Home,2,44.2,2025-05-08,Debit Card,Netherlands
+1847,C164,Yoga Mat,Sports,5,36.79,2025-04-04,Credit Card,Netherlands
+1848,C113,Resistance Bands,Sports,1,19.56,2025-06-02,Bank Transfer,Germany
+1849,C234,Mechanical Keyboard,Electronics,3,117.9,2025-01-25,Bank Transfer,France
+1850,C150,Water Bottle,Sports,4,12.82,2025-03-30,Debit Card,Italy
+1851,C155,Protein Powder,Sports,3,39.7,2025-03-17,Bank Transfer,Netherlands
+1852,C164,Yoga Mat,Sports,3,36.06,2025-03-26,PayPal,Netherlands
+1853,C215,Phone Case,Electronics,3,22.69,2025-02-05,Credit Card,Greece
+1854,C150,Tennis Racket,Sports,2,64.13,2025-06-15,Bank Transfer,Netherlands
+1855,C212,Tennis Racket,Sports,5,66.15,2025-06-19,Bank Transfer,Italy
+1856,C098,Running Shoes,Sports,5,87.66,2025-02-11,Credit Card,Italy
+1857,C062,Monitor Stand,Office,,57.75,2025-07-06,Bank Transfer,Spain
+1858,C166,Fitness Tracker,Electronics,4,83.41,2025-06-10,Credit Card,Spain
+1859,C200,HDMI Cable,Electronics,1,17.03,2025-03-11,Debit Card,Greece
+1860,C075,HDMI Cable,Electronics,1,18.54,2025-05-11,PayPal,France
+1861,C250,Notebook Set,Office,3,9.17,2025-05-09,Credit Card,France
+1862,C068,Water Bottle,Sports,2,15.21,2025-06-06,PayPal,Netherlands
+1863,C209,Water Bottle,Sports,4,16.93,2025-02-06,PayPal,France
+1864,C215,Notebook Set,Office,3,6.22,2025-04-03,Credit Card,Netherlands
+1865,C160,Tennis Racket,Sports,2,68.85,2025-04-22,Debit Card,France
+1866,C087,Fitness Tracker,Electronics,3,77.03,2025-02-24,Debit Card,France
+1867,C080,Scented Candle,Home,5,13.95,2025-03-31,Debit Card,Spain
+1868,C024,USB-C Cable,Electronics,5,10.67,2025-07-03,Bank Transfer,France
+1869,C091,Coffee Mug,Home,2,13.51,2025-04-23,Credit Card,Netherlands
+1870,c076,Protein Powder,Sports,5,35.53,2025-02-05,PayPal,Germany
+1871,C141,Desk Lamp,Home,3,48.67,2025-01-21,Bank Transfer,Germany
+1872,C063,Notebook Set,Office,4,5.6,2025-06-29,Debit Card,Germany
+1873,C006,Protein Powder,Sports,4,36.4,2025-05-07,Bank Transfer,Italy
+1874,C106,Water Bottle,Sports,5,16.6,2025-06-12,Bank Transfer,Netherlands
+1875,C100,Phone Case,Electronics,3,19.91,2025-03-23,Bank Transfer,France
+1876,C061,Mechanical Keyboard,Electronics,5,118.08,2025-04-16,Credit Card,Netherlands
+1877,C180,Notebook Set,Office,5,13.35,2025-06-12,Debit Card,Greece
+1878,C130,Tennis Racket,Sports,5,63.82,2025-04-05,Credit Card,Italy
+1879,C180,Laptop Sleeve,Electronics,2,33.68,2025-05-14,PayPal,Italy
+1880,C113,Tennis Racket,Sports,5,62.18,2025-05-06,Credit Card,Germany
+1881,C167,Running Shoes,Sports,3,92.36,2025-05-17,Debit Card,Greece
+1882,C185,Phone Case,Electronics,5,21.77,2025-03-20,Credit Card,Netherlands
+1883,C196,Desk Lamp,Home,4,46.31,2025-03-11,Bank Transfer,France
+1884,C085,Notebook Set,Office,5,11.63,2025-05-25,Bank Transfer,Germany
+1885,C151,Mechanical Keyboard,Electronics,1,123.04,2025-06-20,Credit Card,Netherlands
+1886,C199,USB-C Cable,Electronics,5,10.79,2025-01-31,Bank Transfer,Netherlands
+1887,C154,Water Bottle,Sports,2,12.96,2025-01-22,Bank Transfer,Netherlands
+1888,C243,Coffee Mug,Home,5,10.04,2025-07-13,Bank Transfer,Spain
+1889,C217,Mechanical Keyboard,Electronics,2,118.42,2025-02-08,PayPal,France
+1890,C065,Tennis Racket,Sports,1,63.6,2025-03-03,PayPal,Spain
+1891,C166,USB-C Cable,Electronics,3,11.56,2025-05-10,Credit Card,Italy
+1892,C016,Laptop Sleeve,Electronics,1,28.34,2025-07-08,PayPal,Greece
+1893,C136,Wireless Mouse,Electronics,1,23.21,2025-04-08,Bank Transfer,France
+1894,C145,Monitor Stand,Office,1,56.97,2025-02-28,Debit Card,Netherlands
+1895,C056,Monitor Stand,Office,1,54.99,2025-07-08,Debit Card,Italy
+1896,C113,Water Bottle,Sports,5,16.98,2025-02-22,Bank Transfer,Greece
+1897,C228,Yoga Mat,Sports,3,37.46,2025-03-30,Credit Card,France
+1898,C043,Yoga Mat,Sports,4,39.36,2025-03-05,Debit Card,Italy
+1899,C238,Laptop Sleeve,Electronics,4,31.43,2025-05-09,Credit Card,Netherlands
+1900,C094,Desk Lamp,Home,2,42.33,2025-05-20,Debit Card,Spain
+1901,C236,Tennis Racket,Sports,5,67.24,2025-02-09,Credit Card,Netherlands
+1902,C145,Desk Organizer,Office,5,20.65,2025-05-28,Bank Transfer,Italy
+1903,C035,Fitness Tracker,Electronics,2,80.38,2025-03-30,Bank Transfer,Spain
+1904,C007,Tennis Racket,Sports,1,65.11,2025-04-07,Bank Transfer,Italy
+1905,C202,Resistance Bands,Sports,1,26.57,2025-05-30,Credit Card,Germany
+1906,C151,Desk Organizer,Office,5,15.88,2025-02-28,PayPal,NE
+1907,C248,Resistance Bands,Sports,4,19.42,2025-03-04,PayPal,Italy
+1908,C224,HDMI Cable,Electronics,5,14.96,2025-05-29,Debit Card,Italy
+1909,C234,Bluetooth Speaker,Electronics,1,62.69,2025-05-12,Debit Card,Germany
+1910,C053,Tennis Racket,Sports,2,69.38,2025-06-10,Credit Card,Greece
+1911,C177,Yoga Mat,Sports,3,38.51,2025-01-16,Debit Card,Netherlands
+1912,C046,Coffee Mug,Home,2,8.24,2025-04-20,Bank Transfer,Greece
+1913,C160,Phone Case,Electronics,4,24.51,2025-07-08,PayPal,Germany
+1914,C234,Phone Case,Electronics,4,23.58,2025-07-10,Credit Card,Spain
+1915,c216,Bluetooth Speaker,Electronics,4,62.53,2025-03-20,Credit Card,Netherlands
+1916,C197,Fitness Tracker,Electronics,2,82.0,2025-07-03,Debit Card,Greece
+1917,C231,Tennis Racket,Sports,1,69.55,2025-03-02,PayPal,Germany
+1918,C175,Coffee Mug,Home,3,13.83,2025-06-01,PayPal,France
+1919,C195,Yoga Mat,Sports,4,38.77,2025-03-07,Credit Card,Italy
+1920,C133,Running Shoes,Sports,4,88.73,2025-05-17,Credit Card,Greece
+1921,C048,USB-C Cable,Electronics,1,12.47,2025-03-17,Bank Transfer,Italy
+1922,c114,Protein Powder,Sports,1,37.79,2025-07-03,Debit Card,Germany
+1923,C004,Desk Lamp,Home,3,45.7,2025-03-20,Debit Card,France
+1924,C015,Coffee Mug,Home,4,7.5,2025-02-23,PayPal,Italy
+1925,C050,Mechanical Keyboard,Electronics,4,123.75,2025-01-21,Bank Transfer,Greece
+1926,C074,Laptop Sleeve,Electronics,2,27.88,2025-02-20,PayPal,Greece
+1927,C133,Laptop Sleeve,Electronics,1,34.45,2025-06-22,Debit Card,Netherlands
+1928,C037,Yoga Mat,Sports,2,36.5,2025-01-16,Bank Transfer,Greece
+1929,C197,Desk Organizer,Office,1,19.86,2025-03-13,,Italy
+1930,C211,Tennis Racket,Sports,5,67.48,2025-06-29,Bank Transfer,France
+1931,C234,Notebook Set,Office,4,13.34,2025-06-20,PayPal,France
+1932,C123,Desk Lamp,Home,4,43.16,2025-06-01,PayPal,Germany
+1933,C045,Coffee Mug,Home,3,7.16,2025-02-25,PayPal,Netherlands
+1934,C037,Running Shoes,Sports,4,87.9,2025-04-30,Debit Card,Spain
+1935,C054,Coffee Mug,Home,4,10.61,2025-05-01,Bank Transfer,Netherlands
+1936,C119,Monitor Stand,Office,3,57.79,2025-04-08,Bank Transfer,Germany
+1937,C056,Bluetooth Speaker,Electronics,5,61.38,2025-03-05,PayPal,Spain
+1938,C105,Monitor Stand,Office,3,55.76,2025-03-10,Bank Transfer,Germany
+1939,C116,Resistance Bands,Sports,5,20.74,2025-04-30,Credit Card,Germany
+1940,C041,Coffee Mug,Home,5,7.18,2025-05-05,Debit Card,Spain
+1941,C146,Water Bottle,Sports,3,15.22,2025-07-08,Debit Card,Netherlands
+1942,C051,Desk Lamp,Home,4,48.94,2025-04-06,Bank Transfer,Germany
+1943,C239,Tennis Racket,Sports,3,62.78,2025-06-20,Credit Card,Netherlands
+1944,C006,Wireless Mouse,Electronics,1,30.44,2025-04-09,Credit Card,France
+1945,C191,Desk Lamp,Home,2,46.99,2025-04-03,Credit Card,France
+1946,C232,Fitness Tracker,Electronics,4,79.33,2025-04-11,Debit Card,France
+1947,C041,Desk Lamp,Home,2,49.28,2025-05-01,Credit Card,Italy
+1948,C144,Laptop Sleeve,Electronics,4,33.77,2025-07-13,PayPal,Netherlands
+1949,C030,Desk Lamp,Home,4,49.04,2025-02-08,Credit Card,Germany
+1950,C123,Water Bottle,Sports,1,16.68,2025-06-14,PayPal,Spain
+1951,C229,Wireless Mouse,Electronics,4,30.89,2025-07-05,PayPal,France
+1952,C018,Water Bottle,Sports,2,15.15,2025-06-23,PayPal,Netherlands
+1953,C240,Bluetooth Speaker,Electronics,3,61.81,2025-03-30,Credit Card,France
+1954,C005,Protein Powder,Sports,5,38.8,2025-05-01,Debit Card,France
+1955,C072,Scented Candle,Home,1,9.42,2025-05-20,PayPal,Germany
+1956,C079,Phone Case,Electronics,4,19.17,2025-05-05,PayPal,Greece
+1957,C169,Fitness Tracker,Electronics,1,83.88,2025-04-10,Credit Card,Germany
+1958,C003,Desk Organizer,Office,1,22.74,2025-04-02,Bank Transfer,Germany
+1959,C010,Phone Case,Electronics,4,23.82,2025-04-10,PayPal,Italy
+1960,C105,Mechanical Keyboard,Electronics,2,118.54,2025-04-13,PayPal,Italy
+1961,C022,Fitness Tracker,Electronics,1,84.07,2025-07-04,PayPal,IT
+1962,C033,Yoga Mat,Sports,2,32.52,2025-02-03,Debit Card,France
+1963,C061,USB-C Cable,Electronics,1,15.96,2025-01-17,Credit Card,Netherlands
+1964,C159,USB-C Cable,Electronics,2,16.49,2025-06-13,Bank Transfer,Netherlands
+1965,C028,Protein Powder,Sports,1,39.33,2025-01-29,Debit Card,Germany
+1966,c048,USB-C Cable,Electronics,1,11.36,2025-01-15,Bank Transfer,Netherlands
+1967,C021,Coffee Mug,Home,3,13.53,2025-06-24,Debit Card,Spain
+1968,C127,Protein Powder,Sports,2,37.4,2025-05-15,PayPal,Netherlands
+1969,C016,Fitness Tracker,Electronics,2,78.31,2025-05-24,Credit Card,Greece
+1970,C037,Laptop Sleeve,Electronics,5,33.08,2025-03-04,Credit Card,Netherlands
+1971,C218,Mechanical Keyboard,Electronics,2,123.69,2025-02-25,Bank Transfer,Netherlands
+1972,C106,Scented Candle,Home,3,15.6,2025-03-11,Bank Transfer,France
+1973,C136,Wireless Mouse,Electronics,3,23.48,2025-03-28,Debit Card,Greece
+1974,C232,Running Shoes,Sports,5,93.02,2025-05-05,Credit Card,Netherlands
+1975,C004,USB-C Cable,Electronics,3,14.95,2025-06-14,PayPal,Netherlands
+1976,C017,Desk Organizer,Office,3,21.44,2025-04-06,Bank Transfer,France
+1977,c128,Resistance Bands,Sports,4,23.7,2025-04-05,Debit Card,Germany
+1978,C091,HDMI Cable,Electronics,4,15.7,2025-05-13,PayPal,Spain
+1979,C116,Desk Lamp,Home,2,48.99,2025-04-23,Bank Transfer,Greece
+1980,C098,Desk Lamp,Home,4,48.33,2025-04-18,Credit Card,Spain
+1981,C045,Desk Lamp,Home,5,42.13,2025-03-03,Debit Card,Greece
+1982,C070,Mechanical Keyboard,Electronics,2,118.27,2025-01-20,Bank Transfer,Spain
+1983,C219,Laptop Sleeve,Electronics,3,31.84,2025-03-14,Debit Card,Spain
+1984,C112,Water Bottle,Sports,4,19.69,2025-07-04,Credit Card,France
+1985,C083,Tennis Racket,Sports,5,66.15,2025-03-30,Debit Card,Germany
+1986,C056,HDMI Cable,Electronics,4,13.26,2025-01-18,PayPal,Netherlands
+1987,C176,Protein Powder,Sports,4,33.03,2025-06-20,Credit Card,Italy
+1988,C186,Monitor Stand,Office,2,52.14,2025-04-19,Bank Transfer,Greece
+1989,C064,Bluetooth Speaker,Electronics,3,62.06,2025-07-10,Debit Card,France
+1990,C122,Phone Case,Electronics,5,18.55,2025-04-12,PayPal,Netherlands
+1991,C083,Desk Organizer,Office,2,19.41,2025-06-15,Debit Card,Germany
+1992,C005,Mechanical Keyboard,Electronics,5,121.99,2025-02-08,Bank Transfer,Germany
+1993,C126,Fitness Tracker,Electronics,5,80.02,2025-03-24,Credit Card,Spain
+1994,C198,Phone Case,Electronics,2,18.96,2025-04-18,Credit Card,Spain
+1995,C084,Monitor Stand,Office,5,59.65,2025-05-18,Debit Card,France
+1996,C081,Protein Powder,Sports,5,36.83,2025-03-07,Debit Card,Italy
+1997,C016,Bluetooth Speaker,Electronics,5,63.32,2025-05-24,PayPal,Germany
+1998,C210,Wireless Mouse,Electronics,3,25.36,2025-03-22,Debit Card,GE
+1999,C165,HDMI Cable,Electronics,1,15.56,2025-04-19,Bank Transfer,Germany
+2000,C041,Protein Powder,Sports,4,35.64,2025-04-05,Credit Card,France
