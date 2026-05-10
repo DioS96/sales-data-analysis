@@ -77,3 +77,6 @@ The dataset contains transactional sales information such as:
 ## Author
 
 Created by DioS96
+
+## Development Note
+This project is currently under active development and improvements are ongoing.
