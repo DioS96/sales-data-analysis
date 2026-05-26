@@ -33,20 +33,23 @@ Key features include:
 
 ## Project Structure
 
+```
 sales-data-analysis/
 │
-├── services                                        # Core utility and API function
-│   ├── __init__.py                             
+├── services/                             # Core utility and API functions
+│   ├── __init__.py
 │   ├── api.py
-│   ├── functions.py
-├── tests                                           # Unit tests
-│   ├── test_functions.py
-├── dummy_json_analysis_visualization.ipynb         # Data analysis & visualization of Dummy Json data. 
-├── mock_data_analysis_visualization.ipynb          # Data analysis & visualization of mock data.
-├── mock_ecommerce_dataset_2000_rows.csv             
+│   └── functions.py
+│
+├── tests/                                # Unit tests
+│   └── test_functions.py
+│
+├── dummy_json_analysis_visualization.ipynb   # Analysis & visualization of DummyJSON data
+├── mock_data_analysis_visualization.ipynb    # Analysis & visualization of mock transactional data
+├── mock_ecommerce_dataset_2000_rows.csv      # Mock e-commerce transactional dataset
 ├── README.md
-├── requirements.txt.                               # Project dependencies
-
+└── requirements.txt                      # Project dependencies
+```
 ## Installation - How to build
 Open a terminal (Command Prompt or PowerShell for Windows, Terminal for macOS or Linux)
 
